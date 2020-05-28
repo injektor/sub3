@@ -1,0 +1,3000 @@
+1
+00:00:16,599 --> 00:00:18,359
+<font color="yellow">The engine is completely burned. It's not working at all.</font>
+
+2
+00:00:19,529 --> 00:00:21,359
+<font color="yellow">I'm in here! Please help me!</font>
+
+3
+00:00:22,129 --> 00:00:25,099
+<font color="yellow">- Let's follow the emergency action. - Roger. Mayday. Mayday.</font>
+
+4
+00:00:33,699 --> 00:00:35,169
+<font color="yellow">What is going on, seriously?</font>
+
+5
+00:00:35,169 --> 00:00:37,529
+<font color="yellow">- Ki Joon! - Ji Ah!</font>
+
+6
+00:00:40,899 --> 00:00:43,259
+<font color="yellow">Stay right here for a few minutes. I'll find out what's going on.</font>
+
+7
+00:00:43,259 --> 00:00:45,729
+<font color="yellow">HL0079. We're in a dive!</font>
+
+8
+00:00:45,729 --> 00:00:48,159
+<font color="yellow">You jerks, our plane is crashing.</font>
+
+9
+00:02:34,829 --> 00:02:35,899
+<font color="yellow">Mom.</font>
+
+10
+00:02:36,359 --> 00:02:37,929
+<font color="yellow">Can I stop diving?</font>
+
+11
+00:02:38,929 --> 00:02:41,999
+<font color="yellow">I don't have to be a diver just because you are.</font>
+
+12
+00:02:42,599 --> 00:02:44,799
+<font color="yellow">- You can quit. - Seriously?</font>
+
+13
+00:02:47,329 --> 00:02:49,399
+<font color="yellow">Won't you try to convince me otherwise?</font>
+
+14
+00:02:49,659 --> 00:02:51,859
+<font color="yellow">I've never wanted you to live...</font>
+
+15
+00:02:52,129 --> 00:02:54,129
+<font color="yellow">the way that I do.</font>
+
+16
+00:02:55,359 --> 00:02:57,399
+<font color="yellow">You should do what you want in life.</font>
+
+17
+00:02:57,559 --> 00:03:00,129
+<font color="yellow">Why did you make me go in the sea when it's so cold?</font>
+
+18
+00:03:00,129 --> 00:03:01,759
+<font color="yellow">You always make me catch seafood.</font>
+
+19
+00:03:06,329 --> 00:03:08,599
+<font color="yellow">This is the only thing I can give you.</font>
+
+20
+00:03:09,999 --> 00:03:13,129
+<font color="yellow">I don't have enough to support the rest of your life.</font>
+
+21
+00:03:13,329 --> 00:03:15,799
+<font color="yellow">The least I can do is teach you how to make a living...</font>
+
+22
+00:03:16,059 --> 00:03:17,099
+<font color="yellow">as a parent.</font>
+
+23
+00:03:18,129 --> 00:03:19,499
+<font color="yellow">Do what you want.</font>
+
+24
+00:03:19,729 --> 00:03:22,229
+<font color="yellow">If it's too difficult, you can always come back here.</font>
+
+25
+00:03:22,999 --> 00:03:24,629
+<font color="yellow">I'll still be here.</font>
+
+26
+00:05:09,899 --> 00:05:11,469
+<font color="yellow">Joon Oh.</font>
+
+27
+00:05:11,899 --> 00:05:14,499
+<font color="yellow">Joon Oh, wake up.</font>
+
+28
+00:05:14,659 --> 00:05:17,729
+<font color="yellow">Wake up, Joon Oh!</font>
+
+29
+00:05:23,469 --> 00:05:24,459
+<font color="yellow">Come on, Joon Oh.</font>
+
+30
+00:05:29,829 --> 00:05:32,729
+<font color="yellow">No, please wake up, Joon Oh.</font>
+
+31
+00:05:43,129 --> 00:05:45,559
+<font color="yellow">Joon Oh, are you awake?</font>
+
+32
+00:05:50,299 --> 00:05:51,299
+<font color="yellow">Where is everyone?</font>
+
+33
+00:06:01,759 --> 00:06:02,829
+<font color="yellow">Joon Oh!</font>
+
+34
+00:06:03,399 --> 00:06:05,199
+<font color="yellow">No, Joon Oh.</font>
+
+35
+00:06:05,199 --> 00:06:07,559
+<font color="yellow">Please wake up, Joon Oh.</font>
+
+36
+00:06:08,129 --> 00:06:09,929
+<font color="yellow">Joon Oh!</font>
+
+37
+00:06:10,859 --> 00:06:13,599
+<font color="yellow">Wake up, please.</font>
+
+38
+00:07:25,459 --> 00:07:26,459
+<font color="yellow">Here's some water.</font>
+
+39
+00:07:32,259 --> 00:07:34,759
+<font color="yellow">No, don't drink it.</font>
+
+40
+00:07:37,629 --> 00:07:38,899
+<font color="yellow">You can't drink it yet.</font>
+
+41
+00:07:39,159 --> 00:07:40,229
+<font color="yellow">What is it?</font>
+
+42
+00:07:40,599 --> 00:07:42,059
+<font color="yellow">Where did you come from?</font>
+
+43
+00:07:42,699 --> 00:07:44,129
+<font color="yellow">Where are we?</font>
+
+44
+00:07:44,859 --> 00:07:46,829
+<font color="yellow">Why can't I drink it?</font>
+
+45
+00:07:49,329 --> 00:07:50,399
+<font color="yellow">Why not?</font>
+
+46
+00:07:51,699 --> 00:07:53,859
+<font color="yellow">Where on earth are we?</font>
+
+47
+00:07:54,999 --> 00:07:57,059
+<font color="yellow">Hey, where are we?</font>
+
+48
+00:07:57,859 --> 00:07:59,699
+<font color="yellow">You seem fine enough to yell.</font>
+
+49
+00:07:59,829 --> 00:08:01,129
+<font color="yellow">Wait here for a minute.</font>
+
+50
+00:08:01,699 --> 00:08:02,999
+<font color="yellow">Don't touch those.</font>
+
+51
+00:08:03,159 --> 00:08:05,799
+<font color="yellow">Where are you going? Hey, hey!</font>
+
+52
+00:09:05,399 --> 00:09:06,799
+<font color="yellow">The plane crashed!</font>
+
+53
+00:09:08,399 --> 00:09:11,159
+<font color="yellow">I seem completely fine.</font>
+
+54
+00:09:13,829 --> 00:09:15,699
+<font color="yellow">Gosh, what's this?</font>
+
+55
+00:09:16,229 --> 00:09:18,499
+<font color="yellow">Is... Is this the engine?</font>
+
+56
+00:09:18,829 --> 00:09:20,659
+<font color="yellow">Gosh, that was hot.</font>
+
+57
+00:09:36,859 --> 00:09:37,929
+<font color="yellow">Ki Joon!</font>
+
+58
+00:09:37,929 --> 00:09:39,899
+<font color="yellow">Yeol, Ji Ah.</font>
+
+59
+00:09:39,929 --> 00:09:40,999
+<font color="yellow">Where's my phone?</font>
+
+60
+00:09:41,399 --> 00:09:43,529
+<font color="yellow">The plane just crashed.</font>
+
+61
+00:09:43,999 --> 00:09:45,329
+<font color="yellow">Come on.</font>
+
+62
+00:09:48,229 --> 00:09:49,299
+<font color="yellow">Darn it!</font>
+
+63
+00:10:35,599 --> 00:10:36,659
+<font color="yellow">Oh, no.</font>
+
+64
+00:10:51,999 --> 00:10:52,999
+<font color="yellow">My goodness.</font>
+
+65
+00:11:00,459 --> 00:11:01,499
+<font color="yellow">Where are we?</font>
+
+66
+00:11:19,959 --> 00:11:21,399
+<font color="yellow">(Episode 2)</font>
+
+67
+00:11:21,399 --> 00:11:23,929
+<font color="yellow">According to the doctor, due to meningitis,</font>
+
+68
+00:11:23,959 --> 00:11:26,099
+<font color="yellow">she has a temporary memory loss.</font>
+
+69
+00:11:27,259 --> 00:11:29,729
+<font color="yellow">To retrieve her memory as soon as possible,</font>
+
+70
+00:11:29,729 --> 00:11:32,129
+<font color="yellow">- I'll do anything... - Investigator Oh.</font>
+
+71
+00:11:35,329 --> 00:11:37,099
+<font color="yellow">Doesn't she seem too calm?</font>
+
+72
+00:11:38,259 --> 00:11:40,829
+<font color="yellow">She expresses her opinions and feelings without a problem.</font>
+
+73
+00:11:41,329 --> 00:11:43,759
+<font color="yellow">It doesn't seem like she went through a traumatic experience.</font>
+
+74
+00:11:43,759 --> 00:11:45,359
+<font color="yellow">She speaks very clearly.</font>
+
+75
+00:11:45,829 --> 00:11:46,929
+<font color="yellow">She's way too calm.</font>
+
+76
+00:11:47,699 --> 00:11:50,129
+<font color="yellow">Whether it's medication or hypnosis,</font>
+
+77
+00:11:50,499 --> 00:11:52,159
+<font color="yellow">we have to take every measure possible.</font>
+
+78
+00:11:52,799 --> 00:11:54,029
+<font color="yellow">Yes, Ma'am. I got it.</font>
+
+79
+00:11:58,499 --> 00:11:59,559
+<font color="yellow">Let's go.</font>
+
+80
+00:12:13,459 --> 00:12:15,699
+<font color="yellow">- Be careful! - Yes. I'm coming.</font>
+
+81
+00:12:43,599 --> 00:12:44,659
+<font color="yellow">Hurry up and go.</font>
+
+82
+00:13:08,959 --> 00:13:10,029
+<font color="yellow">Ms. Ra Bong Hee.</font>
+
+83
+00:13:13,759 --> 00:13:16,729
+<font color="yellow">Gosh. Could you come with us for a minute?</font>
+
+84
+00:13:17,129 --> 00:13:18,329
+<font color="yellow">Someone wants to see you.</font>
+
+85
+00:13:20,259 --> 00:13:21,299
+<font color="yellow">Who is it?</font>
+
+86
+00:13:21,299 --> 00:13:23,299
+<font color="yellow">- It won't take long. - Please come this way.</font>
+
+87
+00:13:23,999 --> 00:13:25,629
+<font color="yellow">- What are you doing? - Come on.</font>
+
+88
+00:13:25,629 --> 00:13:27,999
+<font color="yellow">- You'll find out soon. - Who are you?</font>
+
+89
+00:13:27,999 --> 00:13:29,899
+<font color="yellow">- Gosh. Don't use force on her. - Let go of me.</font>
+
+90
+00:13:29,899 --> 00:13:31,329
+<font color="yellow">- She's feisty. - Let me go.</font>
+
+91
+00:13:31,329 --> 00:13:32,329
+<font color="yellow">What are you doing?</font>
+
+92
+00:13:35,199 --> 00:13:37,899
+<font color="yellow">- Who are you? - Well... We are...</font>
+
+93
+00:13:38,099 --> 00:13:39,629
+<font color="yellow">Whom should we say we are?</font>
+
+94
+00:13:39,629 --> 00:13:41,499
+<font color="yellow">- I asked you who you were. - We are...</font>
+
+95
+00:13:42,059 --> 00:13:44,229
+<font color="yellow">here to see the mudflat.</font>
+
+96
+00:13:45,999 --> 00:13:49,199
+<font color="yellow">That's right. We heard that octopus is great for health.</font>
+
+97
+00:13:49,199 --> 00:13:50,299
+<font color="yellow">We thought we'd catch some...</font>
+
+98
+00:13:50,299 --> 00:13:51,329
+<font color="yellow">Bong Hee!</font>
+
+99
+00:13:51,599 --> 00:13:53,259
+<font color="yellow">- Get her! - Hey!</font>
+
+100
+00:13:54,199 --> 00:13:55,259
+<font color="yellow">- Stop! - Bong Hee!</font>
+
+101
+00:13:58,159 --> 00:13:59,229
+<font color="yellow">Gosh.</font>
+
+102
+00:13:59,529 --> 00:14:00,529
+<font color="yellow">She's there.</font>
+
+103
+00:14:01,429 --> 00:14:02,659
+<font color="yellow">- Stop! - Get her!</font>
+
+104
+00:14:08,099 --> 00:14:10,199
+<font color="yellow">- Go and stop her! - Sir.</font>
+
+105
+00:14:10,959 --> 00:14:11,959
+<font color="yellow">Wait!</font>
+
+106
+00:14:17,229 --> 00:14:18,229
+<font color="yellow">- Wait. - Hey!</font>
+
+107
+00:14:18,759 --> 00:14:20,899
+<font color="yellow">My gosh. Give me my jacket!</font>
+
+108
+00:14:21,199 --> 00:14:24,499
+<font color="yellow">- I told you to come right away! - That's why I'm here!</font>
+
+109
+00:14:24,499 --> 00:14:25,559
+<font color="yellow">My goodness.</font>
+
+110
+00:14:27,259 --> 00:14:29,829
+<font color="yellow">You punk! Come here!</font>
+
+111
+00:14:29,829 --> 00:14:32,459
+<font color="yellow">- You jerk! Come here. - Who are these punks?</font>
+
+112
+00:14:32,459 --> 00:14:33,999
+<font color="yellow">- What did you just do? - Gosh.</font>
+
+113
+00:14:34,399 --> 00:14:35,859
+<font color="yellow">- Gosh. - Bong Hee!</font>
+
+114
+00:15:22,899 --> 00:15:24,829
+<font color="yellow">No... Joon Oh!</font>
+
+115
+00:15:50,829 --> 00:15:53,999
+<font color="yellow">- What happened here? - You jerk!</font>
+
+116
+00:15:53,999 --> 00:15:56,699
+<font color="yellow">- Hey. Let's go. Hurry! - Run.</font>
+
+117
+00:15:58,529 --> 00:15:59,599
+<font color="yellow">And?</font>
+
+118
+00:16:01,259 --> 00:16:02,259
+<font color="yellow">What?</font>
+
+119
+00:16:05,699 --> 00:16:06,699
+<font color="yellow">Fine.</font>
+
+120
+00:16:20,959 --> 00:16:22,099
+<font color="yellow">Yes, Sir.</font>
+
+121
+00:16:26,459 --> 00:16:27,459
+<font color="yellow">Here you go.</font>
+
+122
+00:16:28,359 --> 00:16:31,699
+<font color="yellow">- What's going on? - What happened?</font>
+
+123
+00:16:31,699 --> 00:16:33,899
+<font color="yellow">Bong Hee. Are you all right?</font>
+
+124
+00:16:34,129 --> 00:16:36,159
+<font color="yellow">- Are you okay? - Is anyone hurt?</font>
+
+125
+00:16:38,799 --> 00:16:39,799
+<font color="yellow">Yes.</font>
+
+126
+00:16:48,459 --> 00:16:50,759
+<font color="yellow">Why did it have to be the plane I was on?</font>
+
+127
+00:16:51,159 --> 00:16:52,229
+<font color="yellow">Why!</font>
+
+128
+00:16:54,099 --> 00:16:55,959
+<font color="yellow">Why did you crash so easily?</font>
+
+129
+00:16:56,999 --> 00:16:58,359
+<font color="yellow">You're an expensive jet!</font>
+
+130
+00:16:59,499 --> 00:17:00,629
+<font color="yellow">You idiot!</font>
+
+131
+00:17:08,959 --> 00:17:11,699
+<font color="yellow">Gosh. Why can't I eat them?</font>
+
+132
+00:17:16,599 --> 00:17:17,699
+<font color="yellow">Goodness.</font>
+
+133
+00:17:33,959 --> 00:17:35,129
+<font color="yellow">Is anyone out there?</font>
+
+134
+00:17:49,859 --> 00:17:52,229
+<font color="yellow">What? Were these yours?</font>
+
+135
+00:17:52,899 --> 00:17:53,959
+<font color="yellow">Give it back.</font>
+
+136
+00:17:54,799 --> 00:17:55,859
+<font color="yellow">Give it back.</font>
+
+137
+00:17:56,229 --> 00:17:57,269
+<font color="yellow">I'll buy you one later.</font>
+
+138
+00:17:58,529 --> 00:18:01,359
+<font color="yellow">Give it back! I said give it back to me!</font>
+
+139
+00:18:01,899 --> 00:18:04,729
+<font color="yellow">Gosh. I just drank a little water. What's wrong with you?</font>
+
+140
+00:18:04,729 --> 00:18:07,159
+<font color="yellow">I told you not to drink it. This is a deserted island!</font>
+
+141
+00:18:07,159 --> 00:18:08,269
+<font color="yellow">When we get out of here...</font>
+
+142
+00:18:10,929 --> 00:18:11,929
+<font color="yellow">What did you just say?</font>
+
+143
+00:18:13,199 --> 00:18:14,299
+<font color="yellow">This is a deserted island.</font>
+
+144
+00:18:15,299 --> 00:18:18,629
+<font color="yellow">Everyone except us is dead. That's the only food we have.</font>
+
+145
+00:18:26,429 --> 00:18:29,429
+<font color="yellow">What did you say? Did you say this was a deserted island?</font>
+
+146
+00:18:29,429 --> 00:18:31,999
+<font color="yellow">The plane crashed, and we're the only survivors?</font>
+
+147
+00:18:31,999 --> 00:18:33,059
+<font color="yellow">Did you check that side?</font>
+
+148
+00:18:37,629 --> 00:18:39,699
+<font color="yellow">What about the others? Have you looked for them?</font>
+
+149
+00:18:39,699 --> 00:18:42,499
+<font color="yellow">What about Ki Joon, Ji Ah, Yeol, and Tae Ho? Did you check over there?</font>
+
+150
+00:18:50,269 --> 00:18:53,129
+<font color="yellow">This is a prank, right? The octopus thing must've been a part of it.</font>
+
+151
+00:18:53,129 --> 00:18:55,859
+<font color="yellow">You're not a stylist, are you? You must be a new actress.</font>
+
+152
+00:18:55,859 --> 00:18:57,229
+<font color="yellow">Where are the cameras?</font>
+
+153
+00:19:11,699 --> 00:19:12,729
+<font color="yellow">What about the others?</font>
+
+154
+00:19:18,499 --> 00:19:20,429
+<font color="yellow">What happened to the others?</font>
+
+155
+00:19:33,899 --> 00:19:35,129
+<font color="yellow">They were not just celebrities.</font>
+
+156
+00:19:35,999 --> 00:19:39,159
+<font color="yellow">They were my family whom I have shared joys and sorrows...</font>
+
+157
+00:19:39,159 --> 00:19:40,299
+<font color="yellow">for many years.</font>
+
+158
+00:19:41,229 --> 00:19:42,229
+<font color="yellow">There is...</font>
+
+159
+00:19:43,199 --> 00:19:44,999
+<font color="yellow">a rumor that this accident...</font>
+
+160
+00:19:45,769 --> 00:19:48,599
+<font color="yellow">is a self-fabricated scenario that our company plotted out.</font>
+
+161
+00:19:48,599 --> 00:19:49,659
+<font color="yellow">I cannot believe this.</font>
+
+162
+00:19:51,329 --> 00:19:53,029
+<font color="yellow">It has been revealed that Ms. Ra, the only survivor of...</font>
+
+163
+00:19:53,029 --> 00:19:55,459
+<font color="yellow">- the accident came back to Korea. - As their fans, we must know...</font>
+
+164
+00:19:55,459 --> 00:19:57,999
+<font color="yellow">The families of Legend Entertainment's artists...</font>
+
+165
+00:19:57,999 --> 00:20:00,399
+<font color="yellow">started to demand for an investigation to find out...</font>
+
+166
+00:20:00,399 --> 00:20:02,659
+<font color="yellow">the truth about the artists' survival.</font>
+
+167
+00:20:03,159 --> 00:20:06,429
+<font color="yellow">At 10am today, the fans of the missing artists demanded for...</font>
+
+168
+00:20:06,429 --> 00:20:09,729
+<font color="yellow">a question and answer session with Ms. Ra,</font>
+
+169
+00:20:09,729 --> 00:20:11,599
+<font color="yellow">the stylist of Mr. Seo Joon Oh...</font>
+
+170
+00:20:11,599 --> 00:20:14,729
+<font color="yellow">to find out the truth of the accident.</font>
+
+171
+00:20:15,099 --> 00:20:17,529
+<font color="yellow">There is a possibility that they might...</font>
+
+172
+00:20:17,529 --> 00:20:20,099
+<font color="yellow">distort Ms. Ra Bong Hee's memories and testimonies...</font>
+
+173
+00:20:20,099 --> 00:20:22,359
+<font color="yellow">for their own profit.</font>
+
+174
+00:20:22,769 --> 00:20:25,159
+<font color="yellow">According to the fan clubs' statement,</font>
+
+175
+00:20:25,159 --> 00:20:26,159
+<font color="yellow">a number of...</font>
+
+176
+00:20:26,159 --> 00:20:28,929
+<font color="yellow">malicious rumors have spread because there hasn't been any clear...</font>
+
+177
+00:20:28,929 --> 00:20:31,229
+<font color="yellow">announcements from the authorities regarding this accident.</font>
+
+178
+00:20:31,829 --> 00:20:32,899
+<font color="yellow">A deserted island.</font>
+
+179
+00:20:34,959 --> 00:20:37,529
+<font color="yellow">A part of her memory came back.</font>
+
+180
+00:20:37,529 --> 00:20:39,859
+<font color="yellow">They were in a deserted island somewhere.</font>
+
+181
+00:20:40,269 --> 00:20:41,999
+<font color="yellow">- Here is the next news. - Are you sure?</font>
+
+182
+00:20:41,999 --> 00:20:43,729
+<font color="yellow">Yes. She says she's sure.</font>
+
+183
+00:20:44,769 --> 00:20:46,899
+<font color="yellow">Bring Bong Hee to the headquarter immediately.</font>
+
+184
+00:20:47,769 --> 00:20:48,829
+<font color="yellow">Yes, Ma'am.</font>
+
+185
+00:20:58,859 --> 00:21:00,029
+<font color="yellow">Why are you refusing to do it?</font>
+
+186
+00:21:00,899 --> 00:21:02,899
+<font color="yellow">Tae Young. We got an order...</font>
+
+187
+00:21:03,459 --> 00:21:06,299
+<font color="yellow">to investigate on this case directly from the executives.</font>
+
+188
+00:21:06,529 --> 00:21:08,329
+<font color="yellow">If we handle it well, you and I will...</font>
+
+189
+00:21:08,329 --> 00:21:10,599
+<font color="yellow">I have something else to do. I'm sorry.</font>
+
+190
+00:21:13,459 --> 00:21:14,659
+<font color="yellow">Is it because of your sister?</font>
+
+191
+00:21:16,029 --> 00:21:17,299
+<font color="yellow">If a wrong rumor spreads...</font>
+
+192
+00:21:17,299 --> 00:21:20,429
+<font color="yellow">I won't cause any trouble. I'm working with Prosecutor Cho.</font>
+
+193
+00:21:20,429 --> 00:21:21,699
+<font color="yellow">Do you think she is still alive?</font>
+
+194
+00:21:27,229 --> 00:21:28,799
+<font color="yellow">- I hope so. - What if she's dead?</font>
+
+195
+00:21:30,459 --> 00:21:32,599
+<font color="yellow">You're throwing away a chance for you to get ahead...</font>
+
+196
+00:21:33,029 --> 00:21:35,629
+<font color="yellow">to investigate it. What are you going to do if she's dead?</font>
+
+197
+00:21:36,999 --> 00:21:38,299
+<font color="yellow">I'll just have to do...</font>
+
+198
+00:21:40,229 --> 00:21:42,729
+<font color="yellow">what I'm supposed to do whether she is alive or dead.</font>
+
+199
+00:21:42,729 --> 00:21:44,459
+<font color="yellow">What is the thing you're supposed to do?</font>
+
+200
+00:21:46,229 --> 00:21:47,259
+<font color="yellow">The truth.</font>
+
+201
+00:21:48,359 --> 00:21:49,899
+<font color="yellow">I will find out the truth.</font>
+
+202
+00:21:50,599 --> 00:21:53,459
+<font color="yellow">It is my job to make sure that law is never used wrongfully.</font>
+
+203
+00:21:53,459 --> 00:21:54,959
+<font color="yellow">It's also your duty.</font>
+
+204
+00:21:55,999 --> 00:21:56,999
+<font color="yellow">As in this case,</font>
+
+205
+00:21:59,259 --> 00:22:02,559
+<font color="yellow">manipulating the truth isn't our job.</font>
+
+206
+00:22:12,029 --> 00:22:13,999
+<font color="yellow">So you're saying the plane crashed like that,</font>
+
+207
+00:22:14,859 --> 00:22:16,429
+<font color="yellow">and only two people survived.</font>
+
+208
+00:22:17,929 --> 00:22:19,829
+<font color="yellow">I mean, Seo Joon Oh...</font>
+
+209
+00:22:20,399 --> 00:22:21,729
+<font color="yellow">and you.</font>
+
+210
+00:22:24,799 --> 00:22:25,799
+<font color="yellow">Yes.</font>
+
+211
+00:22:26,829 --> 00:22:29,699
+<font color="yellow">Don't believe everything she says. We need accurate information.</font>
+
+212
+00:22:29,799 --> 00:22:30,959
+<font color="yellow">Grill her more.</font>
+
+213
+00:22:31,229 --> 00:22:32,829
+<font color="yellow">Ask her for details.</font>
+
+214
+00:22:36,299 --> 00:22:39,099
+<font color="yellow">I'm not sure how this question will sound,</font>
+
+215
+00:22:40,299 --> 00:22:41,329
+<font color="yellow">but how did you feel...</font>
+
+216
+00:22:41,759 --> 00:22:43,629
+<font color="yellow">when you realized that you were on a deserted island?</font>
+
+217
+00:22:47,729 --> 00:22:49,199
+<font color="yellow">You don't believe me, do you?</font>
+
+218
+00:22:50,929 --> 00:22:52,899
+<font color="yellow">I couldn't remember anything...</font>
+
+219
+00:22:54,259 --> 00:22:55,999
+<font color="yellow">about the last four months.</font>
+
+220
+00:22:56,629 --> 00:22:59,259
+<font color="yellow">It must look strange that my memory came back partially all of a sudden.</font>
+
+221
+00:22:59,629 --> 00:23:02,329
+<font color="yellow">It's already strange enough that I survived the plane crash.</font>
+
+222
+00:23:03,159 --> 00:23:05,359
+<font color="yellow">You probably want to know whether I'm lying or not.</font>
+
+223
+00:23:08,559 --> 00:23:09,799
+<font color="yellow">I know you're trying to sound me out.</font>
+
+224
+00:23:10,099 --> 00:23:11,229
+<font color="yellow">Well, I'm just...</font>
+
+225
+00:23:17,599 --> 00:23:19,629
+<font color="yellow">I don't really remember...</font>
+
+226
+00:23:22,699 --> 00:23:24,399
+<font color="yellow">what happened to everyone.</font>
+
+227
+00:23:25,929 --> 00:23:26,959
+<font color="yellow">But...</font>
+
+228
+00:23:28,199 --> 00:23:31,329
+<font color="yellow">if I tell you everything I saw and felt...</font>
+
+229
+00:23:33,299 --> 00:23:35,829
+<font color="yellow">to the best of my recollection,</font>
+
+230
+00:23:38,529 --> 00:23:39,929
+<font color="yellow">will you believe me?</font>
+
+231
+00:23:51,499 --> 00:23:52,929
+<font color="yellow">Will you believe what I tell you?</font>
+
+232
+00:23:55,559 --> 00:23:58,759
+<font color="yellow">I don't know whether they're still alive or not.</font>
+
+233
+00:23:59,629 --> 00:24:01,829
+<font color="yellow">I don't remember how many are alive or dead,</font>
+
+234
+00:24:06,059 --> 00:24:07,829
+<font color="yellow">but will you go there to rescue them?</font>
+
+235
+00:24:09,659 --> 00:24:12,199
+<font color="yellow">Then... Then I will...</font>
+
+236
+00:24:13,199 --> 00:24:14,529
+<font color="yellow">do anything you want me to do...</font>
+
+237
+00:24:15,699 --> 00:24:17,399
+<font color="yellow">to recover my lost memories.</font>
+
+238
+00:24:19,199 --> 00:24:20,199
+<font color="yellow">So...</font>
+
+239
+00:24:23,629 --> 00:24:24,699
+<font color="yellow">So please...</font>
+
+240
+00:24:27,399 --> 00:24:29,129
+<font color="yellow">Don't leave them abandoned there.</font>
+
+241
+00:24:34,899 --> 00:24:35,999
+<font color="yellow">We won't be going home today.</font>
+
+242
+00:24:39,729 --> 00:24:40,799
+<font color="yellow">Say yes.</font>
+
+243
+00:24:43,099 --> 00:24:44,159
+<font color="yellow">One day,</font>
+
+244
+00:24:46,899 --> 00:24:49,029
+<font color="yellow">I was wondering why something like that happened to me.</font>
+
+245
+00:24:56,099 --> 00:24:57,799
+<font color="yellow">Out of so many people,</font>
+
+246
+00:24:59,199 --> 00:25:01,229
+<font color="yellow">why did it have to be me?</font>
+
+247
+00:25:03,859 --> 00:25:05,129
+<font color="yellow">I resented my reality.</font>
+
+248
+00:25:11,099 --> 00:25:12,299
+<font color="yellow">It's medicine for meningitis.</font>
+
+249
+00:25:12,499 --> 00:25:13,959
+<font color="yellow">I thought it may help you recover your memory.</font>
+
+250
+00:25:22,299 --> 00:25:23,329
+<font color="yellow">One day,</font>
+
+251
+00:25:24,259 --> 00:25:25,299
+<font color="yellow">the fact...</font>
+
+252
+00:25:27,059 --> 00:25:28,799
+<font color="yellow">that people died...</font>
+
+253
+00:25:30,059 --> 00:25:31,359
+<font color="yellow">tortured me.</font>
+
+254
+00:26:01,459 --> 00:26:02,459
+<font color="yellow">One day,</font>
+
+255
+00:26:03,959 --> 00:26:06,329
+<font color="yellow">I felt grateful to be alive.</font>
+
+256
+00:26:09,199 --> 00:26:10,499
+<font color="yellow">Then on another day,</font>
+
+257
+00:26:12,099 --> 00:26:14,029
+<font color="yellow">the desire for survival made me...</font>
+
+258
+00:26:15,729 --> 00:26:16,859
+<font color="yellow">feel all desperate.</font>
+
+259
+00:26:20,199 --> 00:26:21,999
+<font color="yellow">Hey, there's a ship. I see a ship over there!</font>
+
+260
+00:26:22,499 --> 00:26:24,429
+<font color="yellow">There's a ship! Here!</font>
+
+261
+00:26:25,029 --> 00:26:26,759
+<font color="yellow">We're here! Gosh.</font>
+
+262
+00:26:28,899 --> 00:26:30,799
+<font color="yellow">Hey. Hey!</font>
+
+263
+00:26:31,799 --> 00:26:32,829
+<font color="yellow">Hey!</font>
+
+264
+00:26:35,199 --> 00:26:36,199
+<font color="yellow">Here!</font>
+
+265
+00:26:36,429 --> 00:26:37,559
+<font color="yellow">Here!</font>
+
+266
+00:26:37,899 --> 00:26:41,059
+<font color="yellow">You're doing so great! Keep going!</font>
+
+267
+00:26:41,229 --> 00:26:42,829
+<font color="yellow">- Here! - Can you swim all the way there?</font>
+
+268
+00:26:42,829 --> 00:26:45,359
+<font color="yellow">- Help! - That's it. Go! Keep going!</font>
+
+269
+00:26:45,959 --> 00:26:48,659
+<font color="yellow">Even in just one day,</font>
+
+270
+00:26:49,299 --> 00:26:50,559
+<font color="yellow">hundreds of different feelings...</font>
+
+271
+00:26:51,429 --> 00:26:53,429
+<font color="yellow">and emotions went through me.</font>
+
+272
+00:26:54,959 --> 00:26:56,329
+<font color="yellow">I was hurt physically...</font>
+
+273
+00:26:58,099 --> 00:26:59,159
+<font color="yellow">Gosh, what should I do?</font>
+
+274
+00:27:01,429 --> 00:27:02,859
+<font color="yellow">And my heart was wounded as well.</font>
+
+275
+00:27:11,499 --> 00:27:12,699
+<font color="yellow">Are you okay? Did you hurt yourself?</font>
+
+276
+00:27:12,699 --> 00:27:14,599
+<font color="yellow">- Let me see. - I can't get this to work.</font>
+
+277
+00:27:15,099 --> 00:27:17,329
+<font color="yellow">Like a person who received a death sentence,</font>
+
+278
+00:27:18,199 --> 00:27:20,799
+<font color="yellow">I was taking a day at a time in a state of inertia.</font>
+
+279
+00:27:27,529 --> 00:27:28,629
+<font color="yellow">Then I saw it.</font>
+
+280
+00:27:29,929 --> 00:27:30,999
+<font color="yellow">What did you see?</font>
+
+281
+00:27:34,559 --> 00:27:35,599
+<font color="yellow">Hope.</font>
+
+282
+00:27:42,099 --> 00:27:45,029
+<font color="yellow">10, 15.</font>
+
+283
+00:27:45,459 --> 00:27:47,129
+<font color="yellow">10, 25.</font>
+
+284
+00:27:49,629 --> 00:27:52,159
+<font color="yellow">- Did you see anyone around here? - No.</font>
+
+285
+00:27:52,759 --> 00:27:53,829
+<font color="yellow">He must've gotten rescued.</font>
+
+286
+00:27:54,729 --> 00:27:55,899
+<font color="yellow">After 25 days.</font>
+
+287
+00:27:56,659 --> 00:27:58,499
+<font color="yellow">- We can live, too! - Yes, we can live!</font>
+
+288
+00:27:58,759 --> 00:28:00,329
+<font color="yellow">- We can live! - We can live!</font>
+
+289
+00:28:00,459 --> 00:28:01,599
+<font color="yellow">We can live!</font>
+
+290
+00:28:02,129 --> 00:28:04,859
+<font color="yellow">We can live. We can live.</font>
+
+291
+00:28:05,799 --> 00:28:07,329
+<font color="yellow">We can live!</font>
+
+292
+00:28:09,359 --> 00:28:11,659
+<font color="yellow">- We can go home! - We can go home!</font>
+
+293
+00:28:11,659 --> 00:28:15,429
+<font color="yellow">Home! Home! No matter what happens,</font>
+
+294
+00:28:15,899 --> 00:28:17,299
+<font color="yellow">I will go home!</font>
+
+295
+00:28:17,299 --> 00:28:19,859
+<font color="yellow">- Home! Home! - We can live!</font>
+
+296
+00:28:20,399 --> 00:28:22,559
+<font color="yellow">After seeing a ray of hope right in front of my eyes,</font>
+
+297
+00:28:23,799 --> 00:28:25,359
+<font color="yellow">this thought crossed my mind.</font>
+
+298
+00:28:34,229 --> 00:28:35,429
+<font color="yellow">"I must survive."</font>
+
+299
+00:28:37,459 --> 00:28:39,029
+<font color="yellow">"If I survive,"</font>
+
+300
+00:28:40,859 --> 00:28:42,729
+<font color="yellow">"someone will come to my rescue."</font>
+
+301
+00:28:52,729 --> 00:28:55,199
+<font color="yellow">Have you thought about looking for other possible survivors?</font>
+
+302
+00:28:56,559 --> 00:28:58,029
+<font color="yellow">We did try to look for them, but...</font>
+
+303
+00:29:03,799 --> 00:29:05,329
+<font color="yellow">Why did you come out already?</font>
+
+304
+00:29:05,329 --> 00:29:06,699
+<font color="yellow">I think we've done enough for today.</font>
+
+305
+00:29:06,699 --> 00:29:08,559
+<font color="yellow">Are you going to say the grass is hurting your skin again?</font>
+
+306
+00:29:08,559 --> 00:29:10,699
+<font color="yellow">I'm hungry. I can't look for anyone on an empty stomach.</font>
+
+307
+00:29:10,699 --> 00:29:11,899
+<font color="yellow">We ate bread in the morning.</font>
+
+308
+00:29:12,099 --> 00:29:13,929
+<font color="yellow">Hey, we should live first.</font>
+
+309
+00:29:13,929 --> 00:29:16,229
+<font color="yellow">No. Let's search for a bit more.</font>
+
+310
+00:29:17,159 --> 00:29:19,899
+<font color="yellow">Ask her how she sustained herself for four months.</font>
+
+311
+00:29:21,499 --> 00:29:22,699
+<font color="yellow">I'll be specific.</font>
+
+312
+00:29:23,099 --> 00:29:25,659
+<font color="yellow">How did you survive?</font>
+
+313
+00:29:30,129 --> 00:29:31,499
+<font color="yellow">There are no people,</font>
+
+314
+00:29:32,659 --> 00:29:34,699
+<font color="yellow">which means there are no houses, either.</font>
+
+315
+00:29:37,099 --> 00:29:39,899
+<font color="yellow">It also means that there's not a single light.</font>
+
+316
+00:29:41,259 --> 00:29:43,429
+<font color="yellow">If you have to stay in a place like that for over four months,</font>
+
+317
+00:29:44,429 --> 00:29:46,099
+<font color="yellow">how do you think you'll live?</font>
+
+318
+00:29:54,859 --> 00:29:55,929
+<font color="yellow">You can tie it?</font>
+
+319
+00:29:57,599 --> 00:29:58,599
+<font color="yellow">Be careful.</font>
+
+320
+00:29:59,499 --> 00:30:01,059
+<font color="yellow">Gosh, get your jacket out of the way.</font>
+
+321
+00:30:03,329 --> 00:30:05,799
+<font color="yellow">No, not that one. Tie it on the bigger tree.</font>
+
+322
+00:30:05,799 --> 00:30:07,559
+<font color="yellow">- This one? - Use your fingers.</font>
+
+323
+00:30:07,699 --> 00:30:08,699
+<font color="yellow">It hurts my skin.</font>
+
+324
+00:30:09,329 --> 00:30:10,529
+<font color="yellow">I'll do it. Leave it.</font>
+
+325
+00:30:10,529 --> 00:30:12,329
+<font color="yellow">You should've just done it yourself from the get-go.</font>
+
+326
+00:30:12,329 --> 00:30:13,999
+<font color="yellow">On three! Good. That's it.</font>
+
+327
+00:30:14,559 --> 00:30:15,599
+<font color="yellow">Good job.</font>
+
+328
+00:30:16,099 --> 00:30:17,629
+<font color="yellow">- In 1, 2, 3. - 3.</font>
+
+329
+00:30:18,199 --> 00:30:20,329
+<font color="yellow">- Push it harder. - I'm pushing it. Three!</font>
+
+330
+00:30:20,629 --> 00:30:22,099
+<font color="yellow">- On 3! - 4!</font>
+
+331
+00:30:24,259 --> 00:30:25,259
+<font color="yellow">Should I...</font>
+
+332
+00:30:27,099 --> 00:30:28,199
+<font color="yellow">Let's do it again.</font>
+
+333
+00:30:28,999 --> 00:30:31,129
+<font color="yellow">- Pull it again for me. - A little more. To that side.</font>
+
+334
+00:30:31,129 --> 00:30:32,629
+<font color="yellow">To the right or left? I can't see.</font>
+
+335
+00:30:32,629 --> 00:30:35,059
+<font color="yellow">Lift it more. When will you work on this side?</font>
+
+336
+00:30:36,559 --> 00:30:39,599
+<font color="yellow">Plants contain water in them.</font>
+
+337
+00:30:39,699 --> 00:30:42,059
+<font color="yellow">If we hit the right spot, we can get water to drip from them.</font>
+
+338
+00:30:44,229 --> 00:30:45,559
+<font color="yellow">It's coming out. See?</font>
+
+339
+00:30:45,729 --> 00:30:47,529
+<font color="yellow">It's working. I told you.</font>
+
+340
+00:30:47,959 --> 00:30:48,999
+<font color="yellow">You were right.</font>
+
+341
+00:30:49,699 --> 00:30:50,929
+<font color="yellow">We'll be able to drink it next year.</font>
+
+342
+00:30:53,999 --> 00:30:55,759
+<font color="yellow">Hey, we've already been here for a few days.</font>
+
+343
+00:30:55,759 --> 00:30:57,799
+<font color="yellow">We probably won't have to stay here for 25 days.</font>
+
+344
+00:30:59,059 --> 00:31:00,099
+<font color="yellow">I can't do this.</font>
+
+345
+00:31:00,729 --> 00:31:02,729
+<font color="yellow">I'm only going to drink this for the rest of our time here.</font>
+
+346
+00:31:02,829 --> 00:31:04,499
+<font color="yellow">You can have the other two. We're good then, right?</font>
+
+347
+00:31:04,759 --> 00:31:07,059
+<font color="yellow">The same goes for food. I don't eat that much.</font>
+
+348
+00:31:07,099 --> 00:31:08,559
+<font color="yellow">I'll take this and...</font>
+
+349
+00:31:08,929 --> 00:31:10,859
+<font color="yellow">There's too many of this, so I'll take this one, too.</font>
+
+350
+00:31:10,859 --> 00:31:11,899
+<font color="yellow">Okay? Done.</font>
+
+351
+00:31:11,899 --> 00:31:12,959
+<font color="yellow">Put them down.</font>
+
+352
+00:31:18,459 --> 00:31:19,499
+<font color="yellow">How shall I divide it up?</font>
+
+353
+00:31:26,829 --> 00:31:29,599
+<font color="yellow">The statements she gave in the last few days have been consistent.</font>
+
+354
+00:31:29,859 --> 00:31:30,899
+<font color="yellow">What should we do?</font>
+
+355
+00:31:34,359 --> 00:31:35,759
+<font color="yellow">Call China.</font>
+
+356
+00:31:37,499 --> 00:31:40,299
+<font color="yellow">There are 143 small islands around Huizhou, China...</font>
+
+357
+00:31:40,299 --> 00:31:43,699
+<font color="yellow">where Ms. Ra Bong Hee was found.</font>
+
+358
+00:31:43,859 --> 00:31:45,929
+<font color="yellow">It is estimated that 97 of those 143 islands...</font>
+
+359
+00:31:46,029 --> 00:31:47,929
+<font color="yellow">are uninhabited.</font>
+
+360
+00:31:48,299 --> 00:31:50,999
+<font color="yellow">If they find any trace of human habitation or dead bodies,</font>
+
+361
+00:31:50,999 --> 00:31:54,259
+<font color="yellow">we requested them to contact us immediately.</font>
+
+362
+00:31:54,599 --> 00:31:55,829
+<font color="yellow">How long will it take?</font>
+
+363
+00:31:56,259 --> 00:31:59,229
+<font color="yellow">Based on the investigation... I'm not sure, but if I...</font>
+
+364
+00:31:59,229 --> 00:32:02,699
+<font color="yellow">How long will it take to search 97 islands?</font>
+
+365
+00:32:03,259 --> 00:32:04,459
+<font color="yellow">We asked the experts...</font>
+
+366
+00:32:04,459 --> 00:32:07,199
+<font color="yellow">to investigate as soon as possible...</font>
+
+367
+00:32:07,199 --> 00:32:09,729
+<font color="yellow">Don't simply say you'll do your best...</font>
+
+368
+00:32:09,729 --> 00:32:11,099
+<font color="yellow">as soon as possible.</font>
+
+369
+00:32:12,029 --> 00:32:14,429
+<font color="yellow">Just give me the facts.</font>
+
+370
+00:32:14,699 --> 00:32:17,129
+<font color="yellow">Actually, I...</font>
+
+371
+00:32:18,459 --> 00:32:21,129
+<font color="yellow">Locating 97 islands and completing the search...</font>
+
+372
+00:32:21,529 --> 00:32:23,599
+<font color="yellow">after receiving enough funds...</font>
+
+373
+00:32:24,129 --> 00:32:27,599
+<font color="yellow">are expected to take at least three months.</font>
+
+374
+00:32:32,299 --> 00:32:33,959
+<font color="yellow">I'll get fired in the meantime.</font>
+
+375
+00:32:38,259 --> 00:32:39,699
+<font color="yellow">Where is Ra Bong Hee?</font>
+
+376
+00:32:40,029 --> 00:32:41,759
+<font color="yellow">She's at her mother's house.</font>
+
+377
+00:32:41,759 --> 00:32:43,529
+<font color="yellow">- Does she have bodyguards? - Yes.</font>
+
+378
+00:32:43,929 --> 00:32:46,799
+<font color="yellow">Tell them to make sure that no reporters approach her.</font>
+
+379
+00:32:46,799 --> 00:32:49,859
+<font color="yellow">If the public finds out about her memory loss, we'll be in trouble.</font>
+
+380
+00:32:50,059 --> 00:32:51,829
+<font color="yellow">I'll tell them.</font>
+
+381
+00:32:51,829 --> 00:32:54,699
+<font color="yellow">Stay in charge of the task that has to be done in the headquarter.</font>
+
+382
+00:32:54,699 --> 00:32:56,529
+<font color="yellow">Keep recording the video and send it to me.</font>
+
+383
+00:33:04,799 --> 00:33:06,099
+<font color="yellow">Yes?</font>
+
+384
+00:33:06,099 --> 00:33:07,999
+<font color="yellow">Mr. Yoon, they found her.</font>
+
+385
+00:33:11,329 --> 00:33:14,499
+<font color="yellow">Your sister was found in Huizhou, China.</font>
+
+386
+00:33:16,829 --> 00:33:17,859
+<font color="yellow">However...</font>
+
+387
+00:33:27,429 --> 00:33:28,429
+<font color="yellow">I'm sorry.</font>
+
+388
+00:33:29,059 --> 00:33:30,059
+<font color="yellow">I'm very sorry, Sir.</font>
+
+389
+00:33:38,059 --> 00:33:39,199
+<font color="yellow">Where in China?</font>
+
+390
+00:33:48,999 --> 00:33:51,459
+<font color="yellow">I'll come back with a lot of seafood.</font>
+
+391
+00:34:11,099 --> 00:34:12,169
+<font color="yellow">What are you doing?</font>
+
+392
+00:34:12,359 --> 00:34:14,929
+<font color="yellow">- Can't you tell? - It's not necessary.</font>
+
+393
+00:34:14,929 --> 00:34:16,459
+<font color="yellow">If anyone passes by, they'll see it.</font>
+
+394
+00:34:17,229 --> 00:34:18,329
+<font color="yellow">Here's your lunch.</font>
+
+395
+00:34:22,859 --> 00:34:23,859
+<font color="yellow">Hey.</font>
+
+396
+00:34:26,399 --> 00:34:28,129
+<font color="yellow">- Give me some more. - I can't.</font>
+
+397
+00:34:28,829 --> 00:34:29,929
+<font color="yellow">I'm working.</font>
+
+398
+00:34:30,999 --> 00:34:33,599
+<font color="yellow">- Give me some more. - What you're doing is unnecessary.</font>
+
+399
+00:34:54,599 --> 00:34:56,299
+<font color="yellow">I shouldn't eat it.</font>
+
+400
+00:35:15,959 --> 00:35:17,799
+<font color="yellow">Excuse me, Sir.</font>
+
+401
+00:35:20,999 --> 00:35:23,229
+<font color="yellow">- Your barbecue is ready. - What?</font>
+
+402
+00:35:31,699 --> 00:35:32,899
+<font color="yellow">Would you like some wine, Sir?</font>
+
+403
+00:35:42,129 --> 00:35:44,359
+<font color="yellow">It's rice and pineapple.</font>
+
+404
+00:35:45,029 --> 00:35:46,799
+<font color="yellow">It's pizza.</font>
+
+405
+00:35:46,799 --> 00:35:49,559
+<font color="yellow">Would you like some barbecue, Sir?</font>
+
+406
+00:35:52,599 --> 00:35:55,229
+<font color="yellow">- I don't really like pork. - Okay.</font>
+
+407
+00:35:57,259 --> 00:35:58,299
+<font color="yellow">Here's jjamppong, Sir.</font>
+
+408
+00:35:59,699 --> 00:36:00,829
+<font color="yellow">It's spicy jjamppong.</font>
+
+409
+00:36:03,829 --> 00:36:04,829
+<font color="yellow">Hello.</font>
+
+410
+00:36:05,729 --> 00:36:07,759
+<font color="yellow">- Byeong Joo? - Do you like shrimp?</font>
+
+411
+00:36:08,029 --> 00:36:09,499
+<font color="yellow">Here you go.</font>
+
+412
+00:36:09,499 --> 00:36:12,529
+<font color="yellow">Is this what you do for a living?</font>
+
+413
+00:36:12,529 --> 00:36:15,429
+<font color="yellow">Thank you. It's sausage.</font>
+
+414
+00:36:16,829 --> 00:36:17,999
+<font color="yellow">Is it delicious?</font>
+
+415
+00:36:19,099 --> 00:36:20,459
+<font color="yellow">Is it good?</font>
+
+416
+00:36:22,199 --> 00:36:23,959
+<font color="yellow">Why are you eating these now?</font>
+
+417
+00:36:24,459 --> 00:36:27,099
+<font color="yellow">Have you lost your mind?</font>
+
+418
+00:36:27,099 --> 00:36:28,729
+<font color="yellow">Why are you eating these now?</font>
+
+419
+00:36:40,399 --> 00:36:42,029
+<font color="yellow">I didn't mean to.</font>
+
+420
+00:36:42,199 --> 00:36:44,859
+<font color="yellow">Gosh, have you lost your mind?</font>
+
+421
+00:36:44,859 --> 00:36:47,099
+<font color="yellow">- Why did you eat them now? - I didn't.</font>
+
+422
+00:36:47,099 --> 00:36:50,059
+<font color="yellow">I was only eating in my dreams.</font>
+
+423
+00:36:50,559 --> 00:36:51,629
+<font color="yellow">My goodness.</font>
+
+424
+00:36:53,169 --> 00:36:55,229
+<font color="yellow">I burped out air.</font>
+
+425
+00:36:55,229 --> 00:36:56,859
+<font color="yellow">I burped out air because I'm hungry.</font>
+
+426
+00:36:56,859 --> 00:36:58,959
+<font color="yellow">I'm doing everything to survive.</font>
+
+427
+00:36:58,959 --> 00:37:02,259
+<font color="yellow">I was saving these. How could you finish everything?</font>
+
+428
+00:37:02,259 --> 00:37:05,229
+<font color="yellow">I said I was eating in my dreams. Why would I eat all of it?</font>
+
+429
+00:37:05,229 --> 00:37:06,329
+<font color="yellow">You've lost your mind.</font>
+
+430
+00:37:06,329 --> 00:37:08,859
+<font color="yellow">You're crazy for eating everything only to save yourself.</font>
+
+431
+00:37:08,859 --> 00:37:09,929
+<font color="yellow">Hey!</font>
+
+432
+00:37:10,929 --> 00:37:13,259
+<font color="yellow">Darn it. Listen.</font>
+
+433
+00:37:14,329 --> 00:37:17,229
+<font color="yellow">Is that how you'll talk to me? Did you just call me crazy?</font>
+
+434
+00:37:17,229 --> 00:37:19,959
+<font color="yellow">You're my stylist, and I'm your boss.</font>
+
+435
+00:37:19,959 --> 00:37:22,729
+<font color="yellow">How dare you call your boss crazy?</font>
+
+436
+00:37:22,729 --> 00:37:23,759
+<font color="yellow">Do you want to get fired?</font>
+
+437
+00:37:26,499 --> 00:37:29,699
+<font color="yellow">If we get rescued like that man,</font>
+
+438
+00:37:29,699 --> 00:37:32,599
+<font color="yellow">I'll send you a box of these to your house.</font>
+
+439
+00:37:32,599 --> 00:37:34,359
+<font color="yellow">Be careful with your words.</font>
+
+440
+00:37:34,499 --> 00:37:36,499
+<font color="yellow">Otherwise, I'll fire you. Understand?</font>
+
+441
+00:37:38,169 --> 00:37:39,229
+<font color="yellow">Okay.</font>
+
+442
+00:37:40,859 --> 00:37:42,699
+<font color="yellow">- Now that this happened... - Goodness.</font>
+
+443
+00:37:44,099 --> 00:37:45,169
+<font color="yellow">It's because I'm sorry.</font>
+
+444
+00:37:45,629 --> 00:37:47,759
+<font color="yellow">I wasn't burping. I was just apologizing.</font>
+
+445
+00:37:48,199 --> 00:37:51,559
+<font color="yellow">What should we do? I ate everything.</font>
+
+446
+00:37:51,559 --> 00:37:52,629
+<font color="yellow">I ate all of these.</font>
+
+447
+00:37:52,859 --> 00:37:56,129
+<font color="yellow">I finished everything that we had. What will you do?</font>
+
+448
+00:37:56,129 --> 00:37:57,169
+<font color="yellow">What else can we do?</font>
+
+449
+00:37:58,529 --> 00:37:59,529
+<font color="yellow">We'll catch food.</font>
+
+450
+00:38:04,599 --> 00:38:05,599
+<font color="yellow">Where did you come from?</font>
+
+451
+00:38:08,029 --> 00:38:09,959
+<font color="yellow">Start a fire while I get some food.</font>
+
+452
+00:38:09,959 --> 00:38:12,299
+<font color="yellow">I can't start a fire without a lighter.</font>
+
+453
+00:38:12,299 --> 00:38:14,669
+<font color="yellow">That's why I'm asking you. I wouldn't if we had a lighter.</font>
+
+454
+00:38:15,029 --> 00:38:16,169
+<font color="yellow">Start a fire, okay?</font>
+
+455
+00:38:16,359 --> 00:38:18,629
+<font color="yellow">How can I start a fire?</font>
+
+456
+00:38:19,169 --> 00:38:20,359
+<font color="yellow">What will you catch?</font>
+
+457
+00:38:22,799 --> 00:38:23,859
+<font color="yellow">This is impossible.</font>
+
+458
+00:38:26,329 --> 00:38:29,759
+<font color="yellow">Gosh, how can I start it?</font>
+
+459
+00:38:47,629 --> 00:38:50,129
+<font color="yellow">I knew it was impossible.</font>
+
+460
+00:38:56,959 --> 00:38:59,429
+<font color="yellow">- Where did you get it? - I found it.</font>
+
+461
+00:38:59,729 --> 00:39:00,859
+<font color="yellow">What are you doing?</font>
+
+462
+00:39:00,859 --> 00:39:03,459
+<font color="yellow">I'm trying to start a fire with the lens.</font>
+
+463
+00:39:03,459 --> 00:39:06,529
+<font color="yellow">That's just a piece of glass. It wouldn't start a fire.</font>
+
+464
+00:39:06,529 --> 00:39:09,059
+<font color="yellow">You need a convex lens. That won't work.</font>
+
+465
+00:39:09,059 --> 00:39:11,959
+<font color="yellow">Why are you telling me only now? I've been trying for hours.</font>
+
+466
+00:39:11,959 --> 00:39:14,799
+<font color="yellow">I just saw you do it. Start a fire somehow.</font>
+
+467
+00:39:14,799 --> 00:39:16,829
+<font color="yellow">I'll come back with fish. Here are your presents.</font>
+
+468
+00:39:16,829 --> 00:39:18,729
+<font color="yellow">- I can't start a fire. - Here you go.</font>
+
+469
+00:39:30,959 --> 00:39:32,169
+<font color="yellow">I caught three.</font>
+
+470
+00:39:39,929 --> 00:39:43,029
+<font color="yellow">Oh, my goodness! That startled me.</font>
+
+471
+00:39:43,029 --> 00:39:44,259
+<font color="yellow">Goodness.</font>
+
+472
+00:39:45,859 --> 00:39:47,029
+<font color="yellow">I almost caught fire.</font>
+
+473
+00:40:02,229 --> 00:40:03,959
+<font color="yellow">I already set up everything.</font>
+
+474
+00:40:07,499 --> 00:40:10,699
+<font color="yellow">What did you do in the past? You can do anything.</font>
+
+475
+00:40:11,799 --> 00:40:13,899
+<font color="yellow">It's not that I can do anything,</font>
+
+476
+00:40:13,899 --> 00:40:15,799
+<font color="yellow">it's you who can't do anything.</font>
+
+477
+00:40:16,329 --> 00:40:19,029
+<font color="yellow">Can you call me by my name?</font>
+
+478
+00:40:19,029 --> 00:40:20,699
+<font color="yellow">I have a name. It's Ra Bong Hee.</font>
+
+479
+00:40:20,699 --> 00:40:22,529
+<font color="yellow">Okay, Ra Bong Hee.</font>
+
+480
+00:40:22,829 --> 00:40:23,859
+<font color="yellow">It looks delicious.</font>
+
+481
+00:40:27,859 --> 00:40:31,099
+<font color="yellow">You seem to adapt well on deserted islands.</font>
+
+482
+00:40:31,599 --> 00:40:33,129
+<font color="yellow">It's a perfect place for you to live.</font>
+
+483
+00:40:33,129 --> 00:40:35,169
+<font color="yellow">I can't starve myself without trying.</font>
+
+484
+00:40:35,169 --> 00:40:37,829
+<font color="yellow">I survived until now, so I'll stay alive until we're rescued.</font>
+
+485
+00:40:38,859 --> 00:40:40,629
+<font color="yellow">It looks delicious. Here you go.</font>
+
+486
+00:40:40,629 --> 00:40:43,199
+<font color="yellow">- What? - Try it. It's ready to eat.</font>
+
+487
+00:40:43,199 --> 00:40:44,859
+<font color="yellow">- Just like that? - Yes.</font>
+
+488
+00:40:44,859 --> 00:40:46,999
+<font color="yellow">- I can't debone fish. - What?</font>
+
+489
+00:40:46,999 --> 00:40:49,359
+<font color="yellow">I've had fish bone stuck in my throat when I was young,</font>
+
+490
+00:40:49,359 --> 00:40:50,399
+<font color="yellow">so I can't debone fish.</font>
+
+491
+00:40:52,429 --> 00:40:53,799
+<font color="yellow">Debone it for me.</font>
+
+492
+00:40:53,799 --> 00:40:56,669
+<font color="yellow">Is there anything you can do?</font>
+
+493
+00:40:56,859 --> 00:40:59,799
+<font color="yellow">Have you forgotten already?</font>
+
+494
+00:40:59,799 --> 00:41:02,559
+<font color="yellow">Hey, do you want to get fired...</font>
+
+495
+00:41:04,959 --> 00:41:08,099
+<font color="yellow">How many times do I have to repeat myself?</font>
+
+496
+00:41:08,099 --> 00:41:09,299
+<font color="yellow">I'm starving.</font>
+
+497
+00:41:09,599 --> 00:41:12,559
+<font color="yellow">You keep making me feel terrible and cheap.</font>
+
+498
+00:41:12,829 --> 00:41:15,599
+<font color="yellow">It hurts me to say this, but you make me repeat...</font>
+
+499
+00:41:15,599 --> 00:41:17,929
+<font color="yellow">that I have to fire you.</font>
+
+500
+00:41:18,459 --> 00:41:19,529
+<font color="yellow">I'm tired of it.</font>
+
+501
+00:41:21,599 --> 00:41:23,599
+<font color="yellow">Okay, I understand.</font>
+
+502
+00:41:27,099 --> 00:41:29,629
+<font color="yellow">While you debone the fish,</font>
+
+503
+00:41:29,629 --> 00:41:32,329
+<font color="yellow">you should eat some, too.</font>
+
+504
+00:41:32,329 --> 00:41:35,629
+<font color="yellow">It's delicious to eat food while you cook.</font>
+
+505
+00:41:35,629 --> 00:41:37,399
+<font color="yellow">Here you go.</font>
+
+506
+00:41:37,699 --> 00:41:40,759
+<font color="yellow">You take a bite, and I take a bite.</font>
+
+507
+00:41:46,599 --> 00:41:48,599
+<font color="yellow">- Isn't it delicious? - It's amazing.</font>
+
+508
+00:41:49,629 --> 00:41:52,699
+<font color="yellow">Oh, my. We should've eaten things like this from the first day.</font>
+
+509
+00:41:52,729 --> 00:41:53,929
+<font color="yellow">Those chips are useless.</font>
+
+510
+00:41:54,559 --> 00:41:55,729
+<font color="yellow">- There's some here. - Eat this.</font>
+
+511
+00:41:56,729 --> 00:41:57,799
+<font color="yellow">Drop the bone here.</font>
+
+512
+00:41:59,299 --> 00:42:00,329
+<font color="yellow">Here.</font>
+
+513
+00:42:01,829 --> 00:42:02,899
+<font color="yellow">I should grill all of it.</font>
+
+514
+00:42:34,099 --> 00:42:36,629
+<font color="yellow">Hey, hey. Joon Oh.</font>
+
+515
+00:42:37,029 --> 00:42:39,669
+<font color="yellow">- What is it? - Come outside. Hurry up.</font>
+
+516
+00:42:40,059 --> 00:42:41,729
+<font color="yellow">- Come on. - Why? What's going on?</font>
+
+517
+00:42:43,329 --> 00:42:45,029
+<font color="yellow">What is it? Did you find something?</font>
+
+518
+00:42:45,529 --> 00:42:47,699
+<font color="yellow">- That sound. - Where?</font>
+
+519
+00:42:47,699 --> 00:42:48,729
+<font color="yellow">Listen carefully.</font>
+
+520
+00:42:51,359 --> 00:42:53,359
+<font color="yellow">- What is it? - Be quiet.</font>
+
+521
+00:43:01,669 --> 00:43:03,859
+<font color="yellow">- You saw that, right? - I saw nothing. Let's go back in.</font>
+
+522
+00:43:03,859 --> 00:43:05,259
+<font color="yellow">No, you can't.</font>
+
+523
+00:43:06,529 --> 00:43:07,559
+<font color="yellow">Look at that.</font>
+
+524
+00:43:11,059 --> 00:43:12,129
+<font color="yellow">My gosh.</font>
+
+525
+00:43:13,459 --> 00:43:15,029
+<font color="yellow">Joon Oh, do you see that?</font>
+
+526
+00:43:15,169 --> 00:43:17,169
+<font color="yellow">Joon Oh, look at that. Joon Oh...</font>
+
+527
+00:43:17,999 --> 00:43:20,529
+<font color="yellow">- Joon Oh, get back here. - I'm far-sighted,</font>
+
+528
+00:43:20,529 --> 00:43:21,759
+<font color="yellow">so I have to see from afar. Hold on.</font>
+
+529
+00:43:23,169 --> 00:43:24,259
+<font color="yellow">- Gosh... - Don't do that.</font>
+
+530
+00:43:26,929 --> 00:43:28,459
+<font color="yellow">We'll go in there on the count of three, okay?</font>
+
+531
+00:43:50,359 --> 00:43:51,429
+<font color="yellow">Yeol.</font>
+
+532
+00:43:52,059 --> 00:43:53,499
+<font color="yellow">Hey. Hey, Yeol.</font>
+
+533
+00:43:55,859 --> 00:43:56,859
+<font color="yellow">Yeol.</font>
+
+534
+00:43:58,159 --> 00:43:59,199
+<font color="yellow">Yeol!</font>
+
+535
+00:44:12,459 --> 00:44:13,499
+<font color="yellow">There. Tie it now.</font>
+
+536
+00:44:14,599 --> 00:44:15,659
+<font color="yellow">Good.</font>
+
+537
+00:44:16,399 --> 00:44:18,199
+<font color="yellow">In 1, 2.</font>
+
+538
+00:44:24,259 --> 00:44:25,459
+<font color="yellow">Hey, you should drink some water.</font>
+
+539
+00:44:31,899 --> 00:44:32,929
+<font color="yellow">Have one more sip.</font>
+
+540
+00:44:33,399 --> 00:44:34,459
+<font color="yellow">Take a big sip.</font>
+
+541
+00:45:14,959 --> 00:45:15,999
+<font color="yellow">Are you up?</font>
+
+542
+00:45:18,529 --> 00:45:19,559
+<font color="yellow">How's your arm?</font>
+
+543
+00:45:20,259 --> 00:45:21,859
+<font color="yellow">Thanks to you, it feels much better.</font>
+
+544
+00:45:22,399 --> 00:45:24,599
+<font color="yellow">I'm glad. Have a seat.</font>
+
+545
+00:45:24,599 --> 00:45:25,999
+<font color="yellow">I was making some porridge.</font>
+
+546
+00:45:27,259 --> 00:45:29,599
+<font color="yellow">The only things we can get here are fish and clams.</font>
+
+547
+00:45:30,129 --> 00:45:31,129
+<font color="yellow">It's almost ready.</font>
+
+548
+00:45:33,259 --> 00:45:35,329
+<font color="yellow">It's done. Use this as a spoon...</font>
+
+549
+00:45:37,429 --> 00:45:39,459
+<font color="yellow">You can just drink it with this hand.</font>
+
+550
+00:45:40,129 --> 00:45:41,159
+<font color="yellow">Thank you.</font>
+
+551
+00:45:42,799 --> 00:45:43,959
+<font color="yellow">By the way,</font>
+
+552
+00:45:44,799 --> 00:45:46,799
+<font color="yellow">there's something I want to ask you.</font>
+
+553
+00:45:48,059 --> 00:45:49,299
+<font color="yellow">How did you not die?</font>
+
+554
+00:45:50,829 --> 00:45:51,899
+<font color="yellow">Are you all right?</font>
+
+555
+00:45:52,459 --> 00:45:53,629
+<font color="yellow">- I'm sorry. - It's okay.</font>
+
+556
+00:45:53,729 --> 00:45:55,459
+<font color="yellow">Sorry. That probably sounded weird.</font>
+
+557
+00:45:55,729 --> 00:45:57,659
+<font color="yellow">That's not really what I meant.</font>
+
+558
+00:45:57,799 --> 00:46:00,259
+<font color="yellow">I just want to know how you managed to survive...</font>
+
+559
+00:46:00,259 --> 00:46:02,629
+<font color="yellow">and how you knew that we were here.</font>
+
+560
+00:46:03,229 --> 00:46:04,499
+<font color="yellow">That's what I wanted to ask you.</font>
+
+561
+00:46:07,199 --> 00:46:08,459
+<font color="yellow">After the plane crashed,</font>
+
+562
+00:46:10,059 --> 00:46:11,259
+<font color="yellow">I woke up and...</font>
+
+563
+00:46:30,359 --> 00:46:31,929
+<font color="yellow">I thought I was the only survivor.</font>
+
+564
+00:46:34,759 --> 00:46:36,299
+<font color="yellow">I waited for a few days...</font>
+
+565
+00:46:37,559 --> 00:46:39,899
+<font color="yellow">thinking that a rescue team would arrive soon.</font>
+
+566
+00:46:45,029 --> 00:46:46,199
+<font color="yellow">Then I saw a light.</font>
+
+567
+00:46:47,329 --> 00:46:48,359
+<font color="yellow">That was last night.</font>
+
+568
+00:46:48,599 --> 00:46:49,599
+<font color="yellow">Oh, that light.</font>
+
+569
+00:46:49,859 --> 00:46:51,659
+<font color="yellow">We grilled fish...</font>
+
+570
+00:46:51,659 --> 00:46:53,759
+<font color="yellow">and ate it here.</font>
+
+571
+00:46:56,329 --> 00:46:57,459
+<font color="yellow">Do you think people will come...</font>
+
+572
+00:46:58,829 --> 00:46:59,829
+<font color="yellow">to rescue me?</font>
+
+573
+00:46:59,929 --> 00:47:03,159
+<font color="yellow">We found a trace of someone with the name "Alden" over there.</font>
+
+574
+00:47:03,399 --> 00:47:05,929
+<font color="yellow">I'm not sure what his nationality is,</font>
+
+575
+00:47:05,929 --> 00:47:08,429
+<font color="yellow">but it looks like he was here long before we ended up here.</font>
+
+576
+00:47:08,559 --> 00:47:12,159
+<font color="yellow">It seems like he got rescued after living on this island for 25 days.</font>
+
+577
+00:47:12,159 --> 00:47:13,259
+<font color="yellow">That's what I think.</font>
+
+578
+00:47:19,699 --> 00:47:20,729
+<font color="yellow">Bong Hee.</font>
+
+579
+00:47:23,829 --> 00:47:26,029
+<font color="yellow">Have you ever thought about the possibility that we might...</font>
+
+580
+00:47:26,699 --> 00:47:27,729
+<font color="yellow">die here?</font>
+
+581
+00:47:35,899 --> 00:47:36,929
+<font color="yellow">There's a big chance...</font>
+
+582
+00:47:37,599 --> 00:47:38,999
+<font color="yellow">that no rescue team will come...</font>
+
+583
+00:47:39,599 --> 00:47:40,599
+<font color="yellow">as it stands now.</font>
+
+584
+00:47:42,729 --> 00:47:45,429
+<font color="yellow">Gosh, why are you so pessimistic?</font>
+
+585
+00:47:45,429 --> 00:47:46,499
+<font color="yellow">I saw him.</font>
+
+586
+00:47:50,559 --> 00:47:51,659
+<font color="yellow">That Alden guy.</font>
+
+587
+00:48:22,259 --> 00:48:23,299
+<font color="yellow">Are you...</font>
+
+588
+00:48:26,899 --> 00:48:27,959
+<font color="yellow">serious?</font>
+
+589
+00:48:29,459 --> 00:48:31,199
+<font color="yellow">If people were able to find this island...</font>
+
+590
+00:48:31,599 --> 00:48:32,929
+<font color="yellow">and came here even just once,</font>
+
+591
+00:48:33,259 --> 00:48:34,629
+<font color="yellow">they would've taken...</font>
+
+592
+00:48:36,459 --> 00:48:37,859
+<font color="yellow">those bodies I saw as well.</font>
+
+593
+00:48:39,359 --> 00:48:40,399
+<font color="yellow">Those corpses.</font>
+
+594
+00:48:53,629 --> 00:48:54,629
+<font color="yellow">It's cold.</font>
+
+595
+00:48:55,529 --> 00:48:56,529
+<font color="yellow">Hey, you woke up.</font>
+
+596
+00:48:56,529 --> 00:48:57,559
+<font color="yellow">- Joon Oh. - Yes.</font>
+
+597
+00:48:58,429 --> 00:49:01,229
+<font color="yellow">You two are so chatty. I couldn't even sleep.</font>
+
+598
+00:49:01,629 --> 00:49:02,959
+<font color="yellow">Have you eaten anything yet?</font>
+
+599
+00:49:03,929 --> 00:49:06,059
+<font color="yellow">Hey, that's not going to be enough.</font>
+
+600
+00:49:07,359 --> 00:49:08,899
+<font color="yellow">You have to eat some fish.</font>
+
+601
+00:49:09,029 --> 00:49:10,299
+<font color="yellow">We caught many fish.</font>
+
+602
+00:49:11,229 --> 00:49:14,299
+<font color="yellow">Hey, let's grill a few of the leftover fish from yesterday.</font>
+
+603
+00:49:17,259 --> 00:49:18,329
+<font color="yellow">Is there none left?</font>
+
+604
+00:49:18,999 --> 00:49:20,299
+<font color="yellow">Right, we ate everything yesterday.</font>
+
+605
+00:49:20,729 --> 00:49:23,199
+<font color="yellow">Go catch a few more fish, then.</font>
+
+606
+00:49:25,859 --> 00:49:27,559
+<font color="yellow">Goodness, look at you.</font>
+
+607
+00:49:27,559 --> 00:49:29,759
+<font color="yellow">You're tattering my heart to pieces again.</font>
+
+608
+00:49:29,899 --> 00:49:31,459
+<font color="yellow">Hey, if you're going to keep this up,</font>
+
+609
+00:49:31,459 --> 00:49:34,229
+<font color="yellow">I'll fire you when we go back to Seoul.</font>
+
+610
+00:49:37,729 --> 00:49:38,729
+<font color="yellow">Fine, fire me.</font>
+
+611
+00:49:41,029 --> 00:49:42,259
+<font color="yellow">Go ahead and fire me, you jerk.</font>
+
+612
+00:49:45,529 --> 00:49:46,559
+<font color="yellow">Fire me.</font>
+
+613
+00:49:47,059 --> 00:49:49,459
+<font color="yellow">Fire me all you want if you're lucky enough to get out of here.</font>
+
+614
+00:49:50,459 --> 00:49:51,459
+<font color="yellow">But you know what?</font>
+
+615
+00:49:52,459 --> 00:49:53,729
+<font color="yellow">You won't be able to leave here.</font>
+
+616
+00:49:54,499 --> 00:49:56,799
+<font color="yellow">Neither of us will be able to get off this island. Do you understand?</font>
+
+617
+00:49:58,429 --> 00:50:00,899
+<font color="yellow">- Hey, why... What's... - You jerk.</font>
+
+618
+00:50:01,229 --> 00:50:02,859
+<font color="yellow">- Are you out of your mind? - Seriously!</font>
+
+619
+00:50:02,859 --> 00:50:03,999
+<font color="yellow">- Stop, guys. - Let go.</font>
+
+620
+00:50:03,999 --> 00:50:06,299
+<font color="yellow">You psycho. Make your own food...</font>
+
+621
+00:50:06,459 --> 00:50:08,599
+<font color="yellow">and catch your own fish, you jerk.</font>
+
+622
+00:50:08,599 --> 00:50:10,729
+<font color="yellow">- I won't eat anything. - You're unbelievable!</font>
+
+623
+00:50:11,859 --> 00:50:13,599
+<font color="yellow">Joon Oh, Joon Oh!</font>
+
+624
+00:50:13,599 --> 00:50:15,229
+<font color="yellow">Joon Oh, Joon Oh. Get up.</font>
+
+625
+00:50:16,499 --> 00:50:17,559
+<font color="yellow">What now?</font>
+
+626
+00:50:19,059 --> 00:50:20,099
+<font color="yellow">Light.</font>
+
+627
+00:50:46,859 --> 00:50:47,899
+<font color="yellow">People.</font>
+
+628
+00:50:48,559 --> 00:50:49,559
+<font color="yellow">It must be people.</font>
+
+629
+00:50:50,259 --> 00:50:52,359
+<font color="yellow">Hey, wait! Do you even know where you're going? Gosh.</font>
+
+630
+00:50:53,259 --> 00:50:54,959
+<font color="yellow">It's probably not people who came to rescue us.</font>
+
+631
+00:50:56,829 --> 00:50:59,259
+<font color="yellow">Joon Oh, they could be like us. Survivors.</font>
+
+632
+00:50:59,659 --> 00:51:01,329
+<font color="yellow">It means they can be people we know.</font>
+
+633
+00:51:01,629 --> 00:51:03,559
+<font color="yellow">- I'll be back, okay? - Yeol, Yeol.</font>
+
+634
+00:51:03,729 --> 00:51:05,829
+<font color="yellow">Hey, you don't even know where it is. You're injured. Yeol!</font>
+
+635
+00:51:19,529 --> 00:51:20,529
+<font color="yellow">Yeol!</font>
+
+636
+00:51:30,599 --> 00:51:31,599
+<font color="yellow">It's gone.</font>
+
+637
+00:51:32,999 --> 00:51:34,459
+<font color="yellow">- Let's go closer to it. - Okay.</font>
+
+638
+00:51:42,059 --> 00:51:43,459
+<font color="yellow">I think it was around here.</font>
+
+639
+00:51:44,129 --> 00:51:45,199
+<font color="yellow">Let's split up.</font>
+
+640
+00:51:45,199 --> 00:51:47,299
+<font color="yellow">Scream if you find anyone or if anything happens.</font>
+
+641
+00:51:47,859 --> 00:51:48,899
+<font color="yellow">Okay.</font>
+
+642
+00:51:55,029 --> 00:51:56,129
+<font color="yellow">Hello?</font>
+
+643
+00:51:57,059 --> 00:51:58,229
+<font color="yellow">Can anyone hear me?</font>
+
+644
+00:52:22,029 --> 00:52:23,059
+<font color="yellow">Hello?</font>
+
+645
+00:52:24,329 --> 00:52:25,329
+<font color="yellow">Help!</font>
+
+646
+00:52:30,559 --> 00:52:31,559
+<font color="yellow">Bong Hee!</font>
+
+647
+00:52:35,199 --> 00:52:36,499
+<font color="yellow">Help me!</font>
+
+648
+00:52:40,829 --> 00:52:42,859
+<font color="yellow">I'm stuck in here!</font>
+
+649
+00:52:59,129 --> 00:53:00,299
+<font color="yellow">You should've been careful.</font>
+
+650
+00:53:03,399 --> 00:53:04,429
+<font color="yellow">Come on.</font>
+
+651
+00:53:11,699 --> 00:53:13,829
+<font color="yellow">I have one question.</font>
+
+652
+00:53:14,629 --> 00:53:16,429
+<font color="yellow">When you first saw the light,</font>
+
+653
+00:53:18,229 --> 00:53:21,399
+<font color="yellow">why did you keep running without looking back?</font>
+
+654
+00:53:24,759 --> 00:53:26,959
+<font color="yellow">Did you want to help the other survivors if there were any?</font>
+
+655
+00:53:27,829 --> 00:53:28,829
+<font color="yellow">Is that why?</font>
+
+656
+00:53:36,129 --> 00:53:37,829
+<font color="yellow">I didn't go to help.</font>
+
+657
+00:53:40,229 --> 00:53:42,499
+<font color="yellow">I actually went there to get help.</font>
+
+658
+00:53:47,429 --> 00:53:49,659
+<font color="yellow">If anyone was on that island,</font>
+
+659
+00:53:51,559 --> 00:53:54,829
+<font color="yellow">I thought their situation would be better than ours.</font>
+
+660
+00:53:57,129 --> 00:53:59,199
+<font color="yellow">I understand how you must've felt.</font>
+
+661
+00:54:00,329 --> 00:54:02,859
+<font color="yellow">You're right. I would do the same thing, too.</font>
+
+662
+00:54:03,859 --> 00:54:04,959
+<font color="yellow">Do you think you're on a date?</font>
+
+663
+00:54:05,399 --> 00:54:07,199
+<font color="yellow">Stop talking about unnecessary things...</font>
+
+664
+00:54:07,199 --> 00:54:09,329
+<font color="yellow">and ask her who the survivor was.</font>
+
+665
+00:54:09,329 --> 00:54:12,299
+<font color="yellow">Yes. All right.</font>
+
+666
+00:54:13,329 --> 00:54:14,399
+<font color="yellow">Now, Bong Hee.</font>
+
+667
+00:54:16,499 --> 00:54:18,059
+<font color="yellow">That light from a cellphone.</font>
+
+668
+00:54:18,929 --> 00:54:20,759
+<font color="yellow">You found a survivor in the face of danger.</font>
+
+669
+00:54:22,729 --> 00:54:23,759
+<font color="yellow">Who was that person?</font>
+
+670
+00:54:25,599 --> 00:54:27,399
+<font color="yellow">Do you remember? Do you?</font>
+
+671
+00:54:31,599 --> 00:54:32,659
+<font color="yellow">It's cold.</font>
+
+672
+00:54:35,829 --> 00:54:37,229
+<font color="yellow">- I just... - You startled me.</font>
+
+673
+00:54:37,629 --> 00:54:38,699
+<font color="yellow">Come on.</font>
+
+674
+00:54:44,329 --> 00:54:46,329
+<font color="yellow">Thank you for saving me.</font>
+
+675
+00:54:47,399 --> 00:54:48,929
+<font color="yellow">You'd do the same thing for me.</font>
+
+676
+00:54:50,329 --> 00:54:51,559
+<font color="yellow">Thank you anyway.</font>
+
+677
+00:54:53,229 --> 00:54:54,299
+<font color="yellow">I won't forget that.</font>
+
+678
+00:54:55,759 --> 00:54:58,829
+<font color="yellow">That's right. You shouldn't. Remember it forever.</font>
+
+679
+00:55:00,199 --> 00:55:01,229
+<font color="yellow">- You were so... - Joon Oh!</font>
+
+680
+00:55:01,829 --> 00:55:02,829
+<font color="yellow">- Yeol. - Bong Hee.</font>
+
+681
+00:55:03,729 --> 00:55:05,859
+<font color="yellow">Are you okay? What happened?</font>
+
+682
+00:55:05,859 --> 00:55:08,429
+<font color="yellow">- I stumbled. - You didn't get hurt, right?</font>
+
+683
+00:55:08,429 --> 00:55:09,599
+<font color="yellow">I didn't. I'm okay.</font>
+
+684
+00:55:09,599 --> 00:55:11,129
+<font color="yellow">You two shouldn't have...</font>
+
+685
+00:55:11,829 --> 00:55:13,129
+<font color="yellow">Let's just go. It's cold.</font>
+
+686
+00:55:17,029 --> 00:55:18,429
+<font color="yellow">You have to remember, Bong Hee.</font>
+
+687
+00:55:19,459 --> 00:55:20,499
+<font color="yellow">Who was it?</font>
+
+688
+00:55:23,129 --> 00:55:24,629
+<font color="yellow">Who was that person?</font>
+
+689
+00:55:24,629 --> 00:55:26,459
+<font color="yellow">Did that person die or not afterwards?</font>
+
+690
+00:55:27,299 --> 00:55:30,059
+<font color="yellow">- That's... - Do you remember that?</font>
+
+691
+00:55:30,959 --> 00:55:32,699
+<font color="yellow">That person was...</font>
+
+692
+00:55:35,129 --> 00:55:37,499
+<font color="yellow">- No! - Where are you going?</font>
+
+693
+00:55:37,499 --> 00:55:38,499
+<font color="yellow">No!</font>
+
+694
+00:55:40,829 --> 00:55:41,829
+<font color="yellow">That person was...</font>
+
+695
+00:55:52,329 --> 00:55:53,929
+<font color="yellow">I'm sure it was...</font>
+
+696
+00:56:05,399 --> 00:56:07,129
+<font color="yellow">I did see that person's face.</font>
+
+697
+00:56:16,229 --> 00:56:18,059
+<font color="yellow">Did you see it? Who was it?</font>
+
+698
+00:56:35,059 --> 00:56:36,659
+<font color="yellow">I saw the face, but...</font>
+
+699
+00:56:43,859 --> 00:56:44,929
+<font color="yellow">I'm sorry.</font>
+
+700
+00:57:09,829 --> 00:57:10,859
+<font color="yellow">Ji Ah!</font>
+
+701
+00:57:11,429 --> 00:57:12,429
+<font color="yellow">Ji Ah.</font>
+
+702
+00:57:14,829 --> 00:57:15,829
+<font color="yellow">Ji Ah.</font>
+
+703
+00:57:16,699 --> 00:57:17,759
+<font color="yellow">Ji Ah.</font>
+
+704
+00:57:18,699 --> 00:57:20,529
+<font color="yellow">How... How did you...</font>
+
+705
+00:57:20,529 --> 00:57:24,029
+<font color="yellow">Where have you been? Why did you leave me alone?</font>
+
+706
+00:57:24,029 --> 00:57:26,059
+<font color="yellow">Ji Ah. Are you hurt?</font>
+
+707
+00:57:27,299 --> 00:57:28,459
+<font color="yellow">Stop crying, Ji Ah.</font>
+
+708
+00:57:28,459 --> 00:57:30,559
+<font color="yellow">How did you manage to survive until now?</font>
+
+709
+00:57:32,059 --> 00:57:34,929
+<font color="yellow">Have you been here by yourself? Have you?</font>
+
+710
+00:57:36,059 --> 00:57:38,959
+<font color="yellow">No. I was with someone.</font>
+
+711
+00:58:11,929 --> 00:58:14,029
+<font color="yellow">They found her near the seashore,</font>
+
+712
+00:58:14,399 --> 00:58:16,199
+<font color="yellow">but it wasn't the plane crash that killed her.</font>
+
+713
+00:58:18,059 --> 00:58:19,129
+<font color="yellow">What?</font>
+
+714
+00:58:19,859 --> 00:58:22,129
+<font color="yellow">He says it seems like she was murdered.</font>
+
+715
+00:58:27,729 --> 00:58:29,829
+<font color="yellow">I've been staying here since the crash.</font>
+
+716
+00:58:30,329 --> 00:58:31,929
+<font color="yellow">Then I met her. She was alone.</font>
+
+717
+00:58:31,929 --> 00:58:34,759
+<font color="yellow">- Why are you saying she's strange? - Just come. We're almost there.</font>
+
+718
+00:58:35,829 --> 00:58:37,929
+<font color="yellow">She's been anxious. She barely eats.</font>
+
+719
+00:58:37,929 --> 00:58:39,629
+<font color="yellow">Who would be okay in this situation?</font>
+
+720
+00:58:39,629 --> 00:58:41,629
+<font color="yellow">She even tried to kill herself a few days ago.</font>
+
+721
+00:58:42,029 --> 00:58:43,059
+<font color="yellow">Why?</font>
+
+722
+00:58:43,399 --> 00:58:45,659
+<font color="yellow">She says she wants to die, and it's miserable being here.</font>
+
+723
+01:00:01,229 --> 01:00:03,559
+<font color="yellow">He's asking how he's related to her.</font>
+
+724
+01:00:06,299 --> 01:00:07,729
+<font color="yellow">Tell them she's his sister.</font>
+
+725
+01:00:43,229 --> 01:00:44,329
+<font color="yellow">Are you okay, So Hee?</font>
+
+726
+01:01:04,229 --> 01:01:06,029
+<font color="yellow">Medically speaking,</font>
+
+727
+01:01:06,329 --> 01:01:07,929
+<font color="yellow">she's supposed to remember.</font>
+
+728
+01:01:09,459 --> 01:01:10,759
+<font color="yellow">You're saying...</font>
+
+729
+01:01:12,059 --> 01:01:14,229
+<font color="yellow">it's possible that Bong Hee is pretending not to remember...</font>
+
+730
+01:01:14,229 --> 01:01:15,959
+<font color="yellow">when she actually remembers.</font>
+
+731
+01:01:16,829 --> 01:01:17,829
+<font color="yellow">Is that it?</font>
+
+732
+01:01:19,129 --> 01:01:20,499
+<font color="yellow">That is what I can tell you.</font>
+
+733
+01:01:21,329 --> 01:01:24,029
+<font color="yellow">Medically, it doesn't make sense that she doesn't remember.</font>
+
+734
+01:01:54,899 --> 01:01:58,159
+<font color="yellow">(Missing 9)</font>
+
+735
+01:01:58,329 --> 01:02:01,259
+<font color="yellow">I think they were quite close on the island.</font>
+
+736
+01:02:01,259 --> 01:02:02,259
+<font color="yellow">Do you understand the situation?</font>
+
+737
+01:02:02,259 --> 01:02:05,329
+<font color="yellow">Do you remember who killed my sister?</font>
+
+738
+01:02:05,329 --> 01:02:07,599
+<font color="yellow">People can kill others to save themselves.</font>
+
+739
+01:02:07,599 --> 01:02:09,729
+<font color="yellow">You can kill again since we're on a deserted island.</font>
+
+740
+01:02:09,729 --> 01:02:12,729
+<font color="yellow">It'll be shocking news if people find out that you're still alive.</font>
+
+741
+01:02:13,059 --> 01:02:14,699
+<font color="yellow">- Are you sick? - It won't kill me.</font>
+
+742
+01:02:14,699 --> 01:02:15,799
+<font color="yellow">You might die.</font>
+
+743
+01:02:15,799 --> 01:02:18,859
+<font color="yellow">We don't know who's alive or dead, but there must be survivors.</font>
+
+744
+01:02:18,859 --> 01:02:20,499
+<font color="yellow">I doubt everyone else died.</font>
+
+745
+01:02:20,729 --> 01:02:23,259
+<font color="yellow">- Tae Ho? - You're still alive!</font>
+
+746
+01:02:23,259 --> 01:02:24,629
+<font color="yellow">Whether we starve or get killed,</font>
+
+747
+01:02:24,629 --> 01:02:26,399
+<font color="yellow">we'll die here anyway.</font>
+
+748
+01:02:26,499 --> 01:02:28,129
+<font color="yellow">- So Hee is acting strange. - So Hee!</font>
+
+749
+01:02:28,329 --> 01:02:31,259
+<font color="yellow">One of the missing people was Seo Joon Oh.</font>
+
+750
+01:02:31,799 --> 01:02:32,999
+<font color="yellow">He has an interesting background.</font>
+

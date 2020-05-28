@@ -1,0 +1,3465 @@
+1
+00:00:06,713 --> 00:00:08,073
+<font color="yellow">(Episode 49)</font>
+
+2
+00:00:11,343 --> 00:00:12,343
+<font color="yellow">Hello?</font>
+
+3
+00:00:12,643 --> 00:00:13,843
+<font color="yellow">Is this Kang Gi Tan?</font>
+
+4
+00:00:14,613 --> 00:00:15,613
+<font color="yellow">It is.</font>
+
+5
+00:00:15,943 --> 00:00:18,073
+<font color="yellow">You want the Pandora's Box.</font>
+
+6
+00:00:19,173 --> 00:00:20,643
+<font color="yellow">I have it.</font>
+
+7
+00:00:23,373 --> 00:00:24,713
+<font color="yellow">Who is it?</font>
+
+8
+00:00:26,643 --> 00:00:27,913
+<font color="yellow">Let's meet right now.</font>
+
+9
+00:00:28,443 --> 00:00:30,613
+<font color="yellow">You said you would give me three million dollars.</font>
+
+10
+00:00:31,143 --> 00:00:33,113
+<font color="yellow">Can you give me five million?</font>
+
+11
+00:00:33,243 --> 00:00:35,173
+<font color="yellow">If you hand me that box,</font>
+
+12
+00:00:36,043 --> 00:00:37,713
+<font color="yellow">I'll give you whatever you want.</font>
+
+13
+00:00:41,543 --> 00:00:43,513
+<font color="yellow">I need some more time.</font>
+
+14
+00:00:44,013 --> 00:00:45,213
+<font color="yellow">I'll call you again.</font>
+
+15
+00:00:46,613 --> 00:00:49,413
+<font color="yellow">Wait. Hello? Hello?</font>
+
+16
+00:00:52,543 --> 00:00:53,543
+<font color="yellow">Was that the informant?</font>
+
+17
+00:00:54,213 --> 00:00:55,213
+<font color="yellow">Yes.</font>
+
+18
+00:01:14,543 --> 00:01:18,673
+<font color="yellow">The two top presidential candidates for this election, Hwang Jae Man...</font>
+
+19
+00:01:18,713 --> 00:01:23,643
+<font color="yellow">and Eo Gyeong Seok are revealing shocking stories about each other.</font>
+
+20
+00:01:24,543 --> 00:01:28,143
+<font color="yellow">The nation is in deep shock over these scandals.</font>
+
+21
+00:01:28,973 --> 00:01:33,243
+<font color="yellow">They both claim these scandals are false propaganda by the other,</font>
+
+22
+00:01:33,273 --> 00:01:36,313
+<font color="yellow">and will not cease running for presidency.</font>
+
+23
+00:01:36,543 --> 00:01:39,743
+<font color="yellow">On the other hand, the prosecution will...</font>
+
+24
+00:01:39,813 --> 00:01:42,313
+<font color="yellow">conduct an investigation...</font>
+
+25
+00:01:42,543 --> 00:01:44,873
+<font color="yellow">on Mr Eo and Mr Hwang's scandals...</font>
+
+26
+00:01:44,873 --> 00:01:47,143
+<font color="yellow">after the presidential election is over.</font>
+
+27
+00:01:47,243 --> 00:01:50,573
+<font color="yellow">Hence, there is much attention on the result of this election.</font>
+
+28
+00:01:56,243 --> 00:01:59,613
+<font color="yellow">You have to go vote early tomorrow. Stop drinking, Father.</font>
+
+29
+00:02:03,743 --> 00:02:06,843
+<font color="yellow">How's the public sentiment?</font>
+
+30
+00:02:07,243 --> 00:02:09,983
+<font color="yellow">It looks like people will vote...</font>
+
+31
+00:02:10,113 --> 00:02:13,713
+<font color="yellow">for the third in line instead of Mr Eo and you.</font>
+
+32
+00:02:15,873 --> 00:02:17,573
+<font color="yellow">Il Jae.</font>
+
+33
+00:02:18,513 --> 00:02:22,743
+<font color="yellow">I can't believe he stabbed me in the back at the last minute.</font>
+
+34
+00:02:23,143 --> 00:02:26,773
+<font color="yellow">I told you to never trust him.</font>
+
+35
+00:02:27,373 --> 00:02:28,413
+<font color="yellow">Everything depends...</font>
+
+36
+00:02:29,273 --> 00:02:31,913
+<font color="yellow">on the result of the election tomorrow.</font>
+
+37
+00:02:32,983 --> 00:02:34,173
+<font color="yellow">If I fail,</font>
+
+38
+00:02:35,713 --> 00:02:37,073
+<font color="yellow">I probably can't avoid...</font>
+
+39
+00:02:37,913 --> 00:02:39,173
+<font color="yellow">the prosecution investigation.</font>
+
+40
+00:02:39,813 --> 00:02:42,643
+<font color="yellow">One good thing is that people are focused more...</font>
+
+41
+00:02:42,713 --> 00:02:45,473
+<font color="yellow">on Mr Eo's sex scandal rather than your lobby.</font>
+
+42
+00:02:46,173 --> 00:02:49,973
+<font color="yellow">Whether I get elected or not,</font>
+
+43
+00:02:51,143 --> 00:02:52,643
+<font color="yellow">I will make sure...</font>
+
+44
+00:02:53,143 --> 00:02:54,343
+<font color="yellow">to destroy Il Jae...</font>
+
+45
+00:02:55,113 --> 00:02:57,543
+<font color="yellow">with my own hands.</font>
+
+46
+00:03:03,373 --> 00:03:07,013
+<font color="yellow">If Mr Eo doesn't get elected, Gi Tan will take over the company.</font>
+
+47
+00:03:07,243 --> 00:03:08,273
+<font color="yellow">Do you understand?</font>
+
+48
+00:03:09,143 --> 00:03:12,043
+<font color="yellow">We have to wait for the result.</font>
+
+49
+00:03:12,243 --> 00:03:14,113
+<font color="yellow">It's too early to feel defeated.</font>
+
+50
+00:03:15,543 --> 00:03:17,443
+<font color="yellow">I can already see how it will go.</font>
+
+51
+00:03:17,813 --> 00:03:19,443
+<font color="yellow">Are you blind?</font>
+
+52
+00:03:19,443 --> 00:03:20,913
+<font color="yellow">That's too much, Gun Woo.</font>
+
+53
+00:03:20,913 --> 00:03:21,973
+<font color="yellow">Shut it.</font>
+
+54
+00:03:21,973 --> 00:03:24,273
+<font color="yellow">What? Are you kidding me?</font>
+
+55
+00:03:24,443 --> 00:03:25,743
+<font color="yellow">What are you trying to do?</font>
+
+56
+00:03:27,713 --> 00:03:28,943
+<font color="yellow">Choong Dong!</font>
+
+57
+00:03:29,143 --> 00:03:30,143
+<font color="yellow">Stop it.</font>
+
+58
+00:03:36,343 --> 00:03:37,743
+<font color="yellow">What are you doing?</font>
+
+59
+00:03:38,513 --> 00:03:41,243
+<font color="yellow">Gun Woo dared to speak to you...</font>
+
+60
+00:03:45,173 --> 00:03:47,273
+<font color="yellow">Apologise to Gun Woo. Be polite.</font>
+
+61
+00:03:49,713 --> 00:03:50,713
+<font color="yellow">Hurry up.</font>
+
+62
+00:03:55,073 --> 00:03:56,073
+<font color="yellow">I'm sorry.</font>
+
+63
+00:03:58,513 --> 00:03:59,873
+<font color="yellow">Take Mr Kim and leave.</font>
+
+64
+00:04:13,343 --> 00:04:15,413
+<font color="yellow">I understand you, Gun Woo.</font>
+
+65
+00:04:17,073 --> 00:04:21,973
+<font color="yellow">Things aren't looking great, so you can be angry and you can blame me.</font>
+
+66
+00:04:23,913 --> 00:04:24,913
+<font color="yellow">But Gun Woo,</font>
+
+67
+00:04:25,513 --> 00:04:28,213
+<font color="yellow">what we need in a time like this is a peace of our mind.</font>
+
+68
+00:04:29,173 --> 00:04:32,843
+<font color="yellow">Even if the world collapses, there is always a way out.</font>
+
+69
+00:04:33,343 --> 00:04:35,143
+<font color="yellow">What if we don't find that way?</font>
+
+70
+00:04:35,143 --> 00:04:36,573
+<font color="yellow">We will find a way.</font>
+
+71
+00:04:43,973 --> 00:04:45,043
+<font color="yellow">(Mr Gong)</font>
+
+72
+00:04:51,913 --> 00:04:52,913
+<font color="yellow">Speak.</font>
+
+73
+00:04:53,173 --> 00:04:55,173
+<font color="yellow">Chairman is looking for you.</font>
+
+74
+00:04:56,143 --> 00:04:57,613
+<font color="yellow">What is this about?</font>
+
+75
+00:05:03,283 --> 00:05:04,283
+<font color="yellow">Gun Woo.</font>
+
+76
+00:05:04,913 --> 00:05:06,843
+<font color="yellow">What Il Jae spread is...</font>
+
+77
+00:05:07,113 --> 00:05:11,143
+<font color="yellow">all from Chairman's secret safe, right?</font>
+
+78
+00:05:14,843 --> 00:05:17,743
+<font color="yellow">Gun Woo, are you listening to me?</font>
+
+79
+00:05:18,913 --> 00:05:22,473
+<font color="yellow">Tell Father that I will visit him tomorrow to have a chat.</font>
+
+80
+00:05:23,243 --> 00:05:24,243
+<font color="yellow">Okay.</font>
+
+81
+00:05:27,113 --> 00:05:30,213
+<font color="yellow">He said he'll come tomorrow and tell you himself.</font>
+
+82
+00:05:38,743 --> 00:05:41,313
+<font color="yellow">Wait. What is he saying?</font>
+
+83
+00:05:42,243 --> 00:05:44,413
+<font color="yellow">Gun Woo must be crazy...</font>
+
+84
+00:05:44,813 --> 00:05:48,473
+<font color="yellow">to give Il Jae everything in the Pandora's Box.</font>
+
+85
+00:05:52,443 --> 00:05:55,513
+<font color="yellow">Let's stop thinking for tonight and just have a drink.</font>
+
+86
+00:06:13,343 --> 00:06:16,513
+<font color="yellow">He's very drunk. Make sure he gets home safely.</font>
+
+87
+00:06:32,973 --> 00:06:33,973
+<font color="yellow">Choong Dong.</font>
+
+88
+00:06:35,943 --> 00:06:36,943
+<font color="yellow">What is this?</font>
+
+89
+00:06:37,143 --> 00:06:39,473
+<font color="yellow">This is Gun Woo's fingerprint.</font>
+
+90
+00:06:40,913 --> 00:06:44,013
+<font color="yellow">- Do you have a Dodo Group's card? - Yes.</font>
+
+91
+00:06:44,173 --> 00:06:46,013
+<font color="yellow">Go to Chairman's room tonight...</font>
+
+92
+00:06:46,173 --> 00:06:48,943
+<font color="yellow">and bring the Pandora's Box which Gun Woo is holding.</font>
+
+93
+00:06:50,443 --> 00:06:51,443
+<font color="yellow">Yes, Sir.</font>
+
+94
+00:07:03,443 --> 00:07:04,543
+<font color="yellow">(Dodo Group)</font>
+
+95
+00:07:28,243 --> 00:07:29,973
+<font color="yellow">Safe unlocked.</font>
+
+96
+00:07:58,443 --> 00:08:00,243
+<font color="yellow">(Moving 140 files from Desktop)</font>
+
+97
+00:08:09,613 --> 00:08:10,643
+<font color="yellow">Did you bring it?</font>
+
+98
+00:08:10,643 --> 00:08:12,643
+<font color="yellow">The safe was empty.</font>
+
+99
+00:08:13,413 --> 00:08:14,573
+<font color="yellow">It was empty?</font>
+
+100
+00:08:14,573 --> 00:08:16,543
+<font color="yellow">I think Gun Woo took everything out.</font>
+
+101
+00:08:18,973 --> 00:08:20,573
+<font color="yellow">Did you try going through his computer?</font>
+
+102
+00:08:22,413 --> 00:08:23,513
+<font color="yellow">Here you go.</font>
+
+103
+00:08:24,013 --> 00:08:25,073
+<font color="yellow">Give it to me.</font>
+
+104
+00:08:42,073 --> 00:08:43,143
+<font color="yellow">It's not here.</font>
+
+105
+00:08:49,473 --> 00:08:52,143
+<font color="yellow">Gun Woo took it out already.</font>
+
+106
+00:08:52,413 --> 00:08:55,113
+<font color="yellow">Why don't we just kidnap him and make him tell us?</font>
+
+107
+00:08:58,843 --> 00:09:00,773
+<font color="yellow">What do you think I'll do now?</font>
+
+108
+00:09:00,843 --> 00:09:04,673
+<font color="yellow">Are you saying you'll give Soo Yeon the evidence that I murdered?</font>
+
+109
+00:09:04,673 --> 00:09:06,343
+<font color="yellow">Isn't that only fair?</font>
+
+110
+00:09:06,513 --> 00:09:10,243
+<font color="yellow">I was ruined for trusting you.</font>
+
+111
+00:09:14,313 --> 00:09:17,543
+<font color="yellow">He might have given it to Soo Yeon already.</font>
+
+112
+00:09:20,643 --> 00:09:23,813
+<font color="yellow">Shadow her tomorrow and find out.</font>
+
+113
+00:09:25,213 --> 00:09:27,973
+<font color="yellow">What if she already has it?</font>
+
+114
+00:09:28,043 --> 00:09:30,143
+<font color="yellow">Why are you asking me?</font>
+
+115
+00:09:30,443 --> 00:09:31,613
+<font color="yellow">Pardon?</font>
+
+116
+00:09:31,773 --> 00:09:35,143
+<font color="yellow">In it are the evidence that I committed murder.</font>
+
+117
+00:09:35,143 --> 00:09:37,213
+<font color="yellow">Kidnap or get rid of her.</font>
+
+118
+00:09:37,213 --> 00:09:39,443
+<font color="yellow">We have to stop it from leaking to the media!</font>
+
+119
+00:09:41,513 --> 00:09:42,613
+<font color="yellow">Yes, Sir.</font>
+
+120
+00:09:59,473 --> 00:10:02,073
+<font color="yellow">What's your expectation for today's election?</font>
+
+121
+00:10:02,073 --> 00:10:04,473
+<font color="yellow">Justice that cannot win...</font>
+
+122
+00:10:05,343 --> 00:10:06,743
+<font color="yellow">is not justice.</font>
+
+123
+00:10:07,443 --> 00:10:10,573
+<font color="yellow">I trust that our citizens...</font>
+
+124
+00:10:11,043 --> 00:10:13,413
+<font color="yellow">will show us...</font>
+
+125
+00:10:13,643 --> 00:10:16,813
+<font color="yellow">what justice exactly means.</font>
+
+126
+00:10:16,943 --> 00:10:20,343
+<font color="yellow">You denied the secrets exposed by your ex-son-in-law, Byun Il Jae.</font>
+
+127
+00:10:20,673 --> 00:10:23,013
+<font color="yellow">What do you mean, exposed?</font>
+
+128
+00:10:23,513 --> 00:10:25,943
+<font color="yellow">If one makes up lies,</font>
+
+129
+00:10:25,943 --> 00:10:28,383
+<font color="yellow">that's slandering.</font>
+
+130
+00:10:28,883 --> 00:10:30,443
+<font color="yellow">A vicious slander.</font>
+
+131
+00:10:30,643 --> 00:10:32,813
+<font color="yellow">Why do you think Byun Il Jae did such a thing?</font>
+
+132
+00:10:33,313 --> 00:10:36,743
+<font color="yellow">We were arguing throughout our divorce.</font>
+
+133
+00:10:36,743 --> 00:10:39,343
+<font color="yellow">I can only assume that...</font>
+
+134
+00:10:39,973 --> 00:10:42,043
+<font color="yellow">it's a shameful revenge.</font>
+
+135
+00:10:42,273 --> 00:10:44,143
+<font color="yellow">Please say one last word.</font>
+
+136
+00:10:45,843 --> 00:10:46,913
+<font color="yellow">Sure.</font>
+
+137
+00:10:49,143 --> 00:10:50,213
+<font color="yellow">Dear citizens.</font>
+
+138
+00:10:51,073 --> 00:10:53,873
+<font color="yellow">If you want a world of justice and principle,</font>
+
+139
+00:10:54,543 --> 00:10:57,573
+<font color="yellow">please head to a voting station right now.</font>
+
+140
+00:10:58,413 --> 00:11:01,813
+<font color="yellow">Voting is the most political action...</font>
+
+141
+00:11:02,473 --> 00:11:06,013
+<font color="yellow">you can take as citizens.</font>
+
+142
+00:11:07,343 --> 00:11:09,143
+<font color="yellow">- Congressman Eo. - You must all be busy.</font>
+
+143
+00:11:09,143 --> 00:11:11,843
+<font color="yellow">You claimed that Hong Hee Jin was bribed by Congressman Hwang...</font>
+
+144
+00:11:11,843 --> 00:11:14,073
+<font color="yellow">when she reported she was sexually abused by you.</font>
+
+145
+00:11:14,073 --> 00:11:15,213
+<font color="yellow">Do you have evidence?</font>
+
+146
+00:11:15,573 --> 00:11:17,513
+<font color="yellow">I already stated my case.</font>
+
+147
+00:11:17,873 --> 00:11:19,143
+<font color="yellow">Let's talk about something else.</font>
+
+148
+00:11:19,143 --> 00:11:21,773
+<font color="yellow">Have you ever met with Byun Il Jae before?</font>
+
+149
+00:11:22,413 --> 00:11:24,643
+<font color="yellow">He came to see me first...</font>
+
+150
+00:11:24,643 --> 00:11:27,873
+<font color="yellow">and told me that he would expose Congressman Hwang's secrets.</font>
+
+151
+00:11:28,973 --> 00:11:32,473
+<font color="yellow">I'd like to applause Byun Il Jae on his courage...</font>
+
+152
+00:11:32,573 --> 00:11:35,743
+<font color="yellow">for revealing the truth despite all the dangers.</font>
+
+153
+00:11:40,743 --> 00:11:44,313
+<font color="yellow">Oh Soo Yeon went to vote, and now she's going back to the office.</font>
+
+154
+00:11:44,843 --> 00:11:47,843
+<font color="yellow">No, she's not doing anything out of the ordinary.</font>
+
+155
+00:11:48,643 --> 00:11:50,913
+<font color="yellow">Yes. I'll keep watching.</font>
+
+156
+00:11:55,913 --> 00:11:57,043
+<font color="yellow">What are you doing here?</font>
+
+157
+00:11:57,343 --> 00:11:59,373
+<font color="yellow">- What are you doing? - What is it?</font>
+
+158
+00:11:59,373 --> 00:12:02,013
+<font color="yellow">Did Il Jae tell you to tail Soo Yeon around?</font>
+
+159
+00:12:02,813 --> 00:12:05,443
+<font color="yellow">This is a nice car.</font>
+
+160
+00:12:05,443 --> 00:12:08,713
+<font color="yellow">Wow. How much does a car like this cost?</font>
+
+161
+00:12:10,113 --> 00:12:12,273
+<font color="yellow">Have you had lunch yet?</font>
+
+162
+00:12:12,273 --> 00:12:13,343
+<font color="yellow">Get off.</font>
+
+163
+00:12:13,813 --> 00:12:17,473
+<font color="yellow">Sure. We all do different things to make a living.</font>
+
+164
+00:12:18,013 --> 00:12:21,343
+<font color="yellow">We're going to order jjajangmyeon. Come join us.</font>
+
+165
+00:12:21,343 --> 00:12:22,613
+<font color="yellow">I said, get off!</font>
+
+166
+00:12:22,613 --> 00:12:25,543
+<font color="yellow">You're so rude.</font>
+
+167
+00:12:25,543 --> 00:12:28,313
+<font color="yellow">You ate so well in jail.</font>
+
+168
+00:12:28,313 --> 00:12:31,743
+<font color="yellow">It's just a meal. Why not just eat together?</font>
+
+169
+00:12:31,813 --> 00:12:32,843
+<font color="yellow">Come on.</font>
+
+170
+00:12:34,843 --> 00:12:37,473
+<font color="yellow">I'll order you something expensive. Come on.</font>
+
+171
+00:12:51,113 --> 00:12:52,843
+<font color="yellow">When the informant shows up,</font>
+
+172
+00:12:52,843 --> 00:12:55,873
+<font color="yellow">we'll be able to prove that Il Jae is a murderer.</font>
+
+173
+00:12:57,543 --> 00:13:00,973
+<font color="yellow">Oh Choong Dong. You still have a chance.</font>
+
+174
+00:13:01,373 --> 00:13:02,473
+<font color="yellow">What chance?</font>
+
+175
+00:13:02,473 --> 00:13:04,873
+<font color="yellow">A chance to be forgiven...</font>
+
+176
+00:13:05,073 --> 00:13:06,573
+<font color="yellow">for all the crimes you committed for him.</font>
+
+177
+00:13:07,013 --> 00:13:09,143
+<font color="yellow">Enough nonsense. You can't fool me.</font>
+
+178
+00:13:09,443 --> 00:13:11,213
+<font color="yellow">You need to wake up.</font>
+
+179
+00:13:11,313 --> 00:13:13,773
+<font color="yellow">Il Jae will be pushed to the end of the cliff.</font>
+
+180
+00:13:13,773 --> 00:13:16,843
+<font color="yellow">Do you plan on jumping off with him?</font>
+
+181
+00:13:18,143 --> 00:13:19,473
+<font color="yellow">No, don't do that.</font>
+
+182
+00:13:19,873 --> 00:13:22,043
+<font color="yellow">Your mother's still alive.</font>
+
+183
+00:13:22,673 --> 00:13:23,873
+<font color="yellow">Is she well?</font>
+
+184
+00:13:25,973 --> 00:13:28,273
+<font color="yellow">Why did Il Jae order you to shadow me?</font>
+
+185
+00:13:28,273 --> 00:13:29,773
+<font color="yellow">It's not like that.</font>
+
+186
+00:13:29,873 --> 00:13:32,573
+<font color="yellow">Then did he tell you to kidnap me?</font>
+
+187
+00:13:37,143 --> 00:13:39,813
+<font color="yellow">No way, he wouldn't do that.</font>
+
+188
+00:13:40,613 --> 00:13:43,213
+<font color="yellow">This is bad table manner.</font>
+
+189
+00:13:44,073 --> 00:13:46,343
+<font color="yellow">Here, finish it. The noodles are getting cold.</font>
+
+190
+00:13:46,343 --> 00:13:47,413
+<font color="yellow">I'm finished.</font>
+
+191
+00:13:49,773 --> 00:13:51,043
+<font color="yellow">Choong Dong.</font>
+
+192
+00:13:52,243 --> 00:13:53,843
+<font color="yellow">I have my trust in you.</font>
+
+193
+00:13:56,073 --> 00:13:59,543
+<font color="yellow">I won't give up. I'll wait for you until the end.</font>
+
+194
+00:13:59,913 --> 00:14:01,113
+<font color="yellow">Suit yourself.</font>
+
+195
+00:14:02,013 --> 00:14:03,473
+<font color="yellow">Finish this before you go.</font>
+
+196
+00:14:06,613 --> 00:14:07,713
+<font color="yellow">I'm sorry.</font>
+
+197
+00:14:09,413 --> 00:14:10,643
+<font color="yellow">Bye.</font>
+
+198
+00:14:10,643 --> 00:14:12,373
+<font color="yellow">Gosh.</font>
+
+199
+00:14:13,613 --> 00:14:14,643
+<font color="yellow">Are you okay?</font>
+
+200
+00:14:16,073 --> 00:14:19,513
+<font color="yellow">Did you see those eyes? He gives me the chills.</font>
+
+201
+00:14:20,373 --> 00:14:23,713
+<font color="yellow">Are you sure there's something we can get from him?</font>
+
+202
+00:14:23,973 --> 00:14:25,943
+<font color="yellow">It'd be over if we can find the informant.</font>
+
+203
+00:14:25,943 --> 00:14:28,943
+<font color="yellow">No one else would know...</font>
+
+204
+00:14:28,943 --> 00:14:31,343
+<font color="yellow">better than him.</font>
+
+205
+00:14:32,013 --> 00:14:35,813
+<font color="yellow">That's true. If he comes to our side,</font>
+
+206
+00:14:35,813 --> 00:14:38,673
+<font color="yellow">Il Jae would spend the rest of his life in jail...</font>
+
+207
+00:14:38,673 --> 00:14:40,473
+<font color="yellow">at the least.</font>
+
+208
+00:14:42,473 --> 00:14:44,873
+<font color="yellow">He's like a VIP to us.</font>
+
+209
+00:14:44,973 --> 00:14:48,343
+<font color="yellow">That's why I said we should have ordered something expensive.</font>
+
+210
+00:14:48,543 --> 00:14:50,643
+<font color="yellow">How can we order it when we don't have money?</font>
+
+211
+00:14:50,643 --> 00:14:52,413
+<font color="yellow">We can order with the business credit card.</font>
+
+212
+00:14:58,873 --> 00:15:00,073
+<font color="yellow">Yes, Sir.</font>
+
+213
+00:15:01,743 --> 00:15:05,113
+<font color="yellow">I'm certain Gun Woo hasn't given those files to Soo Yeon yet.</font>
+
+214
+00:15:05,713 --> 00:15:07,613
+<font color="yellow">You can leave now.</font>
+
+215
+00:15:07,973 --> 00:15:09,513
+<font color="yellow">Don't you need me to shadow them longer?</font>
+
+216
+00:15:10,343 --> 00:15:11,843
+<font color="yellow">Dodo Group is still standing strong.</font>
+
+217
+00:15:12,243 --> 00:15:14,143
+<font color="yellow">I won't make rash decisions for now.</font>
+
+218
+00:15:14,843 --> 00:15:15,973
+<font color="yellow">Understood.</font>
+
+219
+00:15:21,143 --> 00:15:23,913
+<font color="yellow">(Min and Oh Law Firm)</font>
+
+220
+00:15:27,743 --> 00:15:30,673
+<font color="yellow">There are two hours left until voting closes.</font>
+
+221
+00:15:30,673 --> 00:15:34,373
+<font color="yellow">The voting rate currently stands at 54.1 percent.</font>
+
+222
+00:15:34,373 --> 00:15:36,373
+<font color="yellow">National Election Commission predicts...</font>
+
+223
+00:15:36,373 --> 00:15:39,373
+<font color="yellow">the final rating to be around 60,</font>
+
+224
+00:15:39,373 --> 00:15:42,673
+<font color="yellow">which is the least number of votes in history.</font>
+
+225
+00:15:43,243 --> 00:15:44,313
+<font color="yellow">Great.</font>
+
+226
+00:15:44,513 --> 00:15:46,443
+<font color="yellow">The chairman has been waiting for you.</font>
+
+227
+00:15:50,243 --> 00:15:51,513
+<font color="yellow">What is it?</font>
+
+228
+00:15:51,613 --> 00:15:54,243
+<font color="yellow">The announcement made by Il Jae regarding Jae Man.</font>
+
+229
+00:15:54,543 --> 00:15:57,473
+<font color="yellow">Did that come from the chairman's secret safe?</font>
+
+230
+00:16:01,143 --> 00:16:02,473
+<font color="yellow">That's right.</font>
+
+231
+00:16:02,473 --> 00:16:04,273
+<font color="yellow">I gave it to Il Jae.</font>
+
+232
+00:16:04,473 --> 00:16:06,143
+<font color="yellow">Why did you do that?</font>
+
+233
+00:16:06,873 --> 00:16:08,713
+<font color="yellow">Even if it's for our company,</font>
+
+234
+00:16:09,073 --> 00:16:11,913
+<font color="yellow">you should have never revealed it.</font>
+
+235
+00:16:12,813 --> 00:16:14,713
+<font color="yellow">Does he know about what state the company is in?</font>
+
+236
+00:16:14,713 --> 00:16:16,943
+<font color="yellow">Yes, I gave him an update.</font>
+
+237
+00:16:17,943 --> 00:16:20,143
+<font color="yellow">It was the only way to help save the company.</font>
+
+238
+00:16:20,873 --> 00:16:24,213
+<font color="yellow">If you wanted to save Dodo Group, you should have sided with Jae Man,</font>
+
+239
+00:16:24,813 --> 00:16:27,073
+<font color="yellow">not Congressman Eo.</font>
+
+240
+00:16:28,473 --> 00:16:30,673
+<font color="yellow">I won't let Gi Tan take over the company.</font>
+
+241
+00:16:30,673 --> 00:16:32,013
+<font color="yellow">Don't worry, Father.</font>
+
+242
+00:16:47,113 --> 00:16:48,413
+<font color="yellow">What are you doing?</font>
+
+243
+00:16:49,673 --> 00:16:50,913
+<font color="yellow">Gun Woo.</font>
+
+244
+00:16:51,773 --> 00:16:53,073
+<font color="yellow">Did you give Il Jae...</font>
+
+245
+00:16:53,543 --> 00:16:56,013
+<font color="yellow">everything in the Pandora's Box?</font>
+
+246
+00:16:58,643 --> 00:16:59,813
+<font color="yellow">Actually,</font>
+
+247
+00:16:59,813 --> 00:17:01,643
+<font color="yellow">it would be better if you did.</font>
+
+248
+00:17:01,643 --> 00:17:03,013
+<font color="yellow">I have the rest.</font>
+
+249
+00:17:05,413 --> 00:17:06,413
+<font color="yellow">Why?</font>
+
+250
+00:17:06,413 --> 00:17:09,043
+<font color="yellow">Are you scared you'll be found out about instigating murder?</font>
+
+251
+00:17:09,043 --> 00:17:10,343
+<font color="yellow">Hey!</font>
+
+252
+00:17:10,343 --> 00:17:12,613
+<font color="yellow">It doesn't have anything to do with you.</font>
+
+253
+00:17:12,613 --> 00:17:15,443
+<font color="yellow">Why do you have that?</font>
+
+254
+00:17:15,443 --> 00:17:17,713
+<font color="yellow">I have a feeling it'll come to good use later.</font>
+
+255
+00:17:17,813 --> 00:17:20,513
+<font color="yellow">No. You'd never use it.</font>
+
+256
+00:17:20,513 --> 00:17:23,143
+<font color="yellow">Just give it to me.</font>
+
+257
+00:17:24,613 --> 00:17:26,543
+<font color="yellow">I'd rather burn it than do that.</font>
+
+258
+00:17:28,043 --> 00:17:29,313
+<font color="yellow">No... Hold on.</font>
+
+259
+00:17:30,343 --> 00:17:31,913
+<font color="yellow">You're not planning to give it to Soo Yeon, are you?</font>
+
+260
+00:17:34,813 --> 00:17:36,143
+<font color="yellow">If that gets revealed,</font>
+
+261
+00:17:36,143 --> 00:17:39,143
+<font color="yellow">it won't be just Il Jae and I that gets punished.</font>
+
+262
+00:17:39,143 --> 00:17:41,243
+<font color="yellow">Dodo Group will be damaged. If you really are a chairman...</font>
+
+263
+00:17:41,243 --> 00:17:43,373
+<font color="yellow">Mind your own business. I'll take care of it.</font>
+
+264
+00:17:50,813 --> 00:17:51,873
+<font color="yellow">If Dodo Group...</font>
+
+265
+00:17:52,413 --> 00:17:54,343
+<font color="yellow">gets eaten up by Gi Tan,</font>
+
+266
+00:17:54,343 --> 00:17:56,813
+<font color="yellow">Do Gun Woo might go crazy and hand those over...</font>
+
+267
+00:17:57,443 --> 00:17:58,873
+<font color="yellow">to Soo Yeon.</font>
+
+268
+00:18:01,273 --> 00:18:02,343
+<font color="yellow">Mr Han.</font>
+
+269
+00:18:03,543 --> 00:18:05,113
+<font color="yellow">Mr Han...</font>
+
+270
+00:18:05,213 --> 00:18:08,273
+<font color="yellow">What is he doing? Is he even working?</font>
+
+271
+00:18:11,313 --> 00:18:15,543
+<font color="yellow">We are about to find out who the next president of Korea is.</font>
+
+272
+00:18:16,083 --> 00:18:20,583
+<font color="yellow">Here is the exit poll conducted by the three network TV stations.</font>
+
+273
+00:18:25,313 --> 00:18:28,043
+<font color="yellow">(Exit poll, Hwang Jae Man has the safe seat.)</font>
+
+274
+00:18:30,373 --> 00:18:34,243
+<font color="yellow">Candidate Hwang Jae Man with 41.3 percent of the votes,</font>
+
+275
+00:18:34,273 --> 00:18:38,273
+<font color="yellow">and Candidate Eo Gyeong Seok with 29.6 percent of the votes.</font>
+
+276
+00:18:39,373 --> 00:18:41,713
+<font color="yellow">The exit poll showed Candidate Hwang has...</font>
+
+277
+00:18:41,843 --> 00:18:45,773
+<font color="yellow">about 11.7 percent more votes than Candidate Eo.</font>
+
+278
+00:18:50,373 --> 00:18:51,643
+<font color="yellow">It's over.</font>
+
+279
+00:18:56,273 --> 00:18:57,643
+<font color="yellow">Where are you going?</font>
+
+280
+00:19:04,743 --> 00:19:08,373
+<font color="yellow">They only started counting. Go in and stay.</font>
+
+281
+00:19:08,873 --> 00:19:10,343
+<font color="yellow">Everything is over.</font>
+
+282
+00:19:12,313 --> 00:19:13,443
+<font color="yellow">The result is...</font>
+
+283
+00:19:14,143 --> 00:19:15,143
+<font color="yellow">obvious.</font>
+
+284
+00:19:15,943 --> 00:19:17,113
+<font color="yellow">The president is...</font>
+
+285
+00:19:18,013 --> 00:19:19,143
+<font color="yellow">Hwang Jae Man.</font>
+
+286
+00:19:21,013 --> 00:19:22,943
+<font color="yellow">It may not mean much to you,</font>
+
+287
+00:19:23,083 --> 00:19:25,143
+<font color="yellow">but my life is at stake here.</font>
+
+288
+00:19:25,213 --> 00:19:27,413
+<font color="yellow">- Are you insane? - What are you doing?</font>
+
+289
+00:19:27,773 --> 00:19:28,773
+<font color="yellow">Let go of him.</font>
+
+290
+00:19:29,583 --> 00:19:31,083
+<font color="yellow">Let go.</font>
+
+291
+00:19:31,583 --> 00:19:35,413
+<font color="yellow">It's all over? It means I'll be dead.</font>
+
+292
+00:19:35,583 --> 00:19:39,973
+<font color="yellow">Take your responsibility. Eo Gyeong Seok, take responsibility!</font>
+
+293
+00:19:40,273 --> 00:19:41,943
+<font color="yellow">- Are you okay? - Let go.</font>
+
+294
+00:19:42,083 --> 00:19:43,713
+<font color="yellow">He's completely insane.</font>
+
+295
+00:19:45,943 --> 00:19:51,243
+<font color="yellow">Hwang Jae Man of the Hanguk Party won the election...</font>
+
+296
+00:19:51,273 --> 00:19:55,613
+<font color="yellow">with 42.8 of the votes and became the next president of Korea.</font>
+
+297
+00:19:57,273 --> 00:20:00,083
+<font color="yellow">- President Hwang Jae Man! - President Hwang Jae Man!</font>
+
+298
+00:20:00,143 --> 00:20:03,083
+<font color="yellow">Thank you. Thank you very much.</font>
+
+299
+00:20:03,643 --> 00:20:06,013
+<font color="yellow">- Great job, everyone. - President Hwang Jae Man!</font>
+
+300
+00:20:06,013 --> 00:20:09,143
+<font color="yellow">- Father, congratulations. - Great job, Ji Soo.</font>
+
+301
+00:20:09,143 --> 00:20:10,513
+<font color="yellow">Great job.</font>
+
+302
+00:20:14,473 --> 00:20:16,773
+<font color="yellow">You will go in for a press conference.</font>
+
+303
+00:20:17,113 --> 00:20:19,743
+<font color="yellow">Okay. Great job.</font>
+
+304
+00:20:20,273 --> 00:20:21,313
+<font color="yellow">Good job.</font>
+
+305
+00:20:23,083 --> 00:20:26,213
+<font color="yellow">Chairman Kang. Thank you.</font>
+
+306
+00:20:26,413 --> 00:20:29,443
+<font color="yellow">Congratulations, President.</font>
+
+307
+00:20:29,773 --> 00:20:31,713
+<font color="yellow">Thank you. Thank you so much.</font>
+
+308
+00:20:32,843 --> 00:20:33,843
+<font color="yellow">Welcome.</font>
+
+309
+00:20:38,213 --> 00:20:42,013
+<font color="yellow">What's wrong? Are you okay?</font>
+
+310
+00:20:47,643 --> 00:20:49,913
+<font color="yellow">No, I'm fine.</font>
+
+311
+00:20:50,113 --> 00:20:51,143
+<font color="yellow">Are you?</font>
+
+312
+00:20:51,373 --> 00:20:53,443
+<font color="yellow">It's time for the press conference, President.</font>
+
+313
+00:20:53,543 --> 00:20:55,013
+<font color="yellow">Sure.</font>
+
+314
+00:20:56,273 --> 00:20:58,813
+<font color="yellow">I'll call you later.</font>
+
+315
+00:20:59,213 --> 00:21:00,813
+<font color="yellow">See you later.</font>
+
+316
+00:21:05,273 --> 00:21:07,313
+<font color="yellow">What's wrong? Are you going blind again?</font>
+
+317
+00:21:08,973 --> 00:21:11,583
+<font color="yellow">No. I'm fine now.</font>
+
+318
+00:21:11,643 --> 00:21:14,213
+<font color="yellow">We should go to a hospital and get a thorough checkup.</font>
+
+319
+00:21:14,773 --> 00:21:15,773
+<font color="yellow">Before that,</font>
+
+320
+00:21:16,943 --> 00:21:19,713
+<font color="yellow">I wonder how Il Jae is.</font>
+
+321
+00:21:20,143 --> 00:21:21,273
+<font color="yellow">I'll look for him.</font>
+
+322
+00:21:25,413 --> 00:21:27,643
+<font color="yellow">We told everyone about his corruption.</font>
+
+323
+00:21:28,543 --> 00:21:31,583
+<font color="yellow">I can't believe over 40 percent of the people still voted for him.</font>
+
+324
+00:21:32,043 --> 00:21:35,473
+<font color="yellow">They're probably indifferent because there are so many corruptions.</font>
+
+325
+00:21:37,583 --> 00:21:39,873
+<font color="yellow">I hope this isn't a choice we will regret.</font>
+
+326
+00:21:46,743 --> 00:21:48,313
+<font color="yellow">Let go of me.</font>
+
+327
+00:21:48,473 --> 00:21:50,673
+<font color="yellow">How dare you talk back to me?</font>
+
+328
+00:21:51,013 --> 00:21:52,513
+<font color="yellow">Do I look like an idiot to you?
+subtitles ripped and synced by riri13</font>
+
+329
+00:21:52,513 --> 00:21:53,973
+<font color="yellow">Calm down.</font>
+
+330
+00:21:54,743 --> 00:21:55,743
+<font color="yellow">Let go.</font>
+
+331
+00:21:56,573 --> 00:21:59,313
+<font color="yellow">Do I look like an idiot to you, too?</font>
+
+332
+00:21:59,473 --> 00:22:00,873
+<font color="yellow">What is with you, Sir?</font>
+
+333
+00:22:00,973 --> 00:22:04,143
+<font color="yellow">I don't need any of you. If you want to leave, leave.</font>
+
+334
+00:22:04,273 --> 00:22:06,113
+<font color="yellow">Please stop, Sir.</font>
+
+335
+00:22:13,313 --> 00:22:15,013
+<font color="yellow">What brings you here?</font>
+
+336
+00:22:17,073 --> 00:22:20,613
+<font color="yellow">Are you here to mock me?</font>
+
+337
+00:22:21,543 --> 00:22:24,673
+<font color="yellow">I was, but I don't think that's necessary.</font>
+
+338
+00:22:25,543 --> 00:22:27,743
+<font color="yellow">I don't need to name you anything when you've made a mess of yourself.</font>
+
+339
+00:22:27,743 --> 00:22:28,743
+<font color="yellow">What?</font>
+
+340
+00:22:29,073 --> 00:22:30,243
+<font color="yellow">I'm disappointed, Uncle.</font>
+
+341
+00:22:31,043 --> 00:22:33,773
+<font color="yellow">I thought you'd be planning a revenge against me.</font>
+
+342
+00:22:34,273 --> 00:22:35,273
+<font color="yellow">But look at you.</font>
+
+343
+00:22:36,013 --> 00:22:37,473
+<font color="yellow">You're just a loser.</font>
+
+344
+00:22:39,113 --> 00:22:40,713
+<font color="yellow">He is a loser, Chairman.</font>
+
+345
+00:22:41,143 --> 00:22:45,273
+<font color="yellow">His slush fund is taken away, and the president despises him.</font>
+
+346
+00:22:45,273 --> 00:22:46,573
+<font color="yellow">He's worse than a loser.</font>
+
+347
+00:22:46,973 --> 00:22:48,013
+<font color="yellow">Fine.</font>
+
+348
+00:22:48,773 --> 00:22:52,313
+<font color="yellow">You are amazing, Guk Cheol.</font>
+
+349
+00:22:53,013 --> 00:22:54,113
+<font color="yellow">But...</font>
+
+350
+00:22:54,773 --> 00:22:58,973
+<font color="yellow">getting a revenge won't bring your parents back alive.</font>
+
+351
+00:23:01,843 --> 00:23:04,513
+<font color="yellow">You'll see your parents only once you die.</font>
+
+352
+00:23:04,773 --> 00:23:05,973
+<font color="yellow">Do you understand?</font>
+
+353
+00:23:06,573 --> 00:23:09,143
+<font color="yellow">That means you can't ever win...</font>
+
+354
+00:23:09,473 --> 00:23:11,543
+<font color="yellow">no matter what you do.</font>
+
+355
+00:23:15,013 --> 00:23:18,413
+<font color="yellow">Everyone you ever loved are all dead.</font>
+
+356
+00:23:18,473 --> 00:23:20,573
+<font color="yellow">They are all rotting six feet under.</font>
+
+357
+00:23:23,943 --> 00:23:24,943
+<font color="yellow">Sir.</font>
+
+358
+00:23:25,413 --> 00:23:26,573
+<font color="yellow">You jerk.</font>
+
+359
+00:23:28,273 --> 00:23:29,873
+<font color="yellow">Do you both want to die?</font>
+
+360
+00:23:30,043 --> 00:23:31,043
+<font color="yellow">Come in.</font>
+
+361
+00:23:41,073 --> 00:23:44,073
+<font color="yellow">You shouldn't play around with this.</font>
+
+362
+00:23:44,573 --> 00:23:48,013
+<font color="yellow">If you do, you'll probably get ripped in pieces.</font>
+
+363
+00:23:55,143 --> 00:23:56,143
+<font color="yellow">Listen carefully.</font>
+
+364
+00:23:57,073 --> 00:23:59,943
+<font color="yellow">I will use all lawful means to give you a death penalty.</font>
+
+365
+00:24:01,573 --> 00:24:05,073
+<font color="yellow">Remember what I said when you die on the gallows.</font>
+
+366
+00:24:08,073 --> 00:24:09,513
+<font color="yellow">Death won't be the end for you.</font>
+
+367
+00:24:10,473 --> 00:24:13,373
+<font color="yellow">You will drop down to a pit of fire when you die, Il Jae.</font>
+
+368
+00:24:30,773 --> 00:24:32,243
+<font color="yellow">- Calm down... - Let go.</font>
+
+369
+00:24:34,213 --> 00:24:37,573
+<font color="yellow">Let's see who will go...</font>
+
+370
+00:24:38,113 --> 00:24:42,243
+<font color="yellow">down the pit, Guk Cheol.</font>
+
+371
+00:24:49,773 --> 00:24:50,773
+<font color="yellow">Mr Moon.</font>
+
+372
+00:24:50,913 --> 00:24:51,943
+<font color="yellow">Yes, Chairman.</font>
+
+373
+00:24:52,273 --> 00:24:54,273
+<font color="yellow">Take out all matured bonds from Dodo Group tomorrow.</font>
+
+374
+00:24:54,273 --> 00:24:56,673
+<font color="yellow">It must be Gun Woo's turn.</font>
+
+375
+00:24:56,913 --> 00:24:58,673
+<font color="yellow">Call every single president of the banks...</font>
+
+376
+00:24:59,143 --> 00:25:01,643
+<font color="yellow">that are doing business with Dodo Group right now.</font>
+
+377
+00:25:02,273 --> 00:25:03,273
+<font color="yellow">Yes, Sir.</font>
+
+378
+00:25:13,313 --> 00:25:15,813
+<font color="yellow">What has Mr Gong been doing?</font>
+
+379
+00:25:16,113 --> 00:25:18,343
+<font color="yellow">Look at your toenails.</font>
+
+380
+00:25:20,043 --> 00:25:22,813
+<font color="yellow">Isn't it great to have me cut your toenails?</font>
+
+381
+00:25:23,473 --> 00:25:24,843
+<font color="yellow">No, it isn't.</font>
+
+382
+00:25:25,573 --> 00:25:27,743
+<font color="yellow">Stop it, woman.</font>
+
+383
+00:25:31,043 --> 00:25:34,243
+<font color="yellow">You used to pester me, asking to clip your nails...</font>
+
+384
+00:25:34,843 --> 00:25:36,973
+<font color="yellow">and to clean your ears.</font>
+
+385
+00:25:41,013 --> 00:25:42,443
+<font color="yellow">Back then,</font>
+
+386
+00:25:43,673 --> 00:25:47,243
+<font color="yellow">we lived in a small house but those were the good times.</font>
+
+387
+00:25:49,673 --> 00:25:52,943
+<font color="yellow">You never came back home empty-handed.</font>
+
+388
+00:25:54,143 --> 00:25:58,773
+<font color="yellow">You always brought home my favourite street snacks.</font>
+
+389
+00:25:59,213 --> 00:26:02,243
+<font color="yellow">I think those were the happiest days of my life.</font>
+
+390
+00:26:04,573 --> 00:26:06,713
+<font color="yellow">I thought you'd love only me forever.</font>
+
+391
+00:26:10,213 --> 00:26:12,243
+<font color="yellow">How did we end up like this?</font>
+
+392
+00:26:13,143 --> 00:26:14,143
+<font color="yellow">You're right.</font>
+
+393
+00:26:15,113 --> 00:26:17,073
+<font color="yellow">We lived a crazy life,</font>
+
+394
+00:26:17,973 --> 00:26:20,113
+<font color="yellow">and what we lost wasn't just our time.</font>
+
+395
+00:26:23,673 --> 00:26:25,473
+<font color="yellow">We still have a chance.</font>
+
+396
+00:26:26,273 --> 00:26:28,043
+<font color="yellow">We can still go back to those times.</font>
+
+397
+00:26:28,573 --> 00:26:30,243
+<font color="yellow">I won't be greedy.</font>
+
+398
+00:26:30,843 --> 00:26:33,913
+<font color="yellow">I'll live the rest of my life taking care of you.</font>
+
+399
+00:26:34,673 --> 00:26:38,713
+<font color="yellow">So please give Gwang Woo one of our subsidiaries.</font>
+
+400
+00:26:41,773 --> 00:26:44,943
+<font color="yellow">For me, I'll be satisfied if you give me...</font>
+
+401
+00:26:45,273 --> 00:26:49,313
+<font color="yellow">either Dodo Fashion or something in media.</font>
+
+402
+00:26:50,373 --> 00:26:53,143
+<font color="yellow">We can be happy again like our old times, Honey.</font>
+
+403
+00:26:54,313 --> 00:26:57,313
+<font color="yellow">This is why we have grown far away from each other.</font>
+
+404
+00:26:57,913 --> 00:26:59,843
+<font color="yellow">Because of your greediness.</font>
+
+405
+00:27:08,473 --> 00:27:09,513
+<font color="yellow">Your beard...</font>
+
+406
+00:27:10,273 --> 00:27:13,313
+<font color="yellow">has grown quite a lot.</font>
+
+407
+00:27:14,873 --> 00:27:16,243
+<font color="yellow">Do you want me to shave you?</font>
+
+408
+00:27:16,413 --> 00:27:18,743
+<font color="yellow">What? No, thanks.</font>
+
+409
+00:27:20,413 --> 00:27:22,273
+<font color="yellow">I never had a beard.</font>
+
+410
+00:27:30,743 --> 00:27:34,613
+<font color="yellow">Gwi Ja, don't do this. Please.</font>
+
+411
+00:27:34,943 --> 00:27:35,973
+<font color="yellow">Gwi Ja.</font>
+
+412
+00:27:38,373 --> 00:27:40,543
+<font color="yellow">Why are you so stiffened up?</font>
+
+413
+00:27:41,143 --> 00:27:43,143
+<font color="yellow">Are you afraid that I'll make a cut?</font>
+
+414
+00:27:44,073 --> 00:27:45,413
+<font color="yellow">Don't worry.</font>
+
+415
+00:27:45,543 --> 00:27:46,573
+<font color="yellow">I used...</font>
+
+416
+00:27:46,773 --> 00:27:49,213
+<font color="yellow">to work at a barbershop before I met...</font>
+
+417
+00:27:51,873 --> 00:27:53,613
+<font color="yellow">What are you talking about?</font>
+
+418
+00:27:54,143 --> 00:27:57,813
+<font color="yellow">Did you also work at a barbershop and not just a factory?</font>
+
+419
+00:28:00,573 --> 00:28:04,143
+<font color="yellow">I used to shave my father all the time when I was young.</font>
+
+420
+00:28:08,773 --> 00:28:10,913
+<font color="yellow">Chairman, we're in trouble.</font>
+
+421
+00:28:10,913 --> 00:28:13,113
+<font color="yellow">Dodo Group has gone bankrupt.</font>
+
+422
+00:28:13,113 --> 00:28:15,273
+<font color="yellow">What do you mean it's bankrupt?</font>
+
+423
+00:28:15,613 --> 00:28:17,243
+<font color="yellow">My goodness...</font>
+
+424
+00:28:17,243 --> 00:28:18,543
+<font color="yellow">I'm so sorry, Honey.</font>
+
+425
+00:28:18,673 --> 00:28:21,073
+<font color="yellow">Give me a tissue right now.</font>
+
+426
+00:28:21,713 --> 00:28:22,813
+<font color="yellow">My goodness.</font>
+
+427
+00:28:29,143 --> 00:28:32,743
+<font color="yellow">What do you mean bankrupt? What are you talking about?</font>
+
+428
+00:28:35,573 --> 00:28:37,343
+<font color="yellow">Yes, this is the chairman's office.</font>
+
+429
+00:28:39,073 --> 00:28:40,113
+<font color="yellow">Pardon?</font>
+
+430
+00:28:40,913 --> 00:28:43,573
+<font color="yellow">How can you do this to us now?</font>
+
+431
+00:28:43,573 --> 00:28:45,413
+<font color="yellow">What do you mean pay back the loan right now?</font>
+
+432
+00:28:46,143 --> 00:28:47,613
+<font color="yellow">Excuse me, Sir!</font>
+
+433
+00:28:48,513 --> 00:28:49,573
+<font color="yellow">Gosh.</font>
+
+434
+00:28:50,773 --> 00:28:54,273
+<font color="yellow">I don't think this is something to discuss over the phone.</font>
+
+435
+00:28:54,273 --> 00:28:55,443
+<font color="yellow">Let's meet in person.</font>
+
+436
+00:28:55,443 --> 00:28:56,713
+<font color="yellow">Please hold on for a moment.</font>
+
+437
+00:28:57,313 --> 00:28:59,043
+<font color="yellow">It's BC Bank.</font>
+
+438
+00:28:59,043 --> 00:29:01,843
+<font color="yellow">If you won't meet, what do you expect me to do?</font>
+
+439
+00:29:02,873 --> 00:29:04,513
+<font color="yellow">We'll give you a call back.</font>
+
+440
+00:29:05,143 --> 00:29:06,343
+<font color="yellow">Do whatever you want.</font>
+
+441
+00:29:06,973 --> 00:29:10,073
+<font color="yellow">BC Bank is requesting that we pay them back as well.</font>
+
+442
+00:29:14,743 --> 00:29:16,443
+<font color="yellow">Yes, this is the chairman's office.</font>
+
+443
+00:29:22,943 --> 00:29:25,113
+<font color="yellow">Although we're bankrupt,</font>
+
+444
+00:29:25,113 --> 00:29:28,543
+<font color="yellow">it's strange that all of the banks are requesting to pay back.</font>
+
+445
+00:29:28,543 --> 00:29:30,243
+<font color="yellow">It's Kang Gi Tan.</font>
+
+446
+00:29:30,243 --> 00:29:31,943
+<font color="yellow">He's controlling it all.</font>
+
+447
+00:29:31,943 --> 00:29:35,343
+<font color="yellow">An emergency creditors' meeting will be held this afternoon.</font>
+
+448
+00:29:37,443 --> 00:29:39,143
+<font color="yellow">This is what we feared.</font>
+
+449
+00:29:39,513 --> 00:29:41,743
+<font color="yellow">What happened to filing for legal management?</font>
+
+450
+00:29:41,743 --> 00:29:42,943
+<font color="yellow">The documents are all ready.</font>
+
+451
+00:29:42,943 --> 00:29:45,443
+<font color="yellow">- Get it registered at the court. - Yes, Sir.</font>
+
+452
+00:29:47,713 --> 00:29:49,213
+<font color="yellow">Come if you dare, Kang Gi Tan.</font>
+
+453
+00:29:50,013 --> 00:29:51,873
+<font color="yellow">I'll fight you until the end.</font>
+
+454
+00:30:00,613 --> 00:30:03,143
+<font color="yellow">Gun Woo filed for legal management.</font>
+
+455
+00:30:05,843 --> 00:30:07,373
+<font color="yellow">Then what happens now?</font>
+
+456
+00:30:07,373 --> 00:30:10,643
+<font color="yellow">He's trying to stop us from exercising credit to earn time.</font>
+
+457
+00:30:11,343 --> 00:30:13,143
+<font color="yellow">He wants to put up a fight?</font>
+
+458
+00:30:13,143 --> 00:30:14,313
+<font color="yellow">Well,</font>
+
+459
+00:30:15,213 --> 00:30:16,543
+<font color="yellow">we'll see how far he goes.</font>
+
+460
+00:30:17,443 --> 00:30:20,813
+<font color="yellow">Dodo Group's secretary called and asked you...</font>
+
+461
+00:30:20,913 --> 00:30:23,213
+<font color="yellow">to join for the creditors' meeting.</font>
+
+462
+00:30:24,113 --> 00:30:26,143
+<font color="yellow">I understand how you feel,</font>
+
+463
+00:30:26,643 --> 00:30:30,113
+<font color="yellow">but you must separate work from your personal life.</font>
+
+464
+00:30:30,613 --> 00:30:34,143
+<font color="yellow">You're their legal advisor. You must go.</font>
+
+465
+00:30:38,443 --> 00:30:40,013
+<font color="yellow">This is my resignation letter.</font>
+
+466
+00:30:40,013 --> 00:30:42,413
+<font color="yellow">Are you going to quit being their legal advisor?</font>
+
+467
+00:30:42,413 --> 00:30:44,143
+<font color="yellow">Please hand this in for me.</font>
+
+468
+00:30:45,073 --> 00:30:48,913
+<font color="yellow">I want you to take over instead for the time being.</font>
+
+469
+00:30:51,243 --> 00:30:52,343
+<font color="yellow">All right.</font>
+
+470
+00:30:54,213 --> 00:30:55,413
+<font color="yellow">I'll be back.</font>
+
+471
+00:31:03,313 --> 00:31:07,473
+<font color="yellow">Soo Yeon, is it over with Chairman Do?</font>
+
+472
+00:31:24,143 --> 00:31:25,613
+<font color="yellow">What do you mean legal management?</font>
+
+473
+00:31:26,243 --> 00:31:28,673
+<font color="yellow">Are you trying to avoid loan waiver?</font>
+
+474
+00:31:28,673 --> 00:31:30,343
+<font color="yellow">That's a little harsh.</font>
+
+475
+00:31:30,443 --> 00:31:32,843
+<font color="yellow">Please do not dishonour Dodo Group's name.</font>
+
+476
+00:31:33,713 --> 00:31:35,573
+<font color="yellow">Dishonour?</font>
+
+477
+00:31:35,713 --> 00:31:37,973
+<font color="yellow">You're bankrupt. Why does that matter right now?</font>
+
+478
+00:31:39,843 --> 00:31:43,213
+<font color="yellow">I'll soon be announcing my plan to revive the company.</font>
+
+479
+00:31:43,313 --> 00:31:46,543
+<font color="yellow">I'll pay all the creditors back, so please do not worry.</font>
+
+480
+00:31:46,543 --> 00:31:47,873
+<font color="yellow">Chairman Do.</font>
+
+481
+00:31:49,573 --> 00:31:51,513
+<font color="yellow">You forgot one thing.</font>
+
+482
+00:31:52,943 --> 00:31:54,613
+<font color="yellow">Why are you hiding the fact...</font>
+
+483
+00:31:54,913 --> 00:31:57,113
+<font color="yellow">that all of the banks requested you...</font>
+
+484
+00:31:57,643 --> 00:31:58,973
+<font color="yellow">to pay back the loans at once?</font>
+
+485
+00:32:01,873 --> 00:32:04,213
+<font color="yellow">Is this true?</font>
+
+486
+00:32:06,273 --> 00:32:08,673
+<font color="yellow">Why don't you answer this question yourself...</font>
+
+487
+00:32:08,873 --> 00:32:11,773
+<font color="yellow">since you're the one that persuaded the banks?</font>
+
+488
+00:32:12,973 --> 00:32:14,673
+<font color="yellow">Instead of watering a rotten tree,</font>
+
+489
+00:32:14,673 --> 00:32:17,943
+<font color="yellow">I prefer to pull it out and planting a new tree.</font>
+
+490
+00:32:19,113 --> 00:32:21,213
+<font color="yellow">You're the one that made this tree rot.</font>
+
+491
+00:32:22,413 --> 00:32:24,373
+<font color="yellow">So you agree that it's rotten?</font>
+
+492
+00:32:28,743 --> 00:32:30,313
+<font color="yellow">Chairman Do Choong is here.</font>
+
+493
+00:32:34,143 --> 00:32:37,143
+<font color="yellow">(Dodo Group)</font>
+
+494
+00:32:39,513 --> 00:32:40,773
+<font color="yellow">Father.</font>
+
+495
+00:32:47,243 --> 00:32:49,743
+<font color="yellow">Since the chairman is still ill,</font>
+
+496
+00:32:49,843 --> 00:32:52,573
+<font color="yellow">I will be relaying his messages.</font>
+
+497
+00:33:00,143 --> 00:33:02,213
+<font color="yellow">He's asking for you...</font>
+
+498
+00:33:02,943 --> 00:33:04,313
+<font color="yellow">to put your trust in him once more...</font>
+
+499
+00:33:04,713 --> 00:33:06,773
+<font color="yellow">and to extend the mature bonds.</font>
+
+500
+00:33:15,913 --> 00:33:17,113
+<font color="yellow">I decline.</font>
+
+501
+00:33:19,143 --> 00:33:20,973
+<font color="yellow">Even if the chairman asks me,</font>
+
+502
+00:33:21,573 --> 00:33:23,143
+<font color="yellow">I cannot extend it any more.</font>
+
+503
+00:33:30,213 --> 00:33:31,443
+<font color="yellow">He would like to...</font>
+
+504
+00:33:31,873 --> 00:33:34,443
+<font color="yellow">speak to you in private.</font>
+
+505
+00:33:51,413 --> 00:33:53,943
+<font color="yellow">Can we talk, Shin Young?</font>
+
+506
+00:33:55,243 --> 00:33:57,713
+<font color="yellow">I'll be waiting in the lobby.</font>
+
+507
+00:34:05,973 --> 00:34:08,613
+<font color="yellow">Why are you here? You're not a creditor.</font>
+
+508
+00:34:08,713 --> 00:34:09,843
+<font color="yellow">What do you think...</font>
+
+509
+00:34:11,113 --> 00:34:13,313
+<font color="yellow">Gi Tan will talk to Father about?</font>
+
+510
+00:34:13,313 --> 00:34:15,013
+<font color="yellow">What's your intention behind this question?</font>
+
+511
+00:34:16,483 --> 00:34:17,773
+<font color="yellow">What I mean is,</font>
+
+512
+00:34:18,443 --> 00:34:21,413
+<font color="yellow">we should go listen to them.</font>
+
+513
+00:34:22,113 --> 00:34:23,513
+<font color="yellow">In my opinion,</font>
+
+514
+00:34:23,613 --> 00:34:27,873
+<font color="yellow">their conversation will really open up your ears.</font>
+
+515
+00:34:40,443 --> 00:34:41,713
+<font color="yellow">Chairman knows...</font>
+
+516
+00:34:42,113 --> 00:34:45,873
+<font color="yellow">that you're the son of the late director of Sudo Hospital.</font>
+
+517
+00:34:46,343 --> 00:34:47,483
+<font color="yellow">And?</font>
+
+518
+00:34:54,913 --> 00:34:57,813
+<font color="yellow">He's asking if you'd stop your attack against Dodo Group...</font>
+
+519
+00:34:58,443 --> 00:35:02,573
+<font color="yellow">if he were to hand over the evidence of Il Jae committing murder.</font>
+
+520
+00:35:04,913 --> 00:35:06,843
+<font color="yellow">You're mistaken.</font>
+
+521
+00:35:08,143 --> 00:35:10,943
+<font color="yellow">It won't end with just revealing Il Jae's crimes.</font>
+
+522
+00:35:12,773 --> 00:35:16,273
+<font color="yellow">Gwang Woo instigated the murder in order to be acknowledged by you.</font>
+
+523
+00:35:17,273 --> 00:35:20,813
+<font color="yellow">Then you covered up his crime in order to save the company.</font>
+
+524
+00:35:21,513 --> 00:35:24,113
+<font color="yellow">You all aren't much different from Il Jae to me.</font>
+
+525
+00:35:29,143 --> 00:35:30,373
+<font color="yellow">Do you understand?</font>
+
+526
+00:35:31,773 --> 00:35:34,313
+<font color="yellow">You're an accomplice of Il Jae that killed my parents!</font>
+
+527
+00:35:36,573 --> 00:35:38,243
+<font color="yellow">The chairman...</font>
+
+528
+00:35:38,243 --> 00:35:41,443
+<font color="yellow">trusts you enough to give Shin Young to you.</font>
+
+529
+00:35:41,443 --> 00:35:44,443
+<font color="yellow">You should be thankful that she's your daughter.</font>
+
+530
+00:35:45,143 --> 00:35:47,873
+<font color="yellow">If it wasn't for her,</font>
+
+531
+00:35:49,313 --> 00:35:51,913
+<font color="yellow">I would have ripped Dodo Group to shreds.</font>
+
+532
+00:36:00,213 --> 00:36:01,543
+<font color="yellow">Persuade Gun Woo...</font>
+
+533
+00:36:02,713 --> 00:36:04,913
+<font color="yellow">to change the holding company to Dodo Hotel.</font>
+
+534
+00:36:05,443 --> 00:36:07,483
+<font color="yellow">That's the only way to reduce the damages.</font>
+
+535
+00:36:08,073 --> 00:36:09,413
+<font color="yellow">This is the last chance...</font>
+
+536
+00:36:10,843 --> 00:36:12,273
+<font color="yellow">I'm giving to you.</font>
+
+537
+00:36:17,873 --> 00:36:18,913
+<font color="yellow">I'm...</font>
+
+538
+00:36:20,313 --> 00:36:21,543
+<font color="yellow">I'm...</font>
+
+539
+00:36:24,043 --> 00:36:25,483
+<font color="yellow">I'm sorry.</font>
+
+540
+00:36:26,643 --> 00:36:28,673
+<font color="yellow">Chairman. Chairman...</font>
+
+541
+00:36:33,313 --> 00:36:34,413
+<font color="yellow">I'm sorry.</font>
+
+542
+00:36:36,743 --> 00:36:38,713
+<font color="yellow">It's my fault.</font>
+
+543
+00:36:40,243 --> 00:36:41,343
+<font color="yellow">Chairman...</font>
+
+544
+00:36:47,943 --> 00:36:48,943
+<font color="yellow">I'm sorry,</font>
+
+545
+00:36:50,813 --> 00:36:51,983
+<font color="yellow">but it's too late.</font>
+
+546
+00:37:25,413 --> 00:37:26,513
+<font color="yellow">Dad.</font>
+
+547
+00:37:30,543 --> 00:37:31,643
+<font color="yellow">I'm sorry,</font>
+
+548
+00:37:34,043 --> 00:37:35,143
+<font color="yellow">Shin Young.</font>
+
+549
+00:37:41,483 --> 00:37:42,773
+<font color="yellow">Dad.</font>
+
+550
+00:38:08,143 --> 00:38:09,273
+<font color="yellow">What did he say?</font>
+
+551
+00:38:09,273 --> 00:38:11,043
+<font color="yellow">Ask him yourself if you want to know.</font>
+
+552
+00:38:11,743 --> 00:38:13,143
+<font color="yellow">Shall I tell you my plan?</font>
+
+553
+00:38:13,613 --> 00:38:15,373
+<font color="yellow">Even if the company's torn apart,</font>
+
+554
+00:38:15,873 --> 00:38:17,273
+<font color="yellow">I won't give it to you.</font>
+
+555
+00:38:17,543 --> 00:38:18,613
+<font color="yellow">You got it all wrong.</font>
+
+556
+00:38:19,143 --> 00:38:20,643
+<font color="yellow">You won't give it to me.</font>
+
+557
+00:38:21,613 --> 00:38:22,673
+<font color="yellow">I'll take it from you.</font>
+
+558
+00:38:23,543 --> 00:38:25,273
+<font color="yellow">You took Soo Yeon from me,</font>
+
+559
+00:38:25,543 --> 00:38:27,773
+<font color="yellow">but I'll take everything from you.</font>
+
+560
+00:38:28,513 --> 00:38:29,773
+<font color="yellow">Including Soo Yeon.</font>
+
+561
+00:38:33,743 --> 00:38:36,543
+<font color="yellow">I told you not to talk about her!</font>
+
+562
+00:38:44,773 --> 00:38:45,813
+<font color="yellow">Sir.</font>
+
+563
+00:38:46,013 --> 00:38:48,543
+<font color="yellow">You can't have Soo Yeon or the company.</font>
+
+564
+00:38:48,643 --> 00:38:51,343
+<font color="yellow">Do you think I'll give up if you file for legal management?</font>
+
+565
+00:38:51,343 --> 00:38:53,013
+<font color="yellow">- Sir. - Oh dear.</font>
+
+566
+00:38:53,443 --> 00:38:55,143
+<font color="yellow">- Sir. - What are you doing?</font>
+
+567
+00:38:55,713 --> 00:38:58,143
+<font color="yellow">You can't fight here. Everyone's watching.</font>
+
+568
+00:38:58,143 --> 00:39:02,243
+<font color="yellow">Talk it out. Mouths aren't just for eating with.</font>
+
+569
+00:39:03,013 --> 00:39:05,513
+<font color="yellow">Stop it. Chairman Do's here.</font>
+
+570
+00:39:47,413 --> 00:39:48,913
+<font color="yellow">- Mr Moon. - Yes?</font>
+
+571
+00:39:49,013 --> 00:39:51,043
+<font color="yellow">Prepare to make a takeover bid on Dodo Group.</font>
+
+572
+00:39:52,983 --> 00:39:53,983
+<font color="yellow">Gun Woo's...</font>
+
+573
+00:39:54,813 --> 00:39:56,543
+<font color="yellow">trying to stall and...</font>
+
+574
+00:39:56,743 --> 00:39:58,013
+<font color="yellow">I can't wait.</font>
+
+575
+00:40:00,643 --> 00:40:02,843
+<font color="yellow">How much money can we pool together?</font>
+
+576
+00:40:02,873 --> 00:40:05,613
+<font color="yellow">So Gil Du agreed to finance us.</font>
+
+577
+00:40:05,713 --> 00:40:07,943
+<font color="yellow">How much can we borrow from Z Capital?</font>
+
+578
+00:40:08,143 --> 00:40:11,143
+<font color="yellow">Name the amount. I'll get it for you.</font>
+
+579
+00:40:11,643 --> 00:40:12,743
+<font color="yellow">Get the money.</font>
+
+580
+00:40:13,443 --> 00:40:14,513
+<font color="yellow">Dodo Group...</font>
+
+581
+00:40:15,243 --> 00:40:17,143
+<font color="yellow">is over.</font>
+
+582
+00:40:17,413 --> 00:40:19,373
+<font color="yellow">- Yes, Boss. - Yes, Sir.</font>
+
+583
+00:40:28,773 --> 00:40:29,873
+<font color="yellow">You heard...</font>
+
+584
+00:40:30,643 --> 00:40:33,313
+<font color="yellow">what Gi Tan thinks of us.</font>
+
+585
+00:40:34,873 --> 00:40:37,573
+<font color="yellow">Shall I explain everything for you?</font>
+
+586
+00:40:39,843 --> 00:40:42,943
+<font color="yellow">I gave the order that Gi Tan's parents be killed...</font>
+
+587
+00:40:43,843 --> 00:40:47,443
+<font color="yellow">and Dad knew about it but covered it up. Why?</font>
+
+588
+00:40:49,273 --> 00:40:51,483
+<font color="yellow">He wanted Dodo Group to prosper.</font>
+
+589
+00:40:53,643 --> 00:40:56,213
+<font color="yellow">Gi Tan knew all that...</font>
+
+590
+00:40:56,813 --> 00:40:58,943
+<font color="yellow">and approached you on purpose.</font>
+
+591
+00:40:58,943 --> 00:41:02,813
+<font color="yellow">Now... Do you finally get it?</font>
+
+592
+00:41:05,943 --> 00:41:06,943
+<font color="yellow">Shin Young.</font>
+
+593
+00:41:08,613 --> 00:41:09,773
+<font color="yellow">It's not too late.</font>
+
+594
+00:41:10,913 --> 00:41:15,243
+<font color="yellow">If you and I think for ourselves and join forces,</font>
+
+595
+00:41:15,343 --> 00:41:16,813
+<font color="yellow">we can crush Gi Tan...</font>
+
+596
+00:41:21,143 --> 00:41:25,913
+<font color="yellow">Have you lost your mind? How dare you slap your big brother.</font>
+
+597
+00:41:25,913 --> 00:41:27,443
+<font color="yellow">Get lost, you moron.</font>
+
+598
+00:41:30,143 --> 00:41:32,873
+<font color="yellow">What? Moron?</font>
+
+599
+00:41:37,713 --> 00:41:41,313
+<font color="yellow">I'm not the moron here. You are.</font>
+
+600
+00:41:41,413 --> 00:41:43,143
+<font color="yellow">You're worse than a moron.</font>
+
+601
+00:41:44,543 --> 00:41:46,143
+<font color="yellow">You heard what he said.</font>
+
+602
+00:41:46,413 --> 00:41:49,143
+<font color="yellow">Gi Tan told our dad he can't forgive us.</font>
+
+603
+00:41:52,443 --> 00:41:54,773
+<font color="yellow">Once he takes out Gun Woo,</font>
+
+604
+00:41:55,013 --> 00:41:56,873
+<font color="yellow">you'll be next.</font>
+
+605
+00:41:57,243 --> 00:41:58,243
+<font color="yellow">Do you get that?</font>
+
+606
+00:42:01,013 --> 00:42:03,143
+<font color="yellow">Shin Young, my dear sister.</font>
+
+607
+00:42:03,513 --> 00:42:06,843
+<font color="yellow">There's something called fate.</font>
+
+608
+00:42:07,143 --> 00:42:10,143
+<font color="yellow">We're siblings. We're related.</font>
+
+609
+00:42:10,143 --> 00:42:14,943
+<font color="yellow">I can't help but go against Gi Tan.</font>
+
+610
+00:42:15,243 --> 00:42:19,313
+<font color="yellow">That is our fate and destiny.</font>
+
+611
+00:42:33,983 --> 00:42:36,573
+<font color="yellow">That stupid brat.</font>
+
+612
+00:42:38,343 --> 00:42:40,413
+<font color="yellow">How many times did she hit me?</font>
+
+613
+00:43:05,543 --> 00:43:06,613
+<font color="yellow">You've had enough.</font>
+
+614
+00:43:11,143 --> 00:43:12,413
+<font color="yellow">You're drunk.</font>
+
+615
+00:43:17,143 --> 00:43:18,213
+<font color="yellow">Let go of me.</font>
+
+616
+00:43:45,813 --> 00:43:47,573
+<font color="yellow">Go. Leave me alone.</font>
+
+617
+00:43:47,943 --> 00:43:50,673
+<font color="yellow">- Shin Young. - Don't touch me.</font>
+
+618
+00:43:50,843 --> 00:43:53,143
+<font color="yellow">You're drunk. I'll carry you.</font>
+
+619
+00:43:56,873 --> 00:43:58,773
+<font color="yellow">I'm your enemy's daughter.</font>
+
+620
+00:43:59,243 --> 00:44:00,513
+<font color="yellow">Forget about me.</font>
+
+621
+00:44:01,243 --> 00:44:02,413
+<font color="yellow">Whether I'm in danger or not.</font>
+
+622
+00:44:04,143 --> 00:44:05,213
+<font color="yellow">Shin Young.</font>
+
+623
+00:44:05,443 --> 00:44:07,413
+<font color="yellow">My dad was your enemy.</font>
+
+624
+00:44:08,013 --> 00:44:09,613
+<font color="yellow">You knew it all along.</font>
+
+625
+00:44:10,273 --> 00:44:11,943
+<font color="yellow">Why didn't you tell me?</font>
+
+626
+00:44:15,243 --> 00:44:17,473
+<font color="yellow">I fell for you and followed you around.</font>
+
+627
+00:44:18,843 --> 00:44:19,973
+<font color="yellow">Did you enjoy that?</font>
+
+628
+00:44:21,443 --> 00:44:23,843
+<font color="yellow">- I didn't. - Don't make excuses!</font>
+
+629
+00:44:25,443 --> 00:44:29,073
+<font color="yellow">My dad and my brother did something terrible.</font>
+
+630
+00:44:30,343 --> 00:44:32,973
+<font color="yellow">Why do I have to suffer along with them?</font>
+
+631
+00:44:34,113 --> 00:44:37,373
+<font color="yellow">Why does my life have to be torn apart?</font>
+
+632
+00:44:39,143 --> 00:44:41,013
+<font color="yellow">You did nothing wrong.</font>
+
+633
+00:44:46,773 --> 00:44:48,313
+<font color="yellow">You won't know,</font>
+
+634
+00:44:49,773 --> 00:44:51,743
+<font color="yellow">but you're the first man...</font>
+
+635
+00:44:53,543 --> 00:44:54,773
+<font color="yellow">I ever really loved.</font>
+
+636
+00:44:58,373 --> 00:44:59,373
+<font color="yellow">Because of you,</font>
+
+637
+00:45:01,143 --> 00:45:02,213
+<font color="yellow">my heart...</font>
+
+638
+00:45:03,643 --> 00:45:05,613
+<font color="yellow">beat so hard and fast.</font>
+
+639
+00:45:08,613 --> 00:45:10,673
+<font color="yellow">Why did you do this to me?</font>
+
+640
+00:45:11,543 --> 00:45:12,543
+<font color="yellow">Why?</font>
+
+641
+00:45:13,343 --> 00:45:17,443
+<font color="yellow">You jerk. You scumbag. You dirtbag.</font>
+
+642
+00:45:26,743 --> 00:45:28,043
+<font color="yellow">Do you know what...</font>
+
+643
+00:45:29,743 --> 00:45:31,373
+<font color="yellow">the hardest part of my plan was?</font>
+
+644
+00:45:34,243 --> 00:45:35,343
+<font color="yellow">It was you.</font>
+
+645
+00:45:36,513 --> 00:45:38,243
+<font color="yellow">You made it so much harder.</font>
+
+646
+00:45:39,143 --> 00:45:40,773
+<font color="yellow">You're a great woman.</font>
+
+647
+00:45:43,813 --> 00:45:45,373
+<font color="yellow">You're too good for me.</font>
+
+648
+00:45:50,043 --> 00:45:51,773
+<font color="yellow">I'm sorry, Ga Din.</font>
+
+649
+00:45:53,443 --> 00:45:56,443
+<font color="yellow">This isn't why I got drunk.</font>
+
+650
+00:45:57,913 --> 00:46:00,243
+<font color="yellow">I wanted to apologise to you.</font>
+
+651
+00:46:02,443 --> 00:46:03,713
+<font color="yellow">I'm sorry.</font>
+
+652
+00:46:20,643 --> 00:46:21,773
+<font color="yellow">Don't cry.</font>
+
+653
+00:46:25,343 --> 00:46:27,713
+<font color="yellow">You can leave me any time you want.</font>
+
+654
+00:46:30,143 --> 00:46:31,573
+<font color="yellow">Or you can stay.</font>
+
+655
+00:46:35,543 --> 00:46:36,543
+<font color="yellow">You are...</font>
+
+656
+00:46:37,743 --> 00:46:39,713
+<font color="yellow">the woman I trust the most.</font>
+
+657
+00:46:41,643 --> 00:46:42,973
+<font color="yellow">You're my business partner.</font>
+
+658
+00:46:48,443 --> 00:46:49,443
+<font color="yellow">I'll...</font>
+
+659
+00:46:50,913 --> 00:46:54,343
+<font color="yellow">leave as soon as I find a great guy.</font>
+
+660
+00:46:56,743 --> 00:47:01,513
+<font color="yellow">I'll marry a much better-looking man than you.</font>
+
+661
+00:47:04,143 --> 00:47:06,113
+<font color="yellow">I'll make you jealous.</font>
+
+662
+00:47:07,143 --> 00:47:08,343
+<font color="yellow">That's how happy...</font>
+
+663
+00:47:09,143 --> 00:47:10,943
+<font color="yellow">I'll be with him.</font>
+
+664
+00:47:25,013 --> 00:47:26,043
+<font color="yellow">Yes, Shin Young.</font>
+
+665
+00:47:46,743 --> 00:47:48,113
+<font color="yellow">Gun Woo.</font>
+
+666
+00:47:56,973 --> 00:47:58,143
+<font color="yellow">He says...</font>
+
+667
+00:47:58,443 --> 00:48:02,473
+<font color="yellow">do what Gi Tan asks and change the holding company to Dodo Hotel.</font>
+
+668
+00:48:04,473 --> 00:48:07,473
+<font color="yellow">Is that all he thought of after their chat?</font>
+
+669
+00:48:08,373 --> 00:48:11,913
+<font color="yellow">Greed can become one's downfall.</font>
+
+670
+00:48:13,213 --> 00:48:15,513
+<font color="yellow">That's what made me like this.</font>
+
+671
+00:48:15,973 --> 00:48:19,113
+<font color="yellow">Father, I don't want to give in to Gi Tan.</font>
+
+672
+00:48:19,313 --> 00:48:22,013
+<font color="yellow">You don't want to give in to Mr Hwang,</font>
+
+673
+00:48:22,413 --> 00:48:25,343
+<font color="yellow">but look at you now while he became president.</font>
+
+674
+00:48:29,043 --> 00:48:32,413
+<font color="yellow">Even if it means I go down with Gi Tan,</font>
+
+675
+00:48:32,413 --> 00:48:34,913
+<font color="yellow">I will not be defeated like you were.</font>
+
+676
+00:48:35,373 --> 00:48:36,513
+<font color="yellow">Goodbye.</font>
+
+677
+00:48:43,673 --> 00:48:47,143
+<font color="yellow">I think you should revoke his ownership.</font>
+
+678
+00:48:47,773 --> 00:48:50,873
+<font color="yellow">You just have to give the word and I'll...</font>
+
+679
+00:48:51,673 --> 00:48:53,273
+<font color="yellow">No.</font>
+
+680
+00:48:53,713 --> 00:48:54,873
+<font color="yellow">Sir.</font>
+
+681
+00:48:55,413 --> 00:48:56,573
+<font color="yellow">Gun Woo...</font>
+
+682
+00:48:59,143 --> 00:49:00,843
+<font color="yellow">Feel pity.</font>
+
+683
+00:49:06,543 --> 00:49:08,543
+<font color="yellow">Are you waiting for the informant to call?</font>
+
+684
+00:49:12,043 --> 00:49:13,873
+<font color="yellow">He's taking his time.</font>
+
+685
+00:49:14,573 --> 00:49:17,373
+<font color="yellow">Do you think something happened since then?</font>
+
+686
+00:49:20,773 --> 00:49:23,613
+<font color="yellow">The director of the lab, Jung Man Ok felt...</font>
+
+687
+00:49:23,613 --> 00:49:25,643
+<font color="yellow">the need to receive that money.</font>
+
+688
+00:49:26,443 --> 00:49:28,673
+<font color="yellow">Later, Man Ok became the director...</font>
+
+689
+00:49:28,673 --> 00:49:30,643
+<font color="yellow">and tried to get that money again.</font>
+
+690
+00:49:30,643 --> 00:49:33,473
+<font color="yellow">However, she failed because the late directors' son,</font>
+
+691
+00:49:33,473 --> 00:49:34,543
+<font color="yellow">Lee Guk Cheol, declined.</font>
+
+692
+00:49:36,743 --> 00:49:37,913
+<font color="yellow">I'm sure the informant...</font>
+
+693
+00:49:38,743 --> 00:49:40,673
+<font color="yellow">worked at Dodo Pharmaceutical at the time.</font>
+
+694
+00:49:40,773 --> 00:49:43,273
+<font color="yellow">Couldn't it be someone from Sudo Hospital?</font>
+
+695
+00:49:43,973 --> 00:49:45,343
+<font color="yellow">I was there at the time.</font>
+
+696
+00:49:45,973 --> 00:49:49,143
+<font color="yellow">Only the people on Jung Man Ok's team...</font>
+
+697
+00:49:49,143 --> 00:49:51,143
+<font color="yellow">knew about the investment.</font>
+
+698
+00:49:51,343 --> 00:49:55,243
+<font color="yellow">Gwang Woo was in charge of brokering the deal.</font>
+
+699
+00:49:55,243 --> 00:49:58,273
+<font color="yellow">Who worked with him at the time?</font>
+
+700
+00:49:58,273 --> 00:50:01,843
+<font color="yellow">Go Hae Sool, Chief Secretary of the Strategic Planning Department...</font>
+
+701
+00:50:01,843 --> 00:50:04,073
+<font color="yellow">and Dodo Group's Han Sang Goo.</font>
+
+702
+00:50:04,743 --> 00:50:06,513
+<font color="yellow">See what they've been up to.</font>
+
+703
+00:50:06,943 --> 00:50:09,743
+<font color="yellow">I want to know about their work and private life.</font>
+
+704
+00:50:09,743 --> 00:50:12,913
+<font color="yellow">Do you think 1 of those 2 men is the informant?</font>
+
+705
+00:50:13,343 --> 00:50:15,343
+<font color="yellow">He asked me for some time.</font>
+
+706
+00:50:16,273 --> 00:50:18,643
+<font color="yellow">There's a reason he can't give me...</font>
+
+707
+00:50:19,613 --> 00:50:20,943
+<font color="yellow">the files right away.</font>
+
+708
+00:50:22,143 --> 00:50:23,413
+<font color="yellow">I'll find out.</font>
+
+709
+00:50:30,613 --> 00:50:31,773
+<font color="yellow">What's wrong?</font>
+
+710
+00:50:43,913 --> 00:50:45,813
+<font color="yellow">Are you going blind again?</font>
+
+711
+00:50:52,473 --> 00:50:53,543
+<font color="yellow">No.</font>
+
+712
+00:50:54,313 --> 00:50:55,413
+<font color="yellow">I'm okay now.</font>
+
+713
+00:50:56,473 --> 00:50:59,373
+<font color="yellow">This won't do. You need a checkup.</font>
+
+714
+00:51:22,473 --> 00:51:23,643
+<font color="yellow">Let's go.</font>
+
+715
+00:51:32,573 --> 00:51:33,773
+<font color="yellow">What did the doctor say?</font>
+
+716
+00:51:36,113 --> 00:51:37,943
+<font color="yellow">It's temporary so I needn't worry.</font>
+
+717
+00:51:38,873 --> 00:51:41,613
+<font color="yellow">You two can go ahead. I'll take a walk.</font>
+
+718
+00:51:49,873 --> 00:51:51,373
+<font color="yellow">Did you ask the doctor?</font>
+
+719
+00:51:52,243 --> 00:51:54,973
+<font color="yellow">He said the same. That it's temporary.</font>
+
+720
+00:52:25,443 --> 00:52:27,143
+<font color="yellow">I will go blind?</font>
+
+721
+00:52:27,873 --> 00:52:28,913
+<font color="yellow">Yes.</font>
+
+722
+00:52:29,273 --> 00:52:31,943
+<font color="yellow">Is it because of the bullet in my head?</font>
+
+723
+00:52:32,513 --> 00:52:33,673
+<font color="yellow">No.</font>
+
+724
+00:52:33,673 --> 00:52:36,273
+<font color="yellow">Something went wrong with your transplanted cornea.</font>
+
+725
+00:52:37,943 --> 00:52:39,613
+<font color="yellow">Will another transplant...</font>
+
+726
+00:52:39,613 --> 00:52:42,073
+<font color="yellow">Your optic nerves are already damaged.</font>
+
+727
+00:52:42,073 --> 00:52:44,143
+<font color="yellow">Your vision will not improve.</font>
+
+728
+00:52:48,073 --> 00:52:49,113
+<font color="yellow">How long...</font>
+
+729
+00:52:50,543 --> 00:52:52,643
+<font color="yellow">do I have until I lose...</font>
+
+730
+00:52:53,443 --> 00:52:54,673
+<font color="yellow">my vision again?</font>
+
+731
+00:52:57,643 --> 00:52:59,113
+<font color="yellow">Maybe three months.</font>
+
+732
+00:52:59,113 --> 00:53:01,413
+<font color="yellow">You have six months at most.</font>
+
+733
+00:53:05,043 --> 00:53:06,543
+<font color="yellow">I'll be on my way.</font>
+
+734
+00:53:08,343 --> 00:53:09,443
+<font color="yellow">Soo Yeon.</font>
+
+735
+00:53:10,413 --> 00:53:12,813
+<font color="yellow">I don't think I can go after you any more.</font>
+
+736
+00:53:14,373 --> 00:53:15,473
+<font color="yellow">So...</font>
+
+737
+00:53:16,343 --> 00:53:18,043
+<font color="yellow">before I go blind,</font>
+
+738
+00:53:20,343 --> 00:53:22,143
+<font color="yellow">I want to see you a lot.</font>
+
+739
+00:53:25,373 --> 00:53:26,473
+<font color="yellow">You are...</font>
+
+740
+00:53:28,713 --> 00:53:30,513
+<font color="yellow">so beautiful, Soo Yeon.</font>
+
+741
+00:53:52,343 --> 00:53:56,573
+<font color="yellow">After visiting the cemetery, presidential elect Hwang Jae Man...</font>
+
+742
+00:53:56,573 --> 00:54:00,573
+<font color="yellow">headed to the press centre for the upcoming press conference.</font>
+
+743
+00:54:00,573 --> 00:54:03,113
+<font color="yellow">Mr Hwang plans to share his plans...</font>
+
+744
+00:54:03,113 --> 00:54:05,943
+<font color="yellow">to revive the economy and eradicate corruption...</font>
+
+745
+00:54:05,943 --> 00:54:08,873
+<font color="yellow">while he is in office.</font>
+
+746
+00:54:09,743 --> 00:54:10,743
+<font color="yellow">Turn it off.</font>
+
+747
+00:54:17,513 --> 00:54:19,513
+<font color="yellow">(Appoint Byun Il Jae prime minister.)</font>
+
+748
+00:54:21,943 --> 00:54:23,013
+<font color="yellow">(Prime minister)</font>
+
+749
+00:54:45,873 --> 00:54:48,313
+<font color="yellow">It all went too wrong.</font>
+
+750
+00:54:48,773 --> 00:54:51,113
+<font color="yellow">I don't know how to set things straight.</font>
+
+751
+00:54:53,043 --> 00:54:54,473
+<font color="yellow">You've been drinking too much.</font>
+
+752
+00:54:55,013 --> 00:54:56,313
+<font color="yellow">A little less drink...</font>
+
+753
+00:54:56,313 --> 00:54:58,243
+<font color="yellow">Drinking is the least of my problems!</font>
+
+754
+00:55:03,713 --> 00:55:06,573
+<font color="yellow">What's going on here?</font>
+
+755
+00:55:07,373 --> 00:55:09,873
+<font color="yellow">Are you getting drunk already?</font>
+
+756
+00:55:10,043 --> 00:55:11,243
+<font color="yellow">Why are you here?</font>
+
+757
+00:55:12,143 --> 00:55:15,743
+<font color="yellow">Have you heard that Gi Tan's taking over Dodo Group?</font>
+
+758
+00:55:16,973 --> 00:55:18,073
+<font color="yellow">What?</font>
+
+759
+00:55:18,443 --> 00:55:21,543
+<font color="yellow">It's no time to be getting drunk.</font>
+
+760
+00:55:21,543 --> 00:55:23,443
+<font color="yellow">If he loses the company,</font>
+
+761
+00:55:23,443 --> 00:55:26,613
+<font color="yellow">Gun Woo will give Soo Yeon whatever the Pandora's Box is!</font>
+
+762
+00:55:48,413 --> 00:55:49,573
+<font color="yellow">Where are you?</font>
+
+763
+00:55:50,113 --> 00:55:51,273
+<font color="yellow">Let's meet up.</font>
+
+764
+00:55:52,073 --> 00:55:54,143
+<font color="yellow">Why should I meet you?</font>
+
+765
+00:55:55,873 --> 00:55:57,043
+<font color="yellow">What does that mean?</font>
+
+766
+00:55:57,943 --> 00:56:00,243
+<font color="yellow">I don't have to see you ever again.</font>
+
+767
+00:56:00,243 --> 00:56:01,673
+<font color="yellow">Don't call me.</font>
+
+768
+00:56:03,313 --> 00:56:05,243
+<font color="yellow">I heard about the company.</font>
+
+769
+00:56:06,143 --> 00:56:09,473
+<font color="yellow">I have a great idea, so...</font>
+
+770
+00:56:09,473 --> 00:56:10,643
+<font color="yellow">It's all over.</font>
+
+771
+00:56:12,443 --> 00:56:15,143
+<font color="yellow">Don't even dream of persuading me.</font>
+
+772
+00:56:16,973 --> 00:56:20,843
+<font color="yellow">Gun Woo, what are you planning?</font>
+
+773
+00:56:25,973 --> 00:56:28,343
+<font color="yellow">Gun Woo. Gun Woo.</font>
+
+774
+00:56:34,973 --> 00:56:37,443
+<font color="yellow">Find out where Gun Woo is.</font>
+
+775
+00:56:37,813 --> 00:56:39,073
+<font color="yellow">There's no need to.</font>
+
+776
+00:56:40,613 --> 00:56:43,913
+<font color="yellow">I talked to Mr Han. The Pandora's Box...</font>
+
+777
+00:56:44,143 --> 00:56:46,273
+<font color="yellow">is inside Gun Woo's safe.</font>
+
+778
+00:56:46,273 --> 00:56:49,413
+<font color="yellow">I'll get my hands on it very soon. Just wait.</font>
+
+779
+00:56:49,973 --> 00:56:52,143
+<font color="yellow">We checked the safe already.</font>
+
+780
+00:56:52,143 --> 00:56:54,473
+<font color="yellow">It was empty. What are you talking about?</font>
+
+781
+00:56:55,013 --> 00:56:57,873
+<font color="yellow">What? Wait... Mr Han...</font>
+
+782
+00:56:57,873 --> 00:57:00,013
+<font color="yellow">Did he lie to me again?</font>
+
+783
+00:57:06,273 --> 00:57:08,513
+<font color="yellow">Choong Dong, I need you to...</font>
+
+784
+00:57:08,513 --> 00:57:09,773
+<font color="yellow">call the guys.</font>
+
+785
+00:57:10,443 --> 00:57:11,613
+<font color="yellow">Yes, Sir.</font>
+
+786
+00:57:22,273 --> 00:57:24,973
+<font color="yellow">Can we talk for a moment?</font>
+
+787
+00:57:24,973 --> 00:57:26,273
+<font color="yellow">I have nothing to say to you.</font>
+
+788
+00:57:26,613 --> 00:57:28,213
+<font color="yellow">I have something to say.</font>
+
+789
+00:57:31,273 --> 00:57:32,673
+<font color="yellow">I thought about it...</font>
+
+790
+00:57:32,973 --> 00:57:35,313
+<font color="yellow">and I don't know what I did wrong.</font>
+
+791
+00:57:36,513 --> 00:57:38,573
+<font color="yellow">I did all I could to save the company.</font>
+
+792
+00:57:38,573 --> 00:57:40,113
+<font color="yellow">And to win your heart.</font>
+
+793
+00:57:41,313 --> 00:57:42,573
+<font color="yellow">What's wrong about that?</font>
+
+794
+00:57:43,073 --> 00:57:44,513
+<font color="yellow">You deceived me.</font>
+
+795
+00:57:44,513 --> 00:57:45,943
+<font color="yellow">I did not.</font>
+
+796
+00:57:45,943 --> 00:57:47,673
+<font color="yellow">If you had given me time,</font>
+
+797
+00:57:47,673 --> 00:57:49,313
+<font color="yellow">I'd have given you the proof...</font>
+
+798
+00:57:49,673 --> 00:57:51,443
+<font color="yellow">to send Il Jae to prison.</font>
+
+799
+00:57:52,143 --> 00:57:56,043
+<font color="yellow">You can say all you want, but I can't trust you any more.</font>
+
+800
+00:57:57,613 --> 00:57:59,273
+<font color="yellow">I just can't.</font>
+
+801
+00:58:03,213 --> 00:58:04,543
+<font color="yellow">I will give you...</font>
+
+802
+00:58:05,313 --> 00:58:06,673
+<font color="yellow">what you want, Soo Yeon.</font>
+
+803
+00:58:07,773 --> 00:58:09,213
+<font color="yellow">The Pandora's Box.</font>
+
+804
+00:58:10,743 --> 00:58:13,343
+<font color="yellow">Are you the one who had that?</font>
+
+805
+00:58:14,843 --> 00:58:16,643
+<font color="yellow">I won't give you up, Soo Yeon.</font>
+
+806
+00:58:25,743 --> 00:58:26,743
+<font color="yellow">Did you find something?</font>
+
+807
+00:58:27,113 --> 00:58:31,073
+<font color="yellow">Go Hae Sool moved to the US, but I'm suspicious of Han Sang Goo.</font>
+
+808
+00:58:31,313 --> 00:58:32,313
+<font color="yellow">What do you mean?</font>
+
+809
+00:58:32,413 --> 00:58:35,813
+<font color="yellow">He just put out his apartment for an urgent sale.</font>
+
+810
+00:58:36,573 --> 00:58:39,973
+<font color="yellow">His wife and daughter suddenly moved to Canada a few days ago.</font>
+
+811
+00:58:44,043 --> 00:58:46,213
+<font color="yellow">I think you're right, Boss.</font>
+
+812
+00:58:47,113 --> 00:58:49,473
+<font color="yellow">We'll buy his apartment.</font>
+
+813
+00:58:49,613 --> 00:58:50,643
+<font color="yellow">Pardon?</font>
+
+814
+00:58:52,113 --> 00:58:53,613
+<font color="yellow">Oh, okay.</font>
+
+815
+00:58:55,413 --> 00:58:58,813
+<font color="yellow">I want to be there, but I need to sell the place first.</font>
+
+816
+00:59:01,473 --> 00:59:04,643
+<font color="yellow">I'll go over to Canada as soon as everything is settled.</font>
+
+817
+01:00:16,543 --> 01:00:19,073
+<font color="yellow">Okay. I'll get five million dollars and leave.</font>
+
+818
+01:00:19,843 --> 01:00:23,773
+<font color="yellow">I've had enough of this life.</font>
+
+819
+01:00:29,313 --> 01:00:30,313
+<font color="yellow">Yes.</font>
+
+820
+01:00:30,573 --> 01:00:31,943
+<font color="yellow">I'm the real estate agent.</font>
+
+821
+01:00:32,473 --> 01:00:34,673
+<font color="yellow">Right, does someone want to buy my apartment?</font>
+
+822
+01:00:40,143 --> 01:00:43,273
+<font color="yellow">They want to sign the papers today.</font>
+
+823
+01:00:44,243 --> 01:00:45,443
+<font color="yellow">I see.</font>
+
+824
+01:00:46,243 --> 01:00:47,873
+<font color="yellow">It'll take him about an hour.</font>
+
+825
+01:00:47,873 --> 01:00:48,873
+<font color="yellow">We're fine.</font>
+
+826
+01:00:49,613 --> 01:00:50,713
+<font color="yellow">They will wait.</font>
+
+827
+01:00:51,213 --> 01:00:52,213
+<font color="yellow">Sure.</font>
+
+828
+01:00:53,113 --> 01:00:54,413
+<font color="yellow">- Please, sit. - Sure.</font>
+
+829
+01:00:58,843 --> 01:00:59,913
+<font color="yellow">Why are you so surprised?</font>
+
+830
+01:01:00,413 --> 01:01:04,613
+<font color="yellow">Anyone would get surprised if you suddenly stand from behind.</font>
+
+831
+01:01:04,943 --> 01:01:07,043
+<font color="yellow">Are you selling your apartment?</font>
+
+832
+01:01:07,143 --> 01:01:08,143
+<font color="yellow">What?</font>
+
+833
+01:01:08,543 --> 01:01:10,143
+<font color="yellow">Oh, yes.</font>
+
+834
+01:01:10,243 --> 01:01:12,143
+<font color="yellow">You just moved there.</font>
+
+835
+01:01:12,643 --> 01:01:16,213
+<font color="yellow">Mr Kim, I have an urgent business. I have to go right now.</font>
+
+836
+01:01:16,413 --> 01:01:18,143
+<font color="yellow">Please tell the chairman for me.</font>
+
+837
+01:01:35,843 --> 01:01:39,573
+<font color="yellow">Auxiliary power is on. Safe unlocked.</font>
+
+838
+01:01:52,543 --> 01:01:54,943
+<font color="yellow">Do you still have the Pandora's Box?</font>
+
+839
+01:01:55,443 --> 01:01:56,573
+<font color="yellow">Did you do this?</font>
+
+840
+01:01:57,313 --> 01:01:59,913
+<font color="yellow">- What? - Did you steal it?</font>
+
+841
+01:02:04,113 --> 01:02:05,573
+<font color="yellow">Han Sang Goo did steal it.</font>
+
+842
+01:02:05,943 --> 01:02:08,043
+<font color="yellow">Are you sure he's at the office?</font>
+
+843
+01:02:08,043 --> 01:02:09,843
+<font color="yellow">I checked in on him just now.</font>
+
+844
+01:02:24,043 --> 01:02:25,043
+<font color="yellow">(Chairman)</font>
+
+845
+01:02:28,043 --> 01:02:29,873
+<font color="yellow">Mr Han, wait.</font>
+
+846
+01:02:33,243 --> 01:02:34,243
+<font color="yellow">Stop.</font>
+
+847
+01:02:35,213 --> 01:02:36,613
+<font color="yellow">- Let's go. - Yes.</font>
+
+848
+01:03:00,313 --> 01:03:01,313
+<font color="yellow">That's Han Sang Goo.</font>
+
+849
+01:03:02,143 --> 01:03:03,143
+<font color="yellow">Follow him.</font>
+
+850
+01:03:09,543 --> 01:03:11,443
+<font color="yellow">Chairman, that's Il Jae.</font>
+
+851
+01:03:13,313 --> 01:03:14,843
+<font color="yellow">The car behind him is with him, too.</font>
+
+852
+01:03:15,643 --> 01:03:18,573
+<font color="yellow">I don't care who it is. I won't let anyone take it away.</font>
+
+853
+01:03:18,943 --> 01:03:19,943
+<font color="yellow">Get closer.</font>
+
+854
+01:03:19,973 --> 01:03:20,973
+<font color="yellow">Yes, Chairman.</font>
+
+855
+01:03:30,643 --> 01:03:32,143
+<font color="yellow">My goodness.</font>
+
+856
+01:03:38,573 --> 01:03:39,573
+<font color="yellow">It's Gun Woo.</font>
+
+857
+01:04:00,713 --> 01:04:01,773
+<font color="yellow">Chairman.</font>
+
+858
+01:04:07,343 --> 01:04:08,343
+<font color="yellow">Hello?</font>
+
+859
+01:04:08,743 --> 01:04:10,713
+<font color="yellow">I'm Han Sang Goo.</font>
+
+860
+01:04:12,213 --> 01:04:14,673
+<font color="yellow">I am the informant behind the Pandora's Box.</font>
+
+861
+01:04:15,213 --> 01:04:17,543
+<font color="yellow">Will you send me the money as promised?</font>
+
+862
+01:04:19,513 --> 01:04:20,513
+<font color="yellow">Of course.</font>
+
+863
+01:04:20,513 --> 01:04:24,413
+<font color="yellow">Il Jae and Gun Woo are chasing after me right now.</font>
+
+864
+01:04:25,973 --> 01:04:29,213
+<font color="yellow">If you don't save me right now, they will take the Pandora's Box.</font>
+
+865
+01:04:29,943 --> 01:04:31,643
+<font color="yellow">Please save me, Chairman Kang!</font>
+
+866
+01:04:32,943 --> 01:04:33,943
+<font color="yellow">Where are you?</font>
+

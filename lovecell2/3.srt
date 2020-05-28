@@ -1,0 +1,738 @@
+1
+00:00:00,000 --> 00:00:04,000
+<font color="yellow"><font color=#3300cc>DMsubs</font>
+<font color=#000000>M.</font><font color=#ff0033>A.</font><font color=#33ff66>D.</font><font color=#cc9933>E</font></font>
+
+2
+00:00:01,403 --> 00:00:04,383
+<font color="yellow"><i>[Love Cells Season 2]</i>
+<i>Tidak ada cahaya.</i></font>
+
+3
+00:00:04,383 --> 00:00:06,788
+<font color="yellow"><i>Tidak ada kegelapan.</i></font>
+
+4
+00:00:06,788 --> 00:00:08,449
+<font color="yellow"><i>Tidak ada harapan.</i></font>
+
+5
+00:00:12,823 --> 00:00:15,282
+<font color="yellow">Dia kucing gila itu?</font>
+
+6
+00:00:15,282 --> 00:00:16,829
+<font color="yellow">Ya benar , dia.</font>
+
+7
+00:00:16,829 --> 00:00:18,530
+<font color="yellow">Dia kucing.</font>
+
+8
+00:00:23,803 --> 00:00:26,449
+<font color="yellow">Semua orang, keluar.</font>
+
+9
+00:00:42,277 --> 00:00:44,756
+<font color="yellow">Apakah Kau sel cinta Park Tae Joon?</font>
+
+10
+00:00:47,186 --> 00:00:50,859
+<font color="yellow">Apakah kau bertanya karena Kau tidak tahu, atau Hanya ingin mengkonfirmasi Saja?</font>
+
+11
+00:00:50,859 --> 00:00:53,540
+<font color="yellow">Hei, Apa kau ingin hidup?</font>
+
+12
+00:00:58,219 --> 00:01:02,103
+<font color="yellow">Haruskah Aku menyelamatkanmu?</font>
+
+13
+00:01:05,579 --> 00:01:07,171
+<font color="yellow">Pergi Saja!</font>
+
+14
+00:01:08,057 --> 00:01:11,224
+<font color="yellow">Aku melakukan apa yang hatiku inginkan.</font>
+
+15
+00:01:11,224 --> 00:01:13,638
+<font color="yellow">Aku tidak membuat penawaran.</font>
+
+16
+00:01:20,670 --> 00:01:22,938
+<font color="yellow">Aku pasti sudah gila.</font>
+
+17
+00:01:22,938 --> 00:01:26,674
+<font color="yellow">Aku mengancammu karena aku mencintaimu.</font>
+
+18
+00:01:26,674 --> 00:01:31,894
+<font color="yellow">Hei, aku Terlihat menyedihkan bahkan di matamu.</font>
+
+19
+00:01:33,954 --> 00:01:35,751
+<font color="yellow">Yah ...</font>
+
+20
+00:01:35,751 --> 00:01:37,009
+<font color="yellow">Sedikit.</font>
+
+21
+00:01:37,009 --> 00:01:39,891
+<font color="yellow">Aigoo.</font>
+
+22
+00:01:39,891 --> 00:01:42,522
+<font color="yellow">Tidak ada yang berhasil dalam hidupku.</font>
+
+23
+00:01:43,364 --> 00:01:45,694
+<font color="yellow">Aku bekerja keras selama sepuluh tahun untuk menjadi seorang aktris.</font>
+
+24
+00:01:45,694 --> 00:01:47,688
+<font color="yellow">Tapi aku belum pernah Berperan protagonis.</font>
+
+25
+00:01:49,771 --> 00:01:54,424
+<font color="yellow">Rasanya seperti seluruh dunia Telah meninggalkanku.</font>
+
+26
+00:01:54,424 --> 00:01:57,219
+<font color="yellow">Aku akhirnya bertemu seseorang yang Hebat.</font>
+
+27
+00:01:57,219 --> 00:02:01,055
+<font color="yellow">Tapi ia tidak memiliki sel cinta!</font>
+
+28
+00:02:04,358 --> 00:02:06,518
+<font color="yellow">Aku ditinggalkan juga.</font>
+
+29
+00:02:13,811 --> 00:02:16,120
+<font color="yellow">Kau bawa dirimu sendiri.</font>
+
+30
+00:02:18,402 --> 00:02:20,480
+<font color="yellow">Kembalilah ke Tae Joon.</font>
+
+31
+00:02:20,480 --> 00:02:24,318
+<font color="yellow">Kembalilah dan buat dia mencintaiku.</font>
+
+32
+00:02:25,937 --> 00:02:27,158
+<font color="yellow">Kau?</font>
+
+33
+00:02:27,158 --> 00:02:28,936
+<font color="yellow">Kau sel cintanya.</font>
+
+34
+00:02:28,936 --> 00:02:32,456
+<font color="yellow">buatlah Tae Joon mencintaiku.</font>
+
+35
+00:02:32,456 --> 00:02:35,591
+<font color="yellow">Wanita gila! Dia gila!</font>
+
+36
+00:02:35,591 --> 00:02:37,897
+<font color="yellow">Teruslah dikurung.</font>
+
+37
+00:02:37,897 --> 00:02:39,729
+<font color="yellow">- Tunggu Sebentar!
+- Lupakan.</font>
+
+38
+00:02:39,729 --> 00:02:42,075
+<font color="yellow">Tunggu! Aku butuh waktu untuk berpikir!</font>
+
+39
+00:02:42,075 --> 00:02:44,862
+<font color="yellow">Hanya bunuhlah saja. Jadi dia tidak bisa berpikir!</font>
+
+40
+00:02:44,862 --> 00:02:47,411
+<font color="yellow">Tidak! Guru! Aku akan mencoba!</font>
+
+41
+00:02:47,411 --> 00:02:48,481
+<font color="yellow">mencoba?</font>
+
+42
+00:02:48,481 --> 00:02:50,947
+<font color="yellow">Tidak, Maksudku aku akan!</font>
+
+43
+00:02:50,947 --> 00:02:53,944
+<font color="yellow">Aku akan berhasil!
+Hidupku tergantung pada itu!</font>
+
+44
+00:02:57,250 --> 00:03:00,009
+<font color="yellow">Selamatkan aku. Tolong!</font>
+
+45
+00:03:02,665 --> 00:03:04,401
+<font color="yellow">Aku berjanji.</font>
+
+46
+00:03:04,401 --> 00:03:07,189
+<font color="yellow">Mari kita menandatangani kontraknya.</font>
+
+47
+00:03:07,200 --> 00:03:18,000
+<font color="yellow">Diterjemahkan oleh
+<font color=#cc9933>DeeMau</font></font>
+
+48
+00:03:19,842 --> 00:03:22,283
+<font color="yellow"><i>[Love Cells, Season 2]</i></font>
+
+49
+00:03:22,283 --> 00:03:23,792
+<font color="yellow"><i>[Bank Sel Cinta]</i></font>
+
+50
+00:03:25,597 --> 00:03:27,983
+<font color="yellow">Jika Kau tidak mendengarkan</font>
+
+51
+00:03:27,983 --> 00:03:30,453
+<font color="yellow">Maka , Aku akan tekan ini.</font>
+
+52
+00:03:30,453 --> 00:03:34,984
+<font color="yellow">Ini akan mengirimkan arus 20 Ribu volt dan Kau akan mati.</font>
+
+53
+00:03:34,984 --> 00:03:36,913
+<font color="yellow">Ini 2 Ribu volt.</font>
+
+54
+00:03:38,723 --> 00:03:41,133
+<font color="yellow">Jika tidak ada hasil</font>
+
+55
+00:03:41,133 --> 00:03:43,043
+<font color="yellow">Aku masih akan menekan ini.</font>
+
+56
+00:03:43,043 --> 00:03:45,700
+<font color="yellow">Maka arus 2 Ribu volt akan berjalan melaluimu.</font>
+
+57
+00:03:45,700 --> 00:03:49,193
+<font color="yellow">Kau akan mati bahkan sebelum Kau bisa mengatakan "meow."</font>
+
+58
+00:03:49,193 --> 00:03:52,912
+<font color="yellow">Bolehkah Aku menghubungi Unniku?</font>
+
+59
+00:03:54,331 --> 00:03:58,556
+<font color="yellow">Aku tidak bisa menjadi Dongsaeng - unni dengan organisme sel tunggal belaka.</font>
+
+60
+00:03:59,456 --> 00:04:01,800
+<font color="yellow">Oke, Ahjumma.</font>
+
+61
+00:04:01,800 --> 00:04:03,528
+<font color="yellow">Ahjumma!</font>
+
+62
+00:04:05,418 --> 00:04:06,741
+<font color="yellow">Jangan bergerak.</font>
+
+63
+00:04:08,323 --> 00:04:10,393
+<font color="yellow">Aissh.</font>
+
+64
+00:04:10,393 --> 00:04:12,634
+<font color="yellow">Apa yang Ku katakan adalah ...</font>
+
+65
+00:04:12,634 --> 00:04:17,447
+<font color="yellow">Mereka bisa membawaku keluar dari tubuh manusia, tapi tidak bisa keluar dari kucing.</font>
+
+66
+00:04:17,447 --> 00:04:20,947
+<font color="yellow">Apa yang mereka sebut? D ...</font>
+
+67
+00:04:20,947 --> 00:04:23,095
+<font color="yellow">DNA yang berbeda!</font>
+
+68
+00:04:23,095 --> 00:04:26,194
+<font color="yellow">Nah, Aku mengatakan yang sebenarnya.</font>
+
+69
+00:04:36,850 --> 00:04:38,891
+<font color="yellow">Hei!</font>
+
+70
+00:04:38,891 --> 00:04:42,913
+<font color="yellow">Wanita benci pria yang membuang hal-hal pada mereka!</font>
+
+71
+00:04:42,913 --> 00:04:44,975
+<font color="yellow">Apakah Kau ingat Kenapa dia putus denganmu?</font>
+
+72
+00:04:51,714 --> 00:04:54,425
+<font color="yellow">Tae Joon, mari kita bicara.</font>
+
+73
+00:04:54,425 --> 00:04:56,158
+<font color="yellow">Ini benar-benar Melelahkan....</font>
+
+74
+00:05:16,632 --> 00:05:19,908
+<font color="yellow">terlalu rumit untuk kehidupan  organisme sel tunggal memahaminya.</font>
+
+75
+00:05:22,115 --> 00:05:23,608
+<font color="yellow">Ye Bom.</font>
+
+76
+00:05:23,608 --> 00:05:28,040
+<font color="yellow">Ada seseorang yang tuli sejak lahir.</font>
+
+77
+00:05:28,040 --> 00:05:31,764
+<font color="yellow">Bagaimana Kau menjelaskan musik Pada orang itu?</font>
+
+78
+00:05:31,764 --> 00:05:34,053
+<font color="yellow">Mereka tidak akan menanyakan pertanyaan.</font>
+
+79
+00:05:34,053 --> 00:05:36,569
+<font color="yellow">Mereka mungkin! Lihatlah?</font>
+
+80
+00:05:36,569 --> 00:05:40,398
+<font color="yellow">Ini adalah tren di kalangan perusahaan besar. Mengajukan pertanyaan yang tak terjawab.</font>
+
+81
+00:05:40,398 --> 00:05:42,663
+<font color="yellow">Oke, katakanlah mereka meminta Aku untuk itu.</font>
+
+82
+00:05:42,663 --> 00:05:45,211
+<font color="yellow">- Apa jawabanmu, Yoon Hwan?
+- Nah.</font>
+
+83
+00:05:53,238 --> 00:05:54,571
+<font color="yellow">Ini.</font>
+
+84
+00:05:54,571 --> 00:05:58,488
+<font color="yellow">Satu-satunya suara di dunia yang membuat detak jantungmu.</font>
+
+85
+00:05:58,488 --> 00:06:00,209
+<font color="yellow">Adalah musik.</font>
+
+86
+00:06:04,605 --> 00:06:06,906
+<font color="yellow">Aku berharap mereka meminta pertanyaan itu padaku.</font>
+
+87
+00:06:06,906 --> 00:06:08,898
+<font color="yellow">Jadi Aku bisa mendapatkan pekerjaan yang sangat baik!</font>
+
+88
+00:06:10,976 --> 00:06:14,334
+<font color="yellow">yang Satu ini baik untuk kulit keringmu.</font>
+
+89
+00:06:18,439 --> 00:06:20,420
+<font color="yellow">Kau masih belum menjawab .</font>
+
+90
+00:06:21,288 --> 00:06:23,060
+<font color="yellow">Aku memintamu pergi keluar denganku.</font>
+
+91
+00:06:24,262 --> 00:06:26,338
+<font color="yellow">Tak ada satu pun dari kita memiliki pekerjaan tetap.</font>
+
+92
+00:06:26,338 --> 00:06:28,338
+<font color="yellow">- Terus Kenapa..
+- Mari kita lakukan.</font>
+
+93
+00:06:28,338 --> 00:06:29,843
+<font color="yellow">Ada baiknya kita memiliki waktu yang Banyak.</font>
+
+94
+00:06:29,843 --> 00:06:32,608
+<font color="yellow">Dan ketika kita mendapatkan pekerjaan, kita akan senang untuk satu sama lain.</font>
+
+95
+00:06:34,005 --> 00:06:36,903
+<font color="yellow">Hari ini adalah hari pertama kita, oke?</font>
+
+96
+00:06:39,230 --> 00:06:41,966
+<font color="yellow">Nanti! Aku bilang Nanti aku akan melakukannya !</font>
+
+97
+00:06:41,966 --> 00:06:44,389
+<font color="yellow">Berhenti mengatakan nanti.</font>
+
+98
+00:06:44,389 --> 00:06:45,863
+<font color="yellow">Membuatku sakit .</font>
+
+99
+00:06:52,990 --> 00:06:56,696
+<font color="yellow">Kenapa Kau memintaku keluar duduk seperti ini?</font>
+
+100
+00:06:56,696 --> 00:06:58,696
+<font color="yellow">Ini tidak keren.</font>
+
+101
+00:07:01,690 --> 00:07:04,447
+<font color="yellow">Ye Bom! Pergi keluar denganku!</font>
+
+102
+00:07:10,233 --> 00:07:12,338
+<font color="yellow">Berikutnya adalah steak.</font>
+
+103
+00:07:12,338 --> 00:07:13,963
+<font color="yellow">Wow! hebat!</font>
+
+104
+00:07:13,963 --> 00:07:15,353
+<font color="yellow">luar biasa!</font>
+
+105
+00:07:15,353 --> 00:07:17,892
+<font color="yellow">Makanan adalah seni seperti koki yang membuatnya.</font>
+
+106
+00:07:17,892 --> 00:07:21,377
+<font color="yellow">Restoran kita tidak menyuap blogger dengan makanan.</font>
+
+107
+00:07:21,377 --> 00:07:23,262
+<font color="yellow">Kau terlalu hebat, Chef!</font>
+
+108
+00:07:23,262 --> 00:07:25,646
+<font color="yellow">Apakah kau tahu berapa banyak pengikut yang kita miliki?</font>
+
+109
+00:07:25,646 --> 00:07:26,997
+<font color="yellow">lebih dari 100 juta!</font>
+
+110
+00:07:26,997 --> 00:07:29,896
+<font color="yellow">Betul. Kita Bukan sembarang blogger.</font>
+
+111
+00:07:29,896 --> 00:07:33,168
+<font color="yellow">Kita adalah blogger paling kuat.</font>
+
+112
+00:07:33,168 --> 00:07:35,528
+<font color="yellow">Makanan Bukan seni, Tapi jiwa.</font>
+
+113
+00:07:35,528 --> 00:07:40,733
+<font color="yellow">Aku tidak pernah menyuap siapa pun dengan makanan.</font>
+
+114
+00:07:40,733 --> 00:07:42,548
+<font color="yellow">Baru saja Jantungku berdetak kencang.</font>
+
+115
+00:07:42,548 --> 00:07:44,117
+<font color="yellow">Kita mencintai kamu.</font>
+
+116
+00:07:44,117 --> 00:07:48,668
+<font color="yellow">Ngomong-ngomong, apakah Kau benar-benar tidak melihat siapa pun?</font>
+
+117
+00:07:48,668 --> 00:07:51,026
+<font color="yellow">Haruskah aku melihat seseorang?</font>
+
+118
+00:07:51,026 --> 00:07:53,012
+<font color="yellow">Kau terlalu banyak!</font>
+
+119
+00:07:53,012 --> 00:07:56,747
+<font color="yellow">Chef, hidangan ini begitu cantik. Apa namanya?</font>
+
+120
+00:07:56,747 --> 00:08:00,223
+<font color="yellow">Hidangan ini? Kau merasa bahagia ketika Kau memakannya.</font>
+
+121
+00:08:00,223 --> 00:08:02,958
+<font color="yellow">Jadi itu bernama "Kamu menjadi bahagia."</font>
+
+122
+00:08:02,958 --> 00:08:06,641
+<font color="yellow">- Itu sebabnya Aku merasa   senang sekarang!
+- Aku merasa senang juga!</font>
+
+123
+00:08:06,641 --> 00:08:08,754
+<font color="yellow">- Tolong.
+- Tae Joon!</font>
+
+124
+00:08:08,754 --> 00:08:09,995
+<font color="yellow">Eh?</font>
+
+125
+00:08:11,420 --> 00:08:13,857
+<font color="yellow">Eh? Kau!</font>
+
+126
+00:08:13,857 --> 00:08:16,233
+<font color="yellow">Aku minta maaf, Oppa.</font>
+
+127
+00:08:16,233 --> 00:08:18,257
+<font color="yellow">Aku akan melakukan lebih baik.</font>
+
+128
+00:08:18,257 --> 00:08:20,564
+<font color="yellow">Aku tidak akan mengganggumu lagi.</font>
+
+129
+00:08:21,461 --> 00:08:23,389
+<font color="yellow">Oh tunggu Sebentar!</font>
+
+130
+00:08:23,389 --> 00:08:24,649
+<font color="yellow">Tunggu sebentar!</font>
+
+131
+00:08:24,649 --> 00:08:26,603
+<font color="yellow">Permisi. Tidak seperti itu.</font>
+
+132
+00:08:26,603 --> 00:08:27,896
+<font color="yellow">Tidak seperti itu.</font>
+
+133
+00:08:30,625 --> 00:08:33,996
+<font color="yellow">Jangan tinggalkan aku!
+Oppa</font>
+
+134
+00:08:33,996 --> 00:08:36,293
+<font color="yellow">Dia berkata "Jangan tinggalkan aku."</font>
+
+135
+00:08:36,293 --> 00:08:38,095
+<font color="yellow">Jangan panggil Aku Oppamu!</font>
+
+136
+00:08:38,095 --> 00:08:40,408
+<font color="yellow">Dia memanggilnya Oppa.</font>
+
+137
+00:08:40,408 --> 00:08:43,578
+<font color="yellow">- Dia hanya--
+- Kau!</font>
+
+138
+00:08:43,578 --> 00:08:46,211
+<font color="yellow">- Dia ...
+- Jangan membuatku menangis.</font>
+
+139
+00:08:46,211 --> 00:08:47,556
+<font color="yellow">Dia adalah kucing!</font>
+
+140
+00:08:47,556 --> 00:08:49,164
+<font color="yellow">Kucing?</font>
+
+141
+00:08:49,164 --> 00:08:51,624
+<font color="yellow">Apa yang Kau katakan? Kucing?</font>
+
+142
+00:08:51,624 --> 00:08:54,187
+<font color="yellow">Omong kosong apa ini ?
+Oppa ?</font>
+
+143
+00:08:54,187 --> 00:08:55,344
+<font color="yellow">Hei!</font>
+
+144
+00:08:55,344 --> 00:08:57,619
+<font color="yellow">Kau merusak bisnisku!</font>
+
+145
+00:08:57,619 --> 00:08:59,899
+<font color="yellow">Omo!</font>
+
+146
+00:08:59,899 --> 00:09:02,399
+<font color="yellow">Apakah kita orang asing?</font>
+
+147
+00:09:02,399 --> 00:09:05,774
+<font color="yellow">Aku kira kau melihat seseorang.</font>
+
+148
+00:09:05,774 --> 00:09:08,783
+<font color="yellow">Aku pikir blog kita akan memukul sesuatu yang besar!</font>
+
+149
+00:09:08,783 --> 00:09:10,610
+<font color="yellow">- Aku tahu!
+- Apakah kau mengambilnya?</font>
+
+150
+00:09:10,610 --> 00:09:13,217
+<font color="yellow">Kau tahu kami tidak menyuap dengan makanan.</font>
+
+151
+00:09:13,217 --> 00:09:16,072
+<font color="yellow">- makanlah di rumah hari ini.
+- Oh?</font>
+
+152
+00:09:16,072 --> 00:09:19,278
+<font color="yellow">Aku adiknya.</font>
+
+153
+00:09:19,278 --> 00:09:20,774
+<font color="yellow">Adik perempuan?</font>
+
+154
+00:09:21,879 --> 00:09:23,736
+<font color="yellow">Aku minta maaf, Oppa.</font>
+
+155
+00:09:23,736 --> 00:09:27,264
+<font color="yellow">Aku tidak akan cerewet lagi Setelah kau menikah.</font>
+
+156
+00:09:27,264 --> 00:09:29,933
+<font color="yellow">Aku akan pergi diam-diam.</font>
+
+157
+00:09:33,272 --> 00:09:36,375
+<font color="yellow">Dia adikku. Adik kandungku.</font>
+
+158
+00:09:36,375 --> 00:09:37,676
+<font color="yellow">Aku kira Aku salah paham.</font>
+
+159
+00:09:37,676 --> 00:09:41,149
+<font color="yellow">Tunggulah aku di lantai bawah, adikku.</font>
+
+160
+00:09:42,682 --> 00:09:45,544
+<font color="yellow">Atau Kau bisa tinggal di sini.</font>
+
+161
+00:09:45,544 --> 00:09:47,292
+<font color="yellow">Aku bisa melakukan itu, Oppa?</font>
+
+162
+00:10:13,643 --> 00:10:16,126
+<font color="yellow">Satu dua tiga!</font>
+
+163
+00:10:16,126 --> 00:10:18,768
+<font color="yellow">- Satu dua tiga!
+- Oppa !</font>
+
+164
+00:10:18,768 --> 00:10:20,096
+<font color="yellow">Kesinilah, Oppa!</font>
+
+165
+00:10:20,096 --> 00:10:21,249
+<font color="yellow">Tidak, terima Kasih.</font>
+
+166
+00:10:21,249 --> 00:10:22,591
+<font color="yellow">Kesini!</font>
+
+167
+00:10:22,591 --> 00:10:25,254
+<font color="yellow">- Mari kita mengambil foto!
+- Tolong !</font>
+
+168
+00:10:26,865 --> 00:10:28,235
+<font color="yellow">Datanglah!</font>
+
+169
+00:10:32,864 --> 00:10:35,173
+<font color="yellow">Kau menghalangiku.</font>
+
+170
+00:10:35,173 --> 00:10:37,325
+<font color="yellow">Minggir!</font>
+
+171
+00:10:37,325 --> 00:10:39,403
+<font color="yellow">Maaf Maaf.</font>
+
+172
+00:10:39,403 --> 00:10:40,759
+<font color="yellow">Lanjutkanlah.</font>
+
+173
+00:10:40,759 --> 00:10:43,764
+<font color="yellow">Satu dua tiga!</font>
+
+174
+00:10:45,664 --> 00:10:48,039
+<font color="yellow">Aku akan membunuhmu!</font>
+
+175
+00:10:48,039 --> 00:10:51,395
+<font color="yellow">Aku mempertaruhkan hidupku untuk ini!</font>
+
+176
+00:10:51,395 --> 00:10:53,913
+<font color="yellow">Ayolah! Tersenyum!</font>
+
+177
+00:10:53,913 --> 00:10:55,826
+<font color="yellow">Apakah kau tidak akan beriklan di restoranmu?</font>
+
+178
+00:10:55,826 --> 00:10:57,892
+<font color="yellow">Tersenyum!</font>
+
+179
+00:10:59,529 --> 00:11:09,529
+<font color="yellow">Diterjemahkan oleh
+<font color=#cc9933>DeeMau</font></font>
+
+180
+00:11:13,168 --> 00:11:15,168
+<font color="yellow"><i>[Love Cells, Season 2]</i></font>
+
